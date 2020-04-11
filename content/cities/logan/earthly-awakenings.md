@@ -1,0 +1,4 @@
+---
+title: "Earthly Awakenings"
+url: /logan/earthly-awakenings/
+---

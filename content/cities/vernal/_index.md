@@ -1,6 +1,6 @@
 ---
 title: Vernal
 url: /vernal/
-latitude: 40.4557194
-longitude: -109.52853730000001
+latitude: 40.4556825
+longitude: -109.52847410000001
 ---

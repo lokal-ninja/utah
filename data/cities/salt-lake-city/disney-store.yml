@@ -1,6 +1,5 @@
 id: 2333395735
 type: node
-shop: department store
 latitude: 40.7679337
 longitude: -111.8898671
 postcode: "84101"
@@ -9,4 +8,4 @@ street: "Main Street"
 housenumber: 51
 phone: "+1-801-532-2353"
 opening_hours: ""
-website: "https://stores.shopdisney.com/ut/salt-lake-city/869/?utm_source=Disney+Store&utm_medium=Website&utm_campaign=Store+Locator"
+website: "https://stores.shopdisney.com/ut/salt-lake-city/869/"

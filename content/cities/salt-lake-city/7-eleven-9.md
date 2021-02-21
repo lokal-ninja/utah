@@ -1,4 +1,5 @@
 ---
 title: "7-Eleven"
 url: /salt-lake-city/7-eleven-9/
+shop: convenience
 ---

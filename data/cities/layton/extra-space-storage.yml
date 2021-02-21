@@ -1,6 +1,5 @@
 id: 7692851799
 type: node
-shop: storage rental
 latitude: 41.089945900000004
 longitude: -111.9997955
 postcode: "84041"
@@ -8,5 +7,5 @@ city: Layton
 street: "North Main Street"
 housenumber: 2010
 phone: "+1-801-882-7874"
-opening_hours: "Mo-Fr 09:30–18:00; Sa 09:00-17:30; Su 10:00-14:00"
+opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-17:30; Su 10:00-14:00"
 website: ""

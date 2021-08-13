@@ -1,11 +1,11 @@
 id: 2613003595
 type: node
 latitude: 40.3693073
-longitude: -109.35234650000001
+longitude: -109.35234600000001
 postcode: "84035"
-city: Jensen, UT
-street: ""
-housenumber: 9122 E. 6000 S.
-phone: "435-789-5512"
+city: Jensen
+street: "East 6000 South"
+housenumber: 9122
+phone: "+1-435-789-5512"
 opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
 website: "https://www.splitmountainfarm.com/"

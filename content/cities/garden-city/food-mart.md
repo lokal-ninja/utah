@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
-url: /salt-lake-city/food-mart/
+url: /garden-city/food-mart/
 shop: convenience
 ---

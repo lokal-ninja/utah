@@ -1,6 +1,6 @@
 ---
-title: Payson
+title: payson
 url: /payson/
-latitude: 40.044398900000004
-longitude: -111.73215180000001
+latitude: 
+longitude: 
 ---

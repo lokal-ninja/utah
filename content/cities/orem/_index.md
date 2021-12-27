@@ -1,6 +1,6 @@
 ---
 title: Orem
 url: /orem/
-latitude: 40.297182500000005
-longitude: -111.69494300000001
+latitude: 40.304
+longitude: -111.7
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nephi
 url: /nephi/
-latitude: 39.7102336
-longitude: -111.8363216
+latitude: 39.685
+longitude: -111.836
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sandy
 url: /sandy/
-latitude: 
-longitude: 
+latitude: 40.589
+longitude: -111.897
 ---

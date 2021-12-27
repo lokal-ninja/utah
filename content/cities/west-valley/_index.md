@@ -1,6 +1,6 @@
 ---
 title: West Valley
 url: /west-valley/
-latitude: 
-longitude: 
+latitude: 40.696
+longitude: -111.965
 ---

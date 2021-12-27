@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /ogden/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

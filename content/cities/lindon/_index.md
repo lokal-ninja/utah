@@ -1,6 +1,6 @@
 ---
 title: Lindon
 url: /lindon/
-latitude: 40.3432857
-longitude: -111.72076080000001
+latitude: 40.349
+longitude: -111.732
 ---

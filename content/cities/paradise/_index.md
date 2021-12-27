@@ -1,6 +1,6 @@
 ---
 title: Paradise
 url: /paradise/
-latitude: 41.5688234
-longitude: -111.8379975
+latitude: 41.566
+longitude: -111.831
 ---

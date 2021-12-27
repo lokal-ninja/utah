@@ -1,6 +1,6 @@
 ---
 title: Heber City
 url: /heber-city/
-latitude: 40.5065256
-longitude: -111.4133091
+latitude: 40.516
+longitude: -111.412
 ---

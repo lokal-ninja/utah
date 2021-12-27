@@ -1,6 +1,6 @@
 ---
 title: South Weber
 url: /south-weber/
-latitude: 41.132448600000004
-longitude: -111.93023090000001
+latitude: 41.127
+longitude: -111.912
 ---

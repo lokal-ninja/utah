@@ -1,6 +1,6 @@
 ---
 title: Midvale
 url: /midvale/
-latitude: 40.6110589
-longitude: -111.89993530000001
+latitude: 40.611
+longitude: -111.895
 ---

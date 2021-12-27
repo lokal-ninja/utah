@@ -1,6 +1,6 @@
 ---
 title: Milcreek
 url: /milcreek/
-latitude: 
-longitude: 
+latitude: 40.7
+longitude: -111.87
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Acme Camera Company"
 url: /salt-lake-city/acme-camera-company/
-shop: photo
+shop: Foto
 ---

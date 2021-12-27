@@ -1,5 +1,5 @@
 ---
 title: "Metalmart"
 url: /lehi/metalmart/
-shop: shop
+shop: Allgemein
 ---

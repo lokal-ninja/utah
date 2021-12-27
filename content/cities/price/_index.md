@@ -1,6 +1,6 @@
 ---
 title: Price
 url: /price/
-latitude: 39.5994095
-longitude: -110.81071480000001
+latitude: 39.596
+longitude: -110.788
 ---

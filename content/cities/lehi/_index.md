@@ -1,6 +1,6 @@
 ---
 title: Lehi
 url: /lehi/
-latitude: 40.3880902
-longitude: -111.84916190000001
+latitude: 40.432
+longitude: -111.894
 ---

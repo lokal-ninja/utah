@@ -1,5 +1,5 @@
 ---
 title: "Backcountry"
 url: /park-city/backcountry/
-shop: sports
+shop: Sport
 ---

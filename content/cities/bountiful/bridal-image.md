@@ -1,5 +1,5 @@
 ---
 title: "Bridal Image"
 url: /bountiful/bridal-image/
-shop: clothes
+shop: Kleidung
 ---

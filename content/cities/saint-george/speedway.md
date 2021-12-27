@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /saint-george/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cedar Hills
 url: /cedar-hills/
-latitude: 40.4141174
-longitude: -111.75854140000001
+latitude: 40.415
+longitude: -111.772
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /west-jordan/holiday/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Alta
 url: /alta/
-latitude: 40.5904037
-longitude: -111.6352166
+latitude: 40.591
+longitude: -111.628
 ---

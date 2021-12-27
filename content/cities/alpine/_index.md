@@ -1,6 +1,6 @@
 ---
 title: Alpine
 url: /alpine/
-latitude: 40.453283400000004
-longitude: -111.77798650000001
+latitude: 40.456
+longitude: -111.776
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maverick"
 url: /lehi/maverick/
-shop: convenience
+shop: Lebensmittel
 ---

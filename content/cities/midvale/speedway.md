@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /midvale/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

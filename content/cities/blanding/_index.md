@@ -1,6 +1,6 @@
 ---
 title: Blanding
 url: /blanding/
-latitude: 37.6239617
-longitude: -109.47802050000001
+latitude: 37.614
+longitude: -109.48
 ---

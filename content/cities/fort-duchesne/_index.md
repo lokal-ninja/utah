@@ -1,6 +1,6 @@
 ---
 title: Fort Duchesne
 url: /fort-duchesne/
-latitude: 40.290262000000006
-longitude: -109.85849
+latitude: 40.301
+longitude: -109.858
 ---

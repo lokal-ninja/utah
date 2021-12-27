@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /riverdale/maverik/
-shop: convenience
+shop: Lebensmittel
 ---

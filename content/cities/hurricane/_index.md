@@ -1,6 +1,6 @@
 ---
 title: Hurricane
 url: /hurricane/
-latitude: 
-longitude: 
+latitude: 37.173
+longitude: -113.365
 ---

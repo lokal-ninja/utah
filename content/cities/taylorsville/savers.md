@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /taylorsville/savers/
-shop: charity
+shop: Gebrauchtwaren
 ---

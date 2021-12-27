@@ -1,6 +1,6 @@
 ---
 title: West Haven
 url: /west-haven/
-latitude: 41.2049578
-longitude: -112.0488985
+latitude: 41.197
+longitude: -112.092
 ---

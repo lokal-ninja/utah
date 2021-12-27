@@ -1,6 +1,6 @@
 ---
 title: Saratoga Springs
 url: /saratoga-springs/
-latitude: 40.3491173
-longitude: -111.904656
+latitude: 40.391
+longitude: -111.928
 ---

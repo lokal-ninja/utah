@@ -1,5 +1,5 @@
 ---
 title: "Night Hawk Tattoo"
 url: /salt-lake-city/night-hawk-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

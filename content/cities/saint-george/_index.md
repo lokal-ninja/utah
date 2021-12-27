@@ -1,6 +1,6 @@
 ---
 title: Saint George
 url: /saint-george/
-latitude: 
-longitude: 
+latitude: 37.123
+longitude: -113.623
 ---

@@ -1,6 +1,6 @@
 ---
 title: South Ogden
 url: /south-ogden/
-latitude: 41.191893400000005
-longitude: -111.97134290000001
+latitude: 41.164
+longitude: -111.952
 ---

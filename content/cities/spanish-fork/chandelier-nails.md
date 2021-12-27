@@ -1,5 +1,5 @@
 ---
 title: "Chandelier Nails"
 url: /spanish-fork/chandelier-nails/
-shop: beauty
+shop: Kosmetik
 ---

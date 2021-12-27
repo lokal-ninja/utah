@@ -1,5 +1,5 @@
 ---
 title: "Striders"
 url: /layton/striders/
-shop: sports
+shop: Sport
 ---

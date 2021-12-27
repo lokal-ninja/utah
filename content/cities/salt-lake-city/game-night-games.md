@@ -1,5 +1,5 @@
 ---
 title: "Game Night Games"
 url: /salt-lake-city/game-night-games/
-shop: games
+shop: Spiele
 ---

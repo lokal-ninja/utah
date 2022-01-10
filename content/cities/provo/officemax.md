@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /provo/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

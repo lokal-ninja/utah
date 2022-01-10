@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
 url: /heber-city/smiths/
-shop: Supermarkt
+shop: supermarket
 ---

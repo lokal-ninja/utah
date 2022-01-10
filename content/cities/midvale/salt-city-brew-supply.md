@@ -1,5 +1,5 @@
 ---
 title: "Salt City Brew Supply"
 url: /midvale/salt-city-brew-supply/
-shop: Brauerei
+shop: brewery
 ---

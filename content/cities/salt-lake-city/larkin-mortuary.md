@@ -1,5 +1,5 @@
 ---
 title: "Larkin Mortuary"
 url: /salt-lake-city/larkin-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

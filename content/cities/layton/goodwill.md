@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /layton/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

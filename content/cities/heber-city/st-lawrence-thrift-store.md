@@ -1,5 +1,5 @@
 ---
 title: "St. Lawrence Thrift Store"
 url: /heber-city/st-lawrence-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

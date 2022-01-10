@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /riverdale/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

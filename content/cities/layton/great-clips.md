@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /layton/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

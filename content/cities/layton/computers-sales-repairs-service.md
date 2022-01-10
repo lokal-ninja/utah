@@ -1,5 +1,5 @@
 ---
 title: "Computers sales, repairs, service"
 url: /layton/computers-sales-repairs-service/
-shop: Computer
+shop: computer
 ---

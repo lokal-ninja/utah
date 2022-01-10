@@ -1,5 +1,5 @@
 ---
 title: "Fresh Market"
 url: /east-millcreek/fresh-market/
-shop: Supermarkt
+shop: supermarket
 ---

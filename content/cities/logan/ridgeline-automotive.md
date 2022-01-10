@@ -1,5 +1,5 @@
 ---
 title: "Ridgeline Automotive"
 url: /logan/ridgeline-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /magna/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

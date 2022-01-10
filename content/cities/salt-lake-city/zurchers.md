@@ -1,5 +1,5 @@
 ---
 title: "Zurcher's"
 url: /salt-lake-city/zurchers/
-shop: Andenken
+shop: gift
 ---

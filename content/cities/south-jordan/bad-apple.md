@@ -1,5 +1,5 @@
 ---
 title: "Bad Apple"
 url: /south-jordan/bad-apple/
-shop: Handy
+shop: mobile phone
 ---

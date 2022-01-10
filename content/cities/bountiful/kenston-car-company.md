@@ -1,5 +1,5 @@
 ---
 title: "Kenston Car Company"
 url: /bountiful/kenston-car-company/
-shop: Autohaus
+shop: car
 ---

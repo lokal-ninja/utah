@@ -1,5 +1,5 @@
 ---
 title: "Athleta"
 url: /salt-lake-city/athleta/
-shop: Kleidung
+shop: clothes
 ---

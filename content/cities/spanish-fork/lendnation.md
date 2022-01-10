@@ -1,5 +1,5 @@
 ---
 title: "LendNation"
 url: /spanish-fork/lendnation/
-shop: Leiher
+shop: pawnbroker
 ---

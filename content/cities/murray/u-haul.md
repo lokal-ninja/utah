@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /murray/u-haul/
-shop: Mieten
+shop: storage rental
 ---

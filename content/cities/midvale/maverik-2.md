@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /midvale/maverik-2/
-shop: Lebensmittel
+shop: convenience
 ---

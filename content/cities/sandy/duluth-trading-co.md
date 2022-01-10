@@ -1,5 +1,5 @@
 ---
 title: "Duluth Trading Co."
 url: /sandy/duluth-trading-co/
-shop: Kleidung
+shop: clothes
 ---

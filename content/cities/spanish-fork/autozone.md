@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /spanish-fork/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /provo/fastenal/
-shop: Baustoffe
+shop: trade
 ---

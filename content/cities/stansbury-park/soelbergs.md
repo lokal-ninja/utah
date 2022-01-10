@@ -1,5 +1,5 @@
 ---
 title: "Soelbergs"
 url: /stansbury-park/soelbergs/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Got Storage"
 url: /layton/got-storage/
-shop: Mieten
+shop: storage rental
 ---

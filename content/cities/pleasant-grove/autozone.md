@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /pleasant-grove/autozone/
-shop: Autoteile
+shop: car parts
 ---

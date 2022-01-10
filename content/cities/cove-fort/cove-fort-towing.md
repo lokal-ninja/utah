@@ -1,5 +1,5 @@
 ---
 title: "Cove Fort Towing"
 url: /cove-fort/cove-fort-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

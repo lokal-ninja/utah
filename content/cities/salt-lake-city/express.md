@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /salt-lake-city/express/
-shop: Kleidung
+shop: clothes
 ---

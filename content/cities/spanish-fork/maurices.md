@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /spanish-fork/maurices/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /layton/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

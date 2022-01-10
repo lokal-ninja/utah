@@ -1,5 +1,5 @@
 ---
 title: "Mr Mac"
 url: /salt-lake-city/mr-mac/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /spanish-fork/sprint/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hurricane Tire Pros"
 url: /hurricane/hurricane-tire-pros/
-shop: Reifen
+shop: tyres
 ---

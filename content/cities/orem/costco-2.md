@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /orem/costco-2/
-shop: Großhandel
+shop: wholesale
 ---

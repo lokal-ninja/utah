@@ -1,5 +1,5 @@
 ---
 title: "Zion Outfitter"
 url: /springdale/zion-outfitter/
-shop: Mieten
+shop: storage rental
 ---

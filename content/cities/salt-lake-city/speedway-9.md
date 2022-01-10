@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /salt-lake-city/speedway-9/
-shop: Lebensmittel
+shop: convenience
 ---

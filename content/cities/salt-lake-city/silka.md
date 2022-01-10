@@ -1,5 +1,5 @@
 ---
 title: "Silka"
 url: /salt-lake-city/silka/
-shop: Autohaus
+shop: car
 ---

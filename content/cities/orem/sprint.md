@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /orem/sprint/
-shop: Handy
+shop: mobile phone
 ---

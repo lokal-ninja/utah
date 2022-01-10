@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /salt-lake-city/boost-mobile-2/
-shop: Handy
+shop: mobile phone
 ---

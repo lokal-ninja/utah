@@ -1,5 +1,5 @@
 ---
 title: "Details"
 url: /salt-lake-city/details/
-shop: Haushaltsartikel
+shop: houseware
 ---

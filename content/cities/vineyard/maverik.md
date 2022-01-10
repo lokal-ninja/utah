@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /vineyard/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

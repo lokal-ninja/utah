@@ -1,5 +1,5 @@
 ---
 title: "Automated Business Equipment"
 url: /vernal/automated-business-equipment/
-shop: Kopieren
+shop: copyshop
 ---

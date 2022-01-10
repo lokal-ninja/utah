@@ -1,5 +1,5 @@
 ---
 title: "Sunbrook Ranch"
 url: /saint-george/sunbrook-ranch/
-shop: Einkaufszentrum
+shop: mall
 ---

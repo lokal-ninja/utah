@@ -1,5 +1,5 @@
 ---
 title: "Fairgrounds Mini Storage"
 url: /salt-lake-city/fairgrounds-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

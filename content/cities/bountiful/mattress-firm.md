@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /bountiful/mattress-firm/
-shop: Betten
+shop: bed
 ---

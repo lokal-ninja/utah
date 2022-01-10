@@ -1,5 +1,5 @@
 ---
 title: "Endzone"
 url: /bountiful/endzone/
-shop: Spiele
+shop: games
 ---

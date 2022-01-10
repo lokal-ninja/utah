@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /salina/loves/
-shop: Lebensmittel
+shop: convenience
 ---

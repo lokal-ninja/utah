@@ -1,5 +1,5 @@
 ---
 title: "City View Memoriam"
 url: /salt-lake-city/city-view-memoriam/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Christensen's Point S"
 url: /west-valley-city/christensens-point-s/
-shop: Autowerkstatt
+shop: car repair
 ---

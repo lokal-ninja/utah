@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /spanish-fork/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

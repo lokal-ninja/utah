@@ -1,5 +1,5 @@
 ---
 title: "Bad Apple"
 url: /salt-lake-city/bad-apple/
-shop: Handy
+shop: mobile phone
 ---

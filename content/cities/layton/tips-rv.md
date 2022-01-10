@@ -1,5 +1,5 @@
 ---
 title: "Tip's RV"
 url: /layton/tips-rv/
-shop: Allgemein
+shop: shop
 ---

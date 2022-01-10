@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /cottonwood-heights/sprint/
-shop: Handy
+shop: mobile phone
 ---

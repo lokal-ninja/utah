@@ -1,5 +1,5 @@
 ---
 title: "Home Again"
 url: /salt-lake-city/home-again/
-shop: Möbel
+shop: furniture
 ---

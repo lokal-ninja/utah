@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /price/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

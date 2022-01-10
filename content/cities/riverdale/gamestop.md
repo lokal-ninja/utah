@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /riverdale/gamestop/
-shop: Videospiele
+shop: video games
 ---

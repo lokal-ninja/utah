@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /american-fork/gamestop/
-shop: Videospiele
+shop: video games
 ---

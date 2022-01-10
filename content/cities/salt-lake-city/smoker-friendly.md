@@ -1,5 +1,5 @@
 ---
 title: "Smoker Friendly"
 url: /salt-lake-city/smoker-friendly/
-shop: Tabak
+shop: tobacco
 ---

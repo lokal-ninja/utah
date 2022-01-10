@@ -1,5 +1,5 @@
 ---
 title: "Burt Bros. Auto"
 url: /salt-lake-city/burt-bros-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

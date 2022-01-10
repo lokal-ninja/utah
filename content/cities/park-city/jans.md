@@ -1,5 +1,5 @@
 ---
 title: "Jans"
 url: /park-city/jans/
-shop: Outdoor
+shop: outdoor
 ---

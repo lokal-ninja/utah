@@ -1,5 +1,5 @@
 ---
 title: "Bad Apple"
 url: /draper/bad-apple/
-shop: Handy
+shop: mobile phone
 ---

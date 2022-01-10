@@ -1,5 +1,5 @@
 ---
 title: "Smitty's Service"
 url: /holladay/smittys-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shamrock Group"
 url: /pleasant-grove/shamrock-group/
-shop: Autohaus
+shop: car
 ---

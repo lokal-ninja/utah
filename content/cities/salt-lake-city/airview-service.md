@@ -1,5 +1,5 @@
 ---
 title: "Airview Service"
 url: /salt-lake-city/airview-service/
-shop: Autowerkstatt
+shop: car repair
 ---

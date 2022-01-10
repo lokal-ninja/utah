@@ -1,5 +1,5 @@
 ---
 title: "The Back Shop"
 url: /west-valley/the-back-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Earthly Awakenings"
 url: /logan/earthly-awakenings/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wheeler Mortuary"
 url: /mapleton/wheeler-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

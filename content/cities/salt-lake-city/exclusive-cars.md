@@ -1,5 +1,5 @@
 ---
 title: "Exclusive Cars"
 url: /salt-lake-city/exclusive-cars/
-shop: Autohaus
+shop: car
 ---

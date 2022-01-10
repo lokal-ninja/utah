@@ -1,5 +1,5 @@
 ---
 title: "Everest Collision Repair"
 url: /ogden/everest-collision-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

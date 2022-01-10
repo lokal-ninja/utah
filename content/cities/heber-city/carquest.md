@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /heber-city/carquest/
-shop: Autoteile
+shop: car parts
 ---

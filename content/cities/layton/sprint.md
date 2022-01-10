@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /layton/sprint/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,6 +1,6 @@
 ---
 title: Provo
 url: /provo/
-latitude: 40.264
-longitude: -111.667
+latitude: 40.248
+longitude: -111.648
 ---

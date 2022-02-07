@@ -1,6 +1,6 @@
 ---
 title: Tooele
 url: /tooele/
-latitude: 40.557
-longitude: -112.3
+latitude: 40.555
+longitude: -112.297
 ---

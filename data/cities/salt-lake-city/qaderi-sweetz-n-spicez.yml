@@ -1,11 +1,11 @@
-id: 5294960441
-type: node
-latitude: 40.73163
-longitude: -111.88785
+id: 588296645
+type: way
+latitude: 40.73172
+longitude: -111.888
 postcode: "84115"
 city: Salt Lake City
-street: "South State Street"
-housenumber: 1785
+street: "State Street"
+housenumber: 1785 S
 phone: "(801) 484-0265"
 opening_hours: "Tu-Sa 10:30-20:00, Su 10:30-19:00"
 website: "qaderisweetzandspicez.com"

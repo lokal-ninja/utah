@@ -1,11 +1,11 @@
-id: 9005485333
-type: node
-latitude: 40.6257
-longitude: -111.8536
-postcode: "84121"
+id: 619220724
+type: way
+latitude: 40.69956
+longitude: -111.82419
+postcode: "84109"
 city: Salt Lake City
-street: "East Fort Union Boulevard"
-housenumber: 1344
+street: "2300 East;South 2300 East"
+housenumber: 3301 S;3301
 phone: ""
 opening_hours: ""
 website: ""

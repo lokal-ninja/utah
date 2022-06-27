@@ -1,5 +1,5 @@
 ---
 title: "State Liquor Store"
-url: /salt-lake-city/state-liquor-store-3/
+url: /saint-george/state-liquor-store/
 shop: alcohol
 ---

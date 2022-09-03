@@ -1,6 +1,6 @@
 ---
 title: Herriman
 url: /herriman/
-latitude: 40.522
-longitude: -112.012
+latitude: 40.534
+longitude: -112.017
 ---

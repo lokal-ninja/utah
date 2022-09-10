@@ -1,5 +1,5 @@
 ---
-title: "Zurcher's"
+title: "Zurchers"
 url: /salt-lake-city/zurchers/
-shop: gift
+shop: party
 ---

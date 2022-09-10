@@ -1,11 +1,11 @@
-id: 9005473974
-type: node
-latitude: 40.63186
-longitude: -111.86648
-postcode: "84107"
+id: 619220724
+type: way
+latitude: 40.69956
+longitude: -111.82419
+postcode: "84109"
 city: Salt Lake City
-street: "East 6600 South"
-housenumber: 897
+street: "2300 East;South 2300 East"
+housenumber: 3301 S;3301
 phone: ""
 opening_hours: ""
 website: ""

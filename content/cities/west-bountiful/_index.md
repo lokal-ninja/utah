@@ -1,6 +1,6 @@
 ---
 title: West Bountiful
 url: /west-bountiful/
-latitude: 40.897
-longitude: -111.894
+latitude: 40.894
+longitude: -111.893
 ---

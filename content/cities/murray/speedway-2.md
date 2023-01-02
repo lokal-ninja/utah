@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /salt-lake-city/speedway-11/
+url: /murray/speedway-2/
 shop: convenience
 ---

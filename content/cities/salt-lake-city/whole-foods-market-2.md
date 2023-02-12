@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
-url: /salt-lake-city/whole-foods-market-2/
+url: /salt-lake-city/whole-foods-market/
 shop: supermarket
 ---

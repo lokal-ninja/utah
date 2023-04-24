@@ -1,6 +1,6 @@
 ---
 title: Moab
 url: /moab/
-latitude: 38.581
-longitude: -109.552
+latitude: 38.579
+longitude: -109.551
 ---

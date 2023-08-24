@@ -1,5 +1,5 @@
 ---
-title: "Mr Mac"
+title: "Mr. Mac"
 url: /layton/mr-mac/
 shop: clothes
 ---

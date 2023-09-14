@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /murray/speedway/
+url: /murray/speedway-winchester-street/
 shop: convenience
 ---

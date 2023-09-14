@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /midvale/holiday/
+url: /midvale/holiday-state-street/
 shop: convenience
 ---

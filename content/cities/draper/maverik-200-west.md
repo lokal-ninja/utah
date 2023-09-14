@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
-url: /draper/maverik/
+url: /draper/maverik-200-west/
 shop: convenience
 ---

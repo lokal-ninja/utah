@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /salt-lake-city/walgreens/
+url: /salt-lake-city/walgreens-700-east/
 shop: chemist
 ---

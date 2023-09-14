@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /herriman/holiday/
+url: /herriman/holiday-13400-south/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /sandy/speedway/
+url: /sandy/speedway-south-700-east/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
-url: /murray/smiths/
+url: /murray/smiths-4500-south/
 shop: supermarket
 ---

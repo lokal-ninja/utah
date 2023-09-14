@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
-url: /murray/maverik/
+url: /murray/maverik-4500-south/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /west-valley-city/holiday/
+url: /west-valley-city/holiday-3500-south/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
-url: /logan/maverik/
+url: /logan/maverik-main-street/
 shop: convenience
 ---

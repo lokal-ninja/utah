@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /salt-lake-city/speedway/
+url: /salt-lake-city/speedway-south-highland-drive/
 shop: convenience
 ---

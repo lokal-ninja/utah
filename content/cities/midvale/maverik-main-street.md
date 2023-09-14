@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
-url: /midvale/maverik/
+url: /midvale/maverik-main-street/
 shop: convenience
 ---

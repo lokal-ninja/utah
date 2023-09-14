@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
-url: /salt-lake-city/maverik/
+url: /salt-lake-city/maverik-gustin-road/
 shop: convenience
 ---

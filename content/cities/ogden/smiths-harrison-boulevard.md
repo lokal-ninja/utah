@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
-url: /ogden/smiths/
+url: /ogden/smiths-harrison-boulevard/
 shop: supermarket
 ---

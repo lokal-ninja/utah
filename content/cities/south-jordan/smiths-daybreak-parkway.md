@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
-url: /south-jordan/smiths/
+url: /south-jordan/smiths-daybreak-parkway/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harmons"
-url: /south-jordan/harmons/
+url: /south-jordan/harmons-redwood-road/
 shop: supermarket
 ---

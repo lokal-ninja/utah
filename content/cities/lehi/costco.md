@@ -1,5 +1,5 @@
 ---
 title: "Costco"
-url: /orem/costco-east-800-south/
+url: /lehi/costco/
 shop: wholesale
 ---

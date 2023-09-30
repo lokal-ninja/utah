@@ -1,6 +1,6 @@
 ---
 title: Roy
 url: /roy/
-latitude: 41.17
-longitude: -112.026
+latitude: 41.167
+longitude: -112.025
 ---

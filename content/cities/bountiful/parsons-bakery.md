@@ -1,5 +1,5 @@
 ---
-title: "Parson's Bakery"
+title: "Parsons' Bakery"
 url: /bountiful/parsons-bakery/
 shop: bakery
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fillmore
 url: /fillmore/
-latitude: 38.948
-longitude: -112.345
+latitude: 38.949
+longitude: -112.347
 ---

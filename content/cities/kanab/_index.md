@@ -1,6 +1,6 @@
 ---
 title: Kanab
 url: /kanab/
-latitude: 37.046
-longitude: -112.526
+latitude: 37.043
+longitude: -112.514
 ---

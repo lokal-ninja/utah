@@ -1,10 +1,10 @@
 id: 8220867075
 type: node
 latitude: 41.73993
-longitude: -111.83418
+longitude: -111.8342
 postcode: "84321"
 city: Logan
-street: "Main Street"
+street: "Main Street;North Main Street"
 housenumber: 446
 phone: "+1-435-755-0303"
 opening_hours: "Mo-Fr 09:00-18:00"

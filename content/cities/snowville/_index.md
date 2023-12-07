@@ -1,6 +1,6 @@
 ---
 title: Snowville
 url: /snowville/
-latitude: 41.964
+latitude: 41.963
 longitude: -112.71
 ---

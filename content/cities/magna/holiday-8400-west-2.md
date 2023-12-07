@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /magna/holiday-7200-west/
+url: /magna/holiday-8400-west-2/
 shop: convenience
 ---

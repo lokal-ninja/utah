@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /brigham-city/7-eleven-main-street/
+url: /moab/7-eleven-north-main-street/
 shop: convenience
 ---

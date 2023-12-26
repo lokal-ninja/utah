@@ -1,11 +1,11 @@
-id: 441275043
-type: way
-latitude: 40.78274
-longitude: -111.90017
-postcode: "84103"
+id: 11447369540
+type: node
+latitude: 40.76414
+longitude: -111.90623
+postcode: "84101"
 city: Salt Lake City
-street: "300 West"
-housenumber: 605
+street: "500 West"
+housenumber: 230
 phone: "+1-801-935-4605"
-opening_hours: "Tu-Fr 11:00-19:00; Sa 10:00-17:00; Su off"
+opening_hours: "Tu-Fr 11:00-19:00; Sa 10:00-17:00; Su off; Dec 23-Dec 31 off; Jan 1-Feb 15 off"
 website: "https://www.saturdaycycles.com/"

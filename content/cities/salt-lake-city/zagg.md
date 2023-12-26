@@ -1,5 +1,5 @@
 ---
-title: "ZAGG"
+title: "Zagg"
 url: /salt-lake-city/zagg/
-shop: electronics
+shop: mobile phone
 ---

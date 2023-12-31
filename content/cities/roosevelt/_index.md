@@ -1,6 +1,6 @@
 ---
 title: Roosevelt
 url: /roosevelt/
-latitude: 40.293
-longitude: -109.989
+latitude: 40.302
+longitude: -109.988
 ---

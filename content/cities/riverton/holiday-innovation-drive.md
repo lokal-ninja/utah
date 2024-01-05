@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /riverton/holiday-12600-south-2/
+url: /riverton/holiday-innovation-drive/
 shop: convenience
 ---

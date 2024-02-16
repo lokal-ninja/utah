@@ -1,6 +1,6 @@
 ---
 title: Magna
 url: /magna/
-latitude: 40.711
-longitude: -112.104
+latitude: 40.695
+longitude: -112.084
 ---

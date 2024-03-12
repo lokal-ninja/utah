@@ -2,5 +2,5 @@
 title: Kearns
 url: /kearns/
 latitude: 40.652
-longitude: -112.003
+longitude: -111.988
 ---

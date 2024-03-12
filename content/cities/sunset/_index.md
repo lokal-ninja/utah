@@ -1,6 +1,6 @@
 ---
 title: Sunset
 url: /sunset/
-latitude: 41.142
-longitude: -112.026
+latitude: 41.148
+longitude: -112.029
 ---

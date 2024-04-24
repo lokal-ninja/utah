@@ -1,6 +1,6 @@
 ---
 title: Draper
 url: /draper/
-latitude: 40.529
-longitude: -111.888
+latitude: 40.505
+longitude: -111.898
 ---

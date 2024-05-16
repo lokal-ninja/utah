@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /salt-lake-city/walmart-supercenter-parleys-way/
+url: /murray/walmart-supercenter/
 shop: supermarket
 ---

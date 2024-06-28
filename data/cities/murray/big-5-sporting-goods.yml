@@ -1,11 +1,11 @@
-id: 2332260208
-type: node
-latitude: 40.64199
-longitude: -111.89038
+id: 1293558973
+type: way
+latitude: 40.64184
+longitude: -111.89027
 postcode: "84107"
 city: Murray
-street: "State Street"
-housenumber: 5950 S
+street: "South State Street"
+housenumber: 5950
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 10:00-20:30; Fr 09:30-21:00; Sa 09:00-20:30; Su 10:00-19:00"
 website: ""

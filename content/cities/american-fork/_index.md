@@ -1,6 +1,6 @@
 ---
 title: American Fork
 url: /american-fork/
-latitude: 40.379
-longitude: -111.817
+latitude: 40.387
+longitude: -111.826
 ---

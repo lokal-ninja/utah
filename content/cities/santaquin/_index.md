@@ -2,5 +2,5 @@
 title: Santaquin
 url: /santaquin/
 latitude: 39.976
-longitude: -111.769
+longitude: -111.776
 ---

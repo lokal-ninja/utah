@@ -1,6 +1,6 @@
 ---
 title: Stansbury Park
 url: /stansbury-park/
-latitude: 40.654
-longitude: -112.291
+latitude: 40.652
+longitude: -112.29
 ---

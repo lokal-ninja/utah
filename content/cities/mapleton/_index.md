@@ -1,6 +1,6 @@
 ---
 title: Mapleton
 url: /mapleton/
-latitude: 40.134
-longitude: -111.58
+latitude: 40.137
+longitude: -111.598
 ---

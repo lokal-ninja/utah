@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /salt-lake-city/walmart-supercenter-hope-ave/
+url: /richfield/walmart-supercenter/
 shop: supermarket
 ---

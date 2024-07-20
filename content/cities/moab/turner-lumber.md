@@ -1,5 +1,5 @@
 ---
 title: "Turner Lumber"
 url: /moab/turner-lumber/
-shop: hardware
+shop: doityourself
 ---

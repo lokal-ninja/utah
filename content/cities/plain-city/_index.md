@@ -1,6 +1,6 @@
 ---
 title: Plain City
 url: /plain-city/
-latitude: 41.305
-longitude: -112.068
+latitude: 41.303
+longitude: -112.067
 ---

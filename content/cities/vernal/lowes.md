@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /vernal/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

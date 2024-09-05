@@ -1,5 +1,5 @@
 ---
 title: "Logan Fine Art"
 url: /logan/logan-fine-art/
-shop: art
+shop: Kunst
 ---

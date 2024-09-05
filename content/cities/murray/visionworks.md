@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /murray/visionworks/
-shop: optician
+shop: Optiker
 ---

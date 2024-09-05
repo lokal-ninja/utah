@@ -1,5 +1,5 @@
 ---
 title: "Bella"
 url: /murray/bella/
-shop: beauty
+shop: Kosmetik
 ---

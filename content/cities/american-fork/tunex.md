@@ -1,5 +1,5 @@
 ---
 title: "Tunex"
 url: /american-fork/tunex/
-shop: car repair
+shop: Autowerkstatt
 ---

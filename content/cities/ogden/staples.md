@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /ogden/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

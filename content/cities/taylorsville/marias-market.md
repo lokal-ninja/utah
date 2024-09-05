@@ -1,5 +1,5 @@
 ---
 title: "Maria's Market"
 url: /taylorsville/marias-market/
-shop: supermarket
+shop: Supermarkt
 ---

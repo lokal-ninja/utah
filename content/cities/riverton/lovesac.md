@@ -1,5 +1,5 @@
 ---
 title: "LoveSac"
 url: /riverton/lovesac/
-shop: furniture
+shop: Möbel
 ---

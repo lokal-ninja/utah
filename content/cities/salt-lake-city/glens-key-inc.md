@@ -1,5 +1,5 @@
 ---
 title: "Glens Key, Inc."
 url: /salt-lake-city/glens-key-inc/
-shop: locksmith
+shop: Schlüsseldienst
 ---

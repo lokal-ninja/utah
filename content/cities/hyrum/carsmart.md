@@ -1,5 +1,5 @@
 ---
 title: "CarSmart"
 url: /hyrum/carsmart/
-shop: car repair
+shop: Autowerkstatt
 ---

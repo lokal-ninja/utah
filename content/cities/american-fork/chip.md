@@ -1,5 +1,5 @@
 ---
 title: "Chip"
 url: /american-fork/chip/
-shop: pastry
+shop: Konditorei
 ---

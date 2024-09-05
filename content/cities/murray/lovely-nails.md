@@ -1,5 +1,5 @@
 ---
 title: "Lovely Nails"
 url: /murray/lovely-nails/
-shop: beauty
+shop: Kosmetik
 ---

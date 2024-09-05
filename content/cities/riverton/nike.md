@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /riverton/nike/
-shop: clothes
+shop: Kleidung
 ---

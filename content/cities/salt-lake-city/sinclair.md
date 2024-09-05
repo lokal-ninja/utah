@@ -1,5 +1,5 @@
 ---
 title: "Sinclair"
 url: /salt-lake-city/sinclair/
-shop: convenience
+shop: Lebensmittel
 ---

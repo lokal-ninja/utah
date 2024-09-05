@@ -1,5 +1,5 @@
 ---
 title: "Janela Bay"
 url: /riverton/janela-bay/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vans"
 url: /farmington/vans/
-shop: shoes
+shop: Schuhe
 ---

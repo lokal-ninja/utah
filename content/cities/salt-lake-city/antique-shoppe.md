@@ -1,5 +1,5 @@
 ---
 title: "Antique Shoppe"
 url: /salt-lake-city/antique-shoppe/
-shop: antiques
+shop: Antiquitäten
 ---

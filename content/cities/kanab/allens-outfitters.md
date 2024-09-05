@@ -1,5 +1,5 @@
 ---
 title: "Allen's Outfitters"
 url: /kanab/allens-outfitters/
-shop: hunting
+shop: Jagd
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /herriman/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

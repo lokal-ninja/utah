@@ -1,5 +1,5 @@
 ---
 title: "Gander RV"
 url: /hurricane/gander-rv/
-shop: caravan
+shop: Wohnwagen
 ---

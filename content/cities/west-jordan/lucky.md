@@ -1,5 +1,5 @@
 ---
 title: "Lucky"
 url: /west-jordan/lucky/
-shop: supermarket
+shop: Supermarkt
 ---

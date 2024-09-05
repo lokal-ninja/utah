@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /riverdale/petsmart/
-shop: pet
+shop: Tiere
 ---

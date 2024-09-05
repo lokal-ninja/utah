@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /taylorsville/extramile/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /grantsville/maverik/
-shop: convenience
+shop: Lebensmittel
 ---

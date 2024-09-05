@@ -1,5 +1,5 @@
 ---
 title: "Weller Book Works"
 url: /salt-lake-city/weller-book-works/
-shop: books
+shop: Bücher
 ---

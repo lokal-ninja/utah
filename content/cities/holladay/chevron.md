@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /holladay/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

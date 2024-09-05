@@ -1,5 +1,5 @@
 ---
 title: "Fiiz Drinks"
 url: /santaquin/fiiz-drinks/
-shop: beverages
+shop: Getränke
 ---

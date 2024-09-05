@@ -1,5 +1,5 @@
 ---
 title: "Howie's"
 url: /bicknell/howies/
-shop: convenience
+shop: Lebensmittel
 ---

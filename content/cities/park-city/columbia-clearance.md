@@ -1,5 +1,5 @@
 ---
 title: "Columbia Clearance"
 url: /park-city/columbia-clearance/
-shop: clothes
+shop: Kleidung
 ---

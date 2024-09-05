@@ -1,5 +1,5 @@
 ---
 title: "Dave's Health and Nutrition"
 url: /millcreek/daves-health-and-nutrition/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

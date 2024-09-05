@@ -1,5 +1,5 @@
 ---
 title: "Dan's"
 url: /salt-lake-city/dans/
-shop: supermarket
+shop: Supermarkt
 ---

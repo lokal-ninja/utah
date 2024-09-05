@@ -1,5 +1,5 @@
 ---
 title: "EZPAWN"
 url: /murray/ezpawn/
-shop: pawnbroker
+shop: Leiher
 ---

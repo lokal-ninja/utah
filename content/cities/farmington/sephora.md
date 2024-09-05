@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /farmington/sephora/
-shop: beauty
+shop: Kosmetik
 ---

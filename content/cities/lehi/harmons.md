@@ -1,5 +1,5 @@
 ---
 title: "Harmons"
 url: /lehi/harmons/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SPEEDMountain"
 url: /logan/speedmountain/
-shop: bicycle
+shop: Fahrrad
 ---

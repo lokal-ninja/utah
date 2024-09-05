@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /cove-fort/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

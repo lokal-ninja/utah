@@ -1,5 +1,5 @@
 ---
 title: "Desi Groceries"
 url: /south-jordan/desi-groceries/
-shop: supermarket
+shop: Supermarkt
 ---

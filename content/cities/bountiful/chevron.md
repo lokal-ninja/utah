@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /bountiful/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

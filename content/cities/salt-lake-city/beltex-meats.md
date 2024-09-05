@@ -1,5 +1,5 @@
 ---
 title: "Beltex Meats"
 url: /salt-lake-city/beltex-meats/
-shop: butcher
+shop: Metzgerei
 ---

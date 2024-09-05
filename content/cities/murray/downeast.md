@@ -1,5 +1,5 @@
 ---
 title: "Downeast"
 url: /murray/downeast/
-shop: clothes
+shop: Kleidung
 ---

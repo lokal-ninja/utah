@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /park-city/adidas/
-shop: sports
+shop: Sport
 ---

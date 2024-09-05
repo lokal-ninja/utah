@@ -1,5 +1,5 @@
 ---
 title: "Eroedge"
 url: /salt-lake-city/eroedge/
-shop: beauty
+shop: Kosmetik
 ---

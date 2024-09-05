@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /harrisville/maverik/
-shop: convenience
+shop: Lebensmittel
 ---

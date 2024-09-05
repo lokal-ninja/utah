@@ -1,5 +1,5 @@
 ---
 title: "Smokeys"
 url: /taylorsville/smokeys/
-shop: tobacco
+shop: Tabak
 ---

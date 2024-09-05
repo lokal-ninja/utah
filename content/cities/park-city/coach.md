@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /park-city/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /farmington/rei/
-shop: outdoor
+shop: Outdoor
 ---

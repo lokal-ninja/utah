@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /midvale/savers/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /orem/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

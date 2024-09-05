@@ -1,5 +1,5 @@
 ---
 title: "Kar's"
 url: /santaquin/kars/
-shop: convenience
+shop: Lebensmittel
 ---

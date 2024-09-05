@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /fillmore/maverik/
-shop: convenience
+shop: Lebensmittel
 ---

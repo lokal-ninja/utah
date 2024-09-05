@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /richmond/maverik/
-shop: convenience
+shop: Lebensmittel
 ---

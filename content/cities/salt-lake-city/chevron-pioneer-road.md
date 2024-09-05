@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /salt-lake-city/chevron-pioneer-road/
-shop: convenience
+shop: Lebensmittel
 ---

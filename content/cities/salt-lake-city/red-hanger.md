@@ -1,5 +1,5 @@
 ---
 title: "Red Hanger"
 url: /salt-lake-city/red-hanger/
-shop: laundry
+shop: Wäscherei
 ---

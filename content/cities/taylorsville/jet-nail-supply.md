@@ -1,5 +1,5 @@
 ---
 title: "Jet Nail Supply"
 url: /taylorsville/jet-nail-supply/
-shop: beauty
+shop: Kosmetik
 ---

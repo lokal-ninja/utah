@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /midvale/walgreens/
-shop: chemist
+shop: Drogerie
 ---

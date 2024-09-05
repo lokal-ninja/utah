@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /grantsville/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

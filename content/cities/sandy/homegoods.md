@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /sandy/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

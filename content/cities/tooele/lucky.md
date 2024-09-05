@@ -1,5 +1,5 @@
 ---
 title: "Lucky"
 url: /tooele/lucky/
-shop: supermarket
+shop: Supermarkt
 ---

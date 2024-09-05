@@ -1,5 +1,5 @@
 ---
 title: "Harmons"
 url: /riverton/harmons/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /draper/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

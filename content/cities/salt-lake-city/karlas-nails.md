@@ -1,5 +1,5 @@
 ---
 title: "Karla's Nails"
 url: /salt-lake-city/karlas-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Macaroons"
 url: /hyrum/macaroons/
-shop: pastry
+shop: Konditorei
 ---

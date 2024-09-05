@@ -1,5 +1,5 @@
 ---
 title: "Cowboys and Indians"
 url: /moab/cowboys-and-indians/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A+ Nails"
 url: /murray/a-nails/
-shop: beauty
+shop: Kosmetik
 ---

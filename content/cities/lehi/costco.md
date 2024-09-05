@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /lehi/costco/
-shop: wholesale
+shop: Großhandel
 ---

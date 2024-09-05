@@ -1,5 +1,5 @@
 ---
 title: "Eve Beauty Salon"
 url: /murray/eve-beauty-salon/
-shop: hairdresser
+shop: Friseur
 ---

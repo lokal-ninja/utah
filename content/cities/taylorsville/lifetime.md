@@ -1,5 +1,5 @@
 ---
 title: "Lifetime"
 url: /taylorsville/lifetime/
-shop: furniture
+shop: Möbel
 ---

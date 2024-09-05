@@ -1,5 +1,5 @@
 ---
 title: "The Store"
 url: /salt-lake-city/the-store/
-shop: supermarket
+shop: Supermarkt
 ---

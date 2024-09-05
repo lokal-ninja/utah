@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /draper/verizon/
-shop: mobile phone
+shop: Handy
 ---

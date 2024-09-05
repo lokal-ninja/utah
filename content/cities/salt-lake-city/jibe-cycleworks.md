@@ -1,5 +1,5 @@
 ---
 title: "Jibe Cycleworks"
 url: /salt-lake-city/jibe-cycleworks/
-shop: bicycle
+shop: Fahrrad
 ---

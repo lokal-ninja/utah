@@ -1,5 +1,5 @@
 ---
 title: "Mi Lindo Guanajuato"
 url: /ephraim/mi-lindo-guanajuato/
-shop: convenience
+shop: Lebensmittel
 ---

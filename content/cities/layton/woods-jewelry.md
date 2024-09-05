@@ -1,5 +1,5 @@
 ---
 title: "Woods Jewelry"
 url: /layton/woods-jewelry/
-shop: jewelry
+shop: Schmuck
 ---

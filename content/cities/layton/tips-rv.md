@@ -1,5 +1,5 @@
 ---
 title: "Tip's RV"
 url: /layton/tips-rv/
-shop: caravan
+shop: Wohnwagen
 ---

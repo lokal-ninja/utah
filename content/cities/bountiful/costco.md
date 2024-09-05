@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /bountiful/costco/
-shop: wholesale
+shop: Großhandel
 ---

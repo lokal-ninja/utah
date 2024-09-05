@@ -1,5 +1,5 @@
 ---
 title: "Vis."
 url: /salt-lake-city/vis/
-shop: optician
+shop: Optiker
 ---

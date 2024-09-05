@@ -1,5 +1,5 @@
 ---
 title: "Starbucks"
 url: /north-logan/starbucks/
-shop: coffee
+shop: Kaffee
 ---

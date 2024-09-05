@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
 url: /payson/smiths/
-shop: supermarket
+shop: Supermarkt
 ---

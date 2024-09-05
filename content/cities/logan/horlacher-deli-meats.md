@@ -1,5 +1,5 @@
 ---
 title: "Horlacher Deli Meats"
 url: /logan/horlacher-deli-meats/
-shop: butcher
+shop: Metzgerei
 ---

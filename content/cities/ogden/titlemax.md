@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
 url: /ogden/titlemax/
-shop: pawnbroker
+shop: Leiher
 ---

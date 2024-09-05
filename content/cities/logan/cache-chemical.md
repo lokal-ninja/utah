@@ -1,5 +1,5 @@
 ---
 title: "Cache Chemical"
 url: /logan/cache-chemical/
-shop: trade
+shop: Baustoffe
 ---

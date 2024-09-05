@@ -1,5 +1,5 @@
 ---
 title: "AVWORX"
 url: /layton/avworx/
-shop: hifi
+shop: Hifi
 ---

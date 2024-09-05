@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /nephi/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

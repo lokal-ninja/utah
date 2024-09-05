@@ -1,5 +1,5 @@
 ---
 title: "IT'SUGAR"
 url: /farmington/itsugar/
-shop: confectionery
+shop: Süßwaren
 ---

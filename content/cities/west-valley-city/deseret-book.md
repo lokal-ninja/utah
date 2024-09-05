@@ -1,5 +1,5 @@
 ---
 title: "Deseret Book"
 url: /west-valley-city/deseret-book/
-shop: books
+shop: Bücher
 ---

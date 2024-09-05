@@ -1,5 +1,5 @@
 ---
 title: "Top Stop"
 url: /logan/top-stop/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /salt-lake-city/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

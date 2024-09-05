@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /orem/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /magna/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

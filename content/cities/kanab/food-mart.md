@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /kanab/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

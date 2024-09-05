@@ -1,5 +1,5 @@
 ---
 title: "Gateway Storage"
 url: /logan/gateway-storage/
-shop: storage rental
+shop: Mieten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Southway Mini Mart"
 url: /blanding/southway-mini-mart/
-shop: convenience
+shop: Lebensmittel
 ---

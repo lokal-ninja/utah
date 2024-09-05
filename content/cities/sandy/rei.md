@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /sandy/rei/
-shop: outdoor
+shop: Outdoor
 ---

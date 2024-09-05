@@ -1,5 +1,5 @@
 ---
 title: "HideAway Books"
 url: /american-fork/hideaway-books/
-shop: books
+shop: Bücher
 ---

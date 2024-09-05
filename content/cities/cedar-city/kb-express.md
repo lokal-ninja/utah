@@ -1,5 +1,5 @@
 ---
 title: "KB Express"
 url: /cedar-city/kb-express/
-shop: convenience
+shop: Lebensmittel
 ---

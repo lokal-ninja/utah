@@ -1,5 +1,5 @@
 ---
 title: "Cannabist"
 url: /springville/cannabist/
-shop: cannabis
+shop: Hanf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wheeler CAT"
 url: /logan/wheeler-cat/
-shop: trade
+shop: Baustoffe
 ---

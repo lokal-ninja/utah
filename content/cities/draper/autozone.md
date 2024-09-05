@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /draper/autozone/
-shop: car parts
+shop: Autoteile
 ---

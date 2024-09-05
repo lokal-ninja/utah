@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /orem/holiday/
-shop: convenience
+shop: Lebensmittel
 ---

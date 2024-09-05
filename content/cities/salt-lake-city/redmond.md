@@ -1,5 +1,5 @@
 ---
 title: "Redmond"
 url: /salt-lake-city/redmond/
-shop: supermarket
+shop: Supermarkt
 ---

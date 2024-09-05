@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /saint-george/shell/
-shop: convenience
+shop: Lebensmittel
 ---

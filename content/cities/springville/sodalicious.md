@@ -1,5 +1,5 @@
 ---
 title: "Sodalicious"
 url: /springville/sodalicious/
-shop: beverages
+shop: Getränke
 ---

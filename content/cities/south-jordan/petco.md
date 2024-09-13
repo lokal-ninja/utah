@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /south-jordan/petco/
-shop: Tiere
+shop: pet
 ---

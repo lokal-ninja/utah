@@ -1,5 +1,5 @@
 ---
 title: "Gordmans"
 url: /riverdale/gordmans/
-shop: Warenhaus
+shop: department store
 ---

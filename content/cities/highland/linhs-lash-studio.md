@@ -1,5 +1,5 @@
 ---
 title: "Linh's Lash Studio"
 url: /highland/linhs-lash-studio/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Utah Audio"
 url: /sandy/utah-audio/
-shop: Allgemein
+shop: shop
 ---

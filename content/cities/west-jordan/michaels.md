@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /west-jordan/michaels/
-shop: Basteln
+shop: craft
 ---

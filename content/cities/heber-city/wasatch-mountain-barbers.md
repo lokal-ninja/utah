@@ -1,5 +1,5 @@
 ---
 title: "Wasatch Mountain Barbers"
 url: /heber-city/wasatch-mountain-barbers/
-shop: Friseur
+shop: hairdresser
 ---

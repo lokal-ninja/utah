@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /layton/kohls/
-shop: Warenhaus
+shop: department store
 ---

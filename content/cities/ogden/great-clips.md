@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /ogden/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

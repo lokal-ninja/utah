@@ -1,5 +1,5 @@
 ---
 title: "Kung Fu Tea"
 url: /salt-lake-city/kung-fu-tea/
-shop: Tee
+shop: tea
 ---

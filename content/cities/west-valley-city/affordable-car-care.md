@@ -1,5 +1,5 @@
 ---
 title: "Affordable Car Care"
 url: /west-valley-city/affordable-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

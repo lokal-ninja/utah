@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /syracuse/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

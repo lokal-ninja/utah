@@ -1,5 +1,5 @@
 ---
 title: "Croft Fireplace Center"
 url: /salt-lake-city/croft-fireplace-center/
-shop: Allgemein
+shop: shop
 ---

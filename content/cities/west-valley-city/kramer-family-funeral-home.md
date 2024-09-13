@@ -1,5 +1,5 @@
 ---
 title: "Kramer Family Funeral Home"
 url: /west-valley-city/kramer-family-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

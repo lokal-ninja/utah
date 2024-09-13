@@ -1,5 +1,5 @@
 ---
 title: "My Salon Suite"
 url: /taylorsville/my-salon-suite/
-shop: Friseur
+shop: hairdresser
 ---

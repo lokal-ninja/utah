@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /draper/petco/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Murdock Chevrolet"
 url: /woods-cross/murdock-chevrolet/
-shop: Autohaus
+shop: car
 ---

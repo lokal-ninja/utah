@@ -1,5 +1,5 @@
 ---
 title: "Secured Auto Group"
 url: /salt-lake-city/secured-auto-group/
-shop: Autohaus
+shop: car
 ---

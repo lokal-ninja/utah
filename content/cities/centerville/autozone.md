@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /centerville/autozone/
-shop: Autoteile
+shop: car parts
 ---

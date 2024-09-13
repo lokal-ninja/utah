@@ -1,5 +1,5 @@
 ---
 title: "Awash and Groom"
 url: /south-jordan/awash-and-groom/
-shop: Tiersalon
+shop: pet grooming
 ---

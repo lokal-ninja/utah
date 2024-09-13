@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /provo/target/
-shop: Warenhaus
+shop: department store
 ---

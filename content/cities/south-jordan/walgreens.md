@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /south-jordan/walgreens/
-shop: Drogerie
+shop: chemist
 ---

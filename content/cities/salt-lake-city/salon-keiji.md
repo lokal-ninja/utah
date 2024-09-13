@@ -1,5 +1,5 @@
 ---
 title: "Salon Keiji"
 url: /salt-lake-city/salon-keiji/
-shop: Friseur
+shop: hairdresser
 ---

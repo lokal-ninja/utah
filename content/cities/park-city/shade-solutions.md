@@ -1,5 +1,5 @@
 ---
 title: "Shade Solutions"
 url: /park-city/shade-solutions/
-shop: Jalousien
+shop: window blind
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /sandy/dsw/
-shop: Schuhe
+shop: shoes
 ---

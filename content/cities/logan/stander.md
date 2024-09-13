@@ -1,5 +1,5 @@
 ---
 title: "Stander"
 url: /logan/stander/
-shop: Sanitätshaus
+shop: medical supply
 ---

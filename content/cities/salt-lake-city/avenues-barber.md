@@ -1,5 +1,5 @@
 ---
 title: "Avenues Barber"
 url: /salt-lake-city/avenues-barber/
-shop: Friseur
+shop: hairdresser
 ---

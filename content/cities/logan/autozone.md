@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /logan/autozone/
-shop: Autoteile
+shop: car parts
 ---

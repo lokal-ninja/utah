@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /orem/savers/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CarSmart"
 url: /logan/carsmart/
-shop: Autowerkstatt
+shop: car repair
 ---

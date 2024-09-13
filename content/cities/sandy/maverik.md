@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /sandy/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Expercom"
 url: /logan/expercom/
-shop: Elektronik
+shop: electronics
 ---

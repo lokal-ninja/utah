@@ -1,5 +1,5 @@
 ---
 title: "Fiiz Drinks"
 url: /salem/fiiz-drinks/
-shop: Getränke
+shop: beverages
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Indy Clover"
 url: /logan/indy-clover/
-shop: Kleidung
+shop: clothes
 ---

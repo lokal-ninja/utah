@@ -1,5 +1,5 @@
 ---
 title: "Burt Brothers Tires"
 url: /west-jordan/burt-brothers-tires/
-shop: Reifen
+shop: tyres
 ---

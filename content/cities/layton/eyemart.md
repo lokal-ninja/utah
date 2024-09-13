@@ -1,5 +1,5 @@
 ---
 title: "Eyemart"
 url: /layton/eyemart/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hyrum Chevron"
 url: /hyrum/hyrum-chevron/
-shop: Lebensmittel
+shop: convenience
 ---

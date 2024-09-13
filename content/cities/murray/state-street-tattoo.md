@@ -1,5 +1,5 @@
 ---
 title: "State Street Tattoo"
 url: /murray/state-street-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Earth Elements"
 url: /park-city/earth-elements/
-shop: Baumarkt
+shop: doityourself
 ---

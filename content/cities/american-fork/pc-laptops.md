@@ -1,5 +1,5 @@
 ---
 title: "PC Laptops"
 url: /american-fork/pc-laptops/
-shop: Computer
+shop: computer
 ---

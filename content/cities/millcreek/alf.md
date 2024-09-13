@@ -1,5 +1,5 @@
 ---
 title: "ALF"
 url: /millcreek/alf/
-shop: Möbel
+shop: furniture
 ---

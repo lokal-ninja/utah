@@ -1,5 +1,5 @@
 ---
 title: "Stance"
 url: /salt-lake-city/stance/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stryve"
 url: /holladay/stryve/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

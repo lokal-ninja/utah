@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /herriman/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

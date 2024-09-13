@@ -1,5 +1,5 @@
 ---
 title: "Sandy Flower Shop"
 url: /sandy/sandy-flower-shop/
-shop: Blumen
+shop: florist
 ---

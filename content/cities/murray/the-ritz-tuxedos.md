@@ -1,5 +1,5 @@
 ---
 title: "The Ritz Tuxedos"
 url: /murray/the-ritz-tuxedos/
-shop: Kleidung
+shop: clothes
 ---

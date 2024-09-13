@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /millcreek/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

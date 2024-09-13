@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /west-valley-city/burlington/
-shop: Warenhaus
+shop: department store
 ---

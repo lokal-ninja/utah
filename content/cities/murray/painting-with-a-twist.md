@@ -1,5 +1,5 @@
 ---
 title: "Painting With A Twist"
 url: /murray/painting-with-a-twist/
-shop: Allgemein
+shop: shop
 ---

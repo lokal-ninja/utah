@@ -1,5 +1,5 @@
 ---
 title: "Big O Tires"
 url: /riverton/big-o-tires/
-shop: Reifen
+shop: tyres
 ---

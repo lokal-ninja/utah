@@ -1,5 +1,5 @@
 ---
 title: "Hurricane Dry Cleaner"
 url: /hurricane/hurricane-dry-cleaner/
-shop: Wäscherei
+shop: laundry
 ---

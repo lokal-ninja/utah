@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /west-jordan/target/
-shop: Warenhaus
+shop: department store
 ---

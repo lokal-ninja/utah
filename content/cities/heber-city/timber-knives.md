@@ -1,5 +1,5 @@
 ---
 title: "Timber Knives"
 url: /heber-city/timber-knives/
-shop: Allgemein
+shop: shop
 ---

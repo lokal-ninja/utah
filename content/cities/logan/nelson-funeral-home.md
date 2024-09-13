@@ -1,5 +1,5 @@
 ---
 title: "Nelson Funeral Home"
 url: /logan/nelson-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panaderia Lizbeth"
 url: /salt-lake-city/panaderia-lizbeth/
-shop: Bäckerei
+shop: bakery
 ---

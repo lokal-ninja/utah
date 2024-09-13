@@ -1,5 +1,5 @@
 ---
 title: "Donut House"
 url: /salt-lake-city/donut-house/
-shop: Allgemein
+shop: shop
 ---

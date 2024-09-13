@@ -1,5 +1,5 @@
 ---
 title: "Pares Polynesian Market"
 url: /taylorsville/pares-polynesian-market/
-shop: Supermarkt
+shop: supermarket
 ---

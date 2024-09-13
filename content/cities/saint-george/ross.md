@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /saint-george/ross/
-shop: Warenhaus
+shop: department store
 ---

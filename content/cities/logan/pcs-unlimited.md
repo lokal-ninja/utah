@@ -1,5 +1,5 @@
 ---
 title: "PC's Unlimited"
 url: /logan/pcs-unlimited/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /salt-lake-city/swarovski/
-shop: Schmuck
+shop: jewelry
 ---

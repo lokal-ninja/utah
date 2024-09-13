@@ -1,5 +1,5 @@
 ---
 title: "Bucked Up"
 url: /farmington/bucked-up/
-shop: Kleidung
+shop: clothes
 ---

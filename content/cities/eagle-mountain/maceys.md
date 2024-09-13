@@ -1,5 +1,5 @@
 ---
 title: "Macey's"
 url: /eagle-mountain/maceys/
-shop: Supermarkt
+shop: supermarket
 ---

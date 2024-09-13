@@ -1,5 +1,5 @@
 ---
 title: "Crumbl Cookies"
 url: /american-fork/crumbl-cookies/
-shop: Konditorei
+shop: pastry
 ---

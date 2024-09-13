@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /south-jordan/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

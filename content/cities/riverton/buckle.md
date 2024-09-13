@@ -1,5 +1,5 @@
 ---
 title: "Buckle"
 url: /riverton/buckle/
-shop: Kleidung
+shop: clothes
 ---

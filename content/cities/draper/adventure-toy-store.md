@@ -1,5 +1,5 @@
 ---
 title: "Adventure Toy Store"
 url: /draper/adventure-toy-store/
-shop: Spielzeug
+shop: toys
 ---

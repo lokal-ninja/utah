@@ -1,5 +1,5 @@
 ---
 title: "Tricked Out Accessories"
 url: /riverton/tricked-out-accessories/
-shop: Handy
+shop: mobile phone
 ---

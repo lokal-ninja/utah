@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /west-jordan/massage-envy/
-shop: Massage
+shop: massage
 ---

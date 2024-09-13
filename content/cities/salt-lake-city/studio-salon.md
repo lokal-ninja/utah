@@ -1,5 +1,5 @@
 ---
 title: "Studio Salon"
 url: /salt-lake-city/studio-salon/
-shop: Friseur
+shop: hairdresser
 ---

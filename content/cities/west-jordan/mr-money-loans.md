@@ -1,5 +1,5 @@
 ---
 title: "Mr. Money Loans"
 url: /west-jordan/mr-money-loans/
-shop: Leiher
+shop: pawnbroker
 ---

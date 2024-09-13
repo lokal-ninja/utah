@@ -1,5 +1,5 @@
 ---
 title: "The Drunken Screw"
 url: /salina/the-drunken-screw/
-shop: Spirituosen
+shop: alcohol
 ---

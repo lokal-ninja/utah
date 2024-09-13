@@ -1,5 +1,5 @@
 ---
 title: "Triple Stop"
 url: /roy/triple-stop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Country Junction"
 url: /levan/country-junction/
-shop: Lebensmittel
+shop: convenience
 ---

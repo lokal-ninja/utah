@@ -1,5 +1,5 @@
 ---
 title: "Jo-Ann"
 url: /washington/jo-ann/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /park-city/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

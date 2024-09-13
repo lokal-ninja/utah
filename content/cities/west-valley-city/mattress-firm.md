@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /west-valley-city/mattress-firm/
-shop: Betten
+shop: bed
 ---

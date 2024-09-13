@@ -1,5 +1,5 @@
 ---
 title: "Salt Lake Sewing"
 url: /south-salt-lake/salt-lake-sewing/
-shop: Nähzubehör
+shop: sewing
 ---

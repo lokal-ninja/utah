@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /salt-lake-city/ross-brickyard-road/
-shop: Warenhaus
+shop: department store
 ---

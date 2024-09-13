@@ -1,5 +1,5 @@
 ---
 title: "Fiiz Drinks"
 url: /kamas/fiiz-drinks/
-shop: Getränke
+shop: beverages
 ---

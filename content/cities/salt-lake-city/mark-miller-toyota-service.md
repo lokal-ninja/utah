@@ -1,5 +1,5 @@
 ---
 title: "Mark Miller Toyota Service"
 url: /salt-lake-city/mark-miller-toyota-service/
-shop: Autowerkstatt
+shop: car repair
 ---

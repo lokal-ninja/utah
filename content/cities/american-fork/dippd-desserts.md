@@ -1,5 +1,5 @@
 ---
 title: "Dipp'd Desserts"
 url: /american-fork/dippd-desserts/
-shop: Bäckerei
+shop: bakery
 ---

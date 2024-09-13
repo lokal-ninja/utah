@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /salt-lake-city/xfinity/
-shop: Handy
+shop: mobile phone
 ---

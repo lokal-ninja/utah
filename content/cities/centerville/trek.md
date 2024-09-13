@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /centerville/trek/
-shop: Fahrrad
+shop: bicycle
 ---

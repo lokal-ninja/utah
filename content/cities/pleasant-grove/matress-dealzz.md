@@ -1,5 +1,5 @@
 ---
 title: "Matress Dealzz"
 url: /pleasant-grove/matress-dealzz/
-shop: Betten
+shop: bed
 ---

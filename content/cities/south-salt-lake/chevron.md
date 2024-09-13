@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /south-salt-lake/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Imaging Depot"
 url: /layton/the-imaging-depot/
-shop: Foto
+shop: photo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PC Laptops"
 url: /murray/pc-laptops/
-shop: Computer
+shop: computer
 ---

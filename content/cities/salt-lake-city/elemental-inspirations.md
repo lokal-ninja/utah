@@ -1,5 +1,5 @@
 ---
 title: "Elemental Inspirations"
 url: /salt-lake-city/elemental-inspirations/
-shop: Allgemein
+shop: shop
 ---

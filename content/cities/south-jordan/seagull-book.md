@@ -1,5 +1,5 @@
 ---
 title: "Seagull Book"
 url: /south-jordan/seagull-book/
-shop: Bücher
+shop: books
 ---

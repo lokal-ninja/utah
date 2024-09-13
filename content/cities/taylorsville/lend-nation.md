@@ -1,5 +1,5 @@
 ---
 title: "Lend Nation"
 url: /taylorsville/lend-nation/
-shop: Leiher
+shop: pawnbroker
 ---

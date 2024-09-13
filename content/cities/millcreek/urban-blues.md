@@ -1,5 +1,5 @@
 ---
 title: "Urban Blues"
 url: /millcreek/urban-blues/
-shop: Kleidung
+shop: clothes
 ---

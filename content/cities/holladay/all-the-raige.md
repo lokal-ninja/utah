@@ -1,5 +1,5 @@
 ---
 title: "All the Raige"
 url: /holladay/all-the-raige/
-shop: Tiersalon
+shop: pet grooming
 ---

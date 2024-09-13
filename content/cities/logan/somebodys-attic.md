@@ -1,5 +1,5 @@
 ---
 title: "Somebody's Attic"
 url: /logan/somebodys-attic/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Truck World"
 url: /bountiful/truck-world/
-shop: Autohaus
+shop: car
 ---

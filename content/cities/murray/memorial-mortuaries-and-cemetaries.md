@@ -1,5 +1,5 @@
 ---
 title: "Memorial Mortuaries and Cemetaries"
 url: /murray/memorial-mortuaries-and-cemetaries/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fast Stop"
 url: /snowville/fast-stop/
-shop: Lebensmittel
+shop: convenience
 ---

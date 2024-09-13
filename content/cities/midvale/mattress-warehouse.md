@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /midvale/mattress-warehouse/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Batteries Plus"
 url: /riverton/batteries-plus/
-shop: Elektronik
+shop: electronics
 ---

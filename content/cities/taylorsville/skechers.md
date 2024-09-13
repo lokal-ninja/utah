@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /taylorsville/skechers/
-shop: Schuhe
+shop: shoes
 ---

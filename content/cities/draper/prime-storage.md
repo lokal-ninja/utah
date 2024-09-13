@@ -1,5 +1,5 @@
 ---
 title: "Prime Storage"
 url: /draper/prime-storage/
-shop: Mieten
+shop: storage rental
 ---

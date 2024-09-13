@@ -1,5 +1,5 @@
 ---
 title: "Maison"
 url: /holladay/maison/
-shop: Kleidung
+shop: clothes
 ---

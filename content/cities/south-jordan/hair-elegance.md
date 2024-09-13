@@ -1,5 +1,5 @@
 ---
 title: "Hair Elegance"
 url: /south-jordan/hair-elegance/
-shop: Friseur
+shop: hairdresser
 ---

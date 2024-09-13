@@ -1,5 +1,5 @@
 ---
 title: "Wasatch Motor Werks"
 url: /salt-lake-city/wasatch-motor-werks/
-shop: Autowerkstatt
+shop: car repair
 ---

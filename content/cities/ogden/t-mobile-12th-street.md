@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /ogden/t-mobile-12th-street/
-shop: Handy
+shop: mobile phone
 ---

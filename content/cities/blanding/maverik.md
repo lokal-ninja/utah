@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /blanding/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

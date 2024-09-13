@@ -1,5 +1,5 @@
 ---
 title: "Removery"
 url: /salt-lake-city/removery/
-shop: Tattoo
+shop: tattoo
 ---

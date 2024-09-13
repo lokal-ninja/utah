@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /bountiful/ross/
-shop: Warenhaus
+shop: department store
 ---

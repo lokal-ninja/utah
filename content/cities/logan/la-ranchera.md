@@ -1,5 +1,5 @@
 ---
 title: "La Ranchera"
 url: /logan/la-ranchera/
-shop: Supermarkt
+shop: supermarket
 ---

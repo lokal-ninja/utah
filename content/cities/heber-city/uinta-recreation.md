@@ -1,5 +1,5 @@
 ---
 title: "Uinta Recreation"
 url: /heber-city/uinta-recreation/
-shop: Mieten
+shop: storage rental
 ---

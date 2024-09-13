@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /ballard/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

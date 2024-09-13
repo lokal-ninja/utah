@@ -1,5 +1,5 @@
 ---
 title: "Smith's Marketplace"
 url: /salt-lake-city/smiths-marketplace/
-shop: Supermarkt
+shop: supermarket
 ---

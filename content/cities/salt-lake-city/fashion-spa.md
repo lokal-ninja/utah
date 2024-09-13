@@ -1,5 +1,5 @@
 ---
 title: "Fashion Spa"
 url: /salt-lake-city/fashion-spa/
-shop: Massage
+shop: massage
 ---

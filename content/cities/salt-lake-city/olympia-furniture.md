@@ -1,5 +1,5 @@
 ---
 title: "Olympia Furniture"
 url: /salt-lake-city/olympia-furniture/
-shop: Möbel
+shop: furniture
 ---

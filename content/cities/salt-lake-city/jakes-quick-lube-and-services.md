@@ -1,5 +1,5 @@
 ---
 title: "Jake's Quick Lube and Services"
 url: /salt-lake-city/jakes-quick-lube-and-services/
-shop: Autowerkstatt
+shop: car repair
 ---

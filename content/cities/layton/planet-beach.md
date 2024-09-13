@@ -1,5 +1,5 @@
 ---
 title: "Planet Beach"
 url: /layton/planet-beach/
-shop: Kosmetik
+shop: beauty
 ---

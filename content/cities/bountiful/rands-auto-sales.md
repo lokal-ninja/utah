@@ -1,5 +1,5 @@
 ---
 title: "Rand's Auto Sales"
 url: /bountiful/rands-auto-sales/
-shop: Autohaus
+shop: car
 ---

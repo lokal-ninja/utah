@@ -1,5 +1,5 @@
 ---
 title: "The Beauty Hall"
 url: /murray/the-beauty-hall/
-shop: Kosmetik
+shop: beauty
 ---

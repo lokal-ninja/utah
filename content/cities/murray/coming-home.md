@@ -1,5 +1,5 @@
 ---
 title: "Coming Home"
 url: /murray/coming-home/
-shop: Haushaltsartikel
+shop: houseware
 ---

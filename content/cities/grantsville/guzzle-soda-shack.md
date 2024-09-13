@@ -1,5 +1,5 @@
 ---
 title: "Guzzle Soda Shack"
 url: /grantsville/guzzle-soda-shack/
-shop: Getränke
+shop: beverages
 ---

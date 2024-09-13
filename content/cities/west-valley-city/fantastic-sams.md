@@ -1,5 +1,5 @@
 ---
 title: "Fantastic Sams"
 url: /west-valley-city/fantastic-sams/
-shop: Friseur
+shop: hairdresser
 ---

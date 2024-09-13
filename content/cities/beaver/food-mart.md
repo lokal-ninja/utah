@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /beaver/food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

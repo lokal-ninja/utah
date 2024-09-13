@@ -1,5 +1,5 @@
 ---
 title: "Geminix"
 url: /south-jordan/geminix/
-shop: Massage
+shop: massage
 ---

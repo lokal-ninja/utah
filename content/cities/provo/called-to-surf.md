@@ -1,5 +1,5 @@
 ---
 title: "Called to Surf"
 url: /provo/called-to-surf/
-shop: Kleidung
+shop: clothes
 ---

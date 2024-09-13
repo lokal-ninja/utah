@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /taylorsville/ulta-beauty/
-shop: Allgemein
+shop: shop
 ---

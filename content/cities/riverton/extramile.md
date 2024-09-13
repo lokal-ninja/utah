@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /riverton/extramile/
-shop: Lebensmittel
+shop: convenience
 ---

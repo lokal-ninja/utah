@@ -1,5 +1,5 @@
 ---
 title: "Impact Guns"
 url: /salt-lake-city/impact-guns/
-shop: Jagd
+shop: hunting
 ---

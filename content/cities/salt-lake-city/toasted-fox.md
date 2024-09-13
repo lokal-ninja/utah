@@ -1,5 +1,5 @@
 ---
 title: "Toasted Fox"
 url: /salt-lake-city/toasted-fox/
-shop: Allgemein
+shop: shop
 ---

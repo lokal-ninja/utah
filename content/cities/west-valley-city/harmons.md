@@ -1,5 +1,5 @@
 ---
 title: "Harmons"
 url: /west-valley-city/harmons/
-shop: Supermarkt
+shop: supermarket
 ---

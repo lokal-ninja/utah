@@ -1,5 +1,5 @@
 ---
 title: "Mike's Market"
 url: /garden-city/mikes-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /park-city/carters/
-shop: Kleidung
+shop: clothes
 ---

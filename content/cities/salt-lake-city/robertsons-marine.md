@@ -1,5 +1,5 @@
 ---
 title: "Robertson's Marine"
 url: /salt-lake-city/robertsons-marine/
-shop: Boot
+shop: boat
 ---

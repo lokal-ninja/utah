@@ -1,5 +1,5 @@
 ---
 title: "BloomingSales"
 url: /salt-lake-city/bloomingsales/
-shop: Andenken
+shop: gift
 ---

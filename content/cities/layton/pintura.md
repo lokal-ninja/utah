@@ -1,5 +1,5 @@
 ---
 title: "Pintura"
 url: /layton/pintura/
-shop: Rahmen
+shop: frame
 ---

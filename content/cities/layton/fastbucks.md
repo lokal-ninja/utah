@@ -1,5 +1,5 @@
 ---
 title: "FastBucks"
 url: /layton/fastbucks/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /american-fork/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

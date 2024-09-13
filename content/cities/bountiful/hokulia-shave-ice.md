@@ -1,5 +1,5 @@
 ---
 title: "Hokulia Shave Ice"
 url: /bountiful/hokulia-shave-ice/
-shop: Eisprodukte
+shop: ice cream
 ---

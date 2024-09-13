@@ -1,5 +1,5 @@
 ---
 title: "Morgan Drug"
 url: /morgan/morgan-drug/
-shop: Drogerie
+shop: chemist
 ---

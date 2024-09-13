@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
 url: /vernal/smiths/
-shop: Supermarkt
+shop: supermarket
 ---

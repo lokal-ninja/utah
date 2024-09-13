@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /north-logan/kohls/
-shop: Warenhaus
+shop: department store
 ---

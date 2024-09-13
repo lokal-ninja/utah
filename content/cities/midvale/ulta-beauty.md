@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /midvale/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

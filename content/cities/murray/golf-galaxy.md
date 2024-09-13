@@ -1,5 +1,5 @@
 ---
 title: "Golf Galaxy"
 url: /murray/golf-galaxy/
-shop: Sport
+shop: sports
 ---

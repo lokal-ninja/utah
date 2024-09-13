@@ -1,5 +1,5 @@
 ---
 title: "The Biketender"
 url: /american-fork/the-biketender/
-shop: Fahrrad
+shop: bicycle
 ---

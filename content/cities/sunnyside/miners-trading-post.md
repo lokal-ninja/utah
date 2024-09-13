@@ -1,5 +1,5 @@
 ---
 title: "Miners Trading Post"
 url: /sunnyside/miners-trading-post/
-shop: Supermarkt
+shop: supermarket
 ---

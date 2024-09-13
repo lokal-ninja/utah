@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /riverton/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

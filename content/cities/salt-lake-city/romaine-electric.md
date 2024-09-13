@@ -1,5 +1,5 @@
 ---
 title: "Romaine Electric"
 url: /salt-lake-city/romaine-electric/
-shop: Autowerkstatt
+shop: car repair
 ---

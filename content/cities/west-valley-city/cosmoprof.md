@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /west-valley-city/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

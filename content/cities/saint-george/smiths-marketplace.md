@@ -1,5 +1,5 @@
 ---
 title: "Smith's Marketplace"
 url: /saint-george/smiths-marketplace/
-shop: Supermarkt
+shop: supermarket
 ---

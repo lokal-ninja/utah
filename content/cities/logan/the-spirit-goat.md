@@ -1,5 +1,5 @@
 ---
 title: "The Spirit Goat"
 url: /logan/the-spirit-goat/
-shop: Allgemein
+shop: shop
 ---

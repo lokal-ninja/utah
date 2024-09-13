@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /saratoga-springs/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

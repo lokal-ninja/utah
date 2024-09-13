@@ -1,5 +1,5 @@
 ---
 title: "Red Hanger"
 url: /west-valley/red-hanger/
-shop: Wäscherei
+shop: laundry
 ---

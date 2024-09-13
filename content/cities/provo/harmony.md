@@ -1,5 +1,5 @@
 ---
 title: "Harmony"
 url: /provo/harmony/
-shop: Textil
+shop: fabric
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mitch's Autoworks"
 url: /orem/mitchs-autoworks/
-shop: Autowerkstatt
+shop: car repair
 ---

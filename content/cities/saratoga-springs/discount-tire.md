@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /saratoga-springs/discount-tire/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Art Garden"
 url: /murray/art-garden/
-shop: Raumausstattung
+shop: interior decoration
 ---

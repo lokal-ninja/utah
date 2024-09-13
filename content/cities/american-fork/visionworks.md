@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /american-fork/visionworks/
-shop: Optiker
+shop: optician
 ---

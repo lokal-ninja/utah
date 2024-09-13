@@ -1,5 +1,5 @@
 ---
 title: "Total Scrubs"
 url: /lehi/total-scrubs/
-shop: Allgemein
+shop: shop
 ---

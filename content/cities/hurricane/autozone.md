@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /hurricane/autozone/
-shop: Autoteile
+shop: car parts
 ---

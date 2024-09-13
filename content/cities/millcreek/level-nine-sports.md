@@ -1,5 +1,5 @@
 ---
 title: "Level Nine Sports"
 url: /millcreek/level-nine-sports/
-shop: Outdoor
+shop: outdoor
 ---

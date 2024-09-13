@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /saint-george/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

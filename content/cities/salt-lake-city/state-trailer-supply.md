@@ -1,5 +1,5 @@
 ---
 title: "State Trailer Supply"
 url: /salt-lake-city/state-trailer-supply/
-shop: Autoteile
+shop: car parts
 ---

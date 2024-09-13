@@ -1,5 +1,5 @@
 ---
 title: "Great Harvest Bread Company"
 url: /logan/great-harvest-bread-company/
-shop: Bäckerei
+shop: bakery
 ---

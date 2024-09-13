@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /heber-city/petco/
-shop: Tiere
+shop: pet
 ---

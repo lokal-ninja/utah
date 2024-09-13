@@ -1,5 +1,5 @@
 ---
 title: "ULTA Beauty"
 url: /salt-lake-city/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

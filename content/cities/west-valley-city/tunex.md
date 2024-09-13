@@ -1,5 +1,5 @@
 ---
 title: "Tunex"
 url: /west-valley-city/tunex/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bonobos"
 url: /salt-lake-city/bonobos/
-shop: Kleidung
+shop: clothes
 ---

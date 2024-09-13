@@ -1,5 +1,5 @@
 ---
 title: "The Car Store"
 url: /murray/the-car-store/
-shop: Autohaus
+shop: car
 ---

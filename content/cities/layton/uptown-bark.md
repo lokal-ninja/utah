@@ -1,5 +1,5 @@
 ---
 title: "Uptown Bark"
 url: /layton/uptown-bark/
-shop: Tiersalon
+shop: pet grooming
 ---

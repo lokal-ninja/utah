@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /salt-lake-city/oreilly-auto-parts-sequoia-vista-circle/
-shop: Autoteile
+shop: car parts
 ---

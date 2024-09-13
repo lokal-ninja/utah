@@ -1,5 +1,5 @@
 ---
 title: "The Gem Smith"
 url: /bountiful/the-gem-smith/
-shop: Schmuck
+shop: jewelry
 ---

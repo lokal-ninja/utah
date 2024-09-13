@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /monticello/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

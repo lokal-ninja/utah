@@ -1,5 +1,5 @@
 ---
 title: "Salon K"
 url: /provo/salon-k/
-shop: Kosmetik
+shop: beauty
 ---

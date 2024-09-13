@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /south-jordan/ross/
-shop: Warenhaus
+shop: department store
 ---

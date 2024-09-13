@@ -1,5 +1,5 @@
 ---
 title: "Enterprise"
 url: /naples/enterprise/
-shop: Mieten
+shop: storage rental
 ---

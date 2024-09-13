@@ -1,5 +1,5 @@
 ---
 title: "Nutrition And Bodyfit"
 url: /salt-lake-city/nutrition-and-bodyfit/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

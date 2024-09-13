@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /american-fork/burlington/
-shop: Warenhaus
+shop: department store
 ---

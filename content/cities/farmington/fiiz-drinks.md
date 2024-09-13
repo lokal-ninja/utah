@@ -1,5 +1,5 @@
 ---
 title: "Fiiz Drinks"
 url: /farmington/fiiz-drinks/
-shop: Getränke
+shop: beverages
 ---

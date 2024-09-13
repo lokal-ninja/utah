@@ -1,5 +1,5 @@
 ---
 title: "Logicc Protection Studio"
 url: /salt-lake-city/logicc-protection-studio/
-shop: Autowerkstatt
+shop: car repair
 ---

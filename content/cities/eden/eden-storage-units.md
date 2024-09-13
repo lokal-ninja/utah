@@ -1,5 +1,5 @@
 ---
 title: "Eden Storage Units"
 url: /eden/eden-storage-units/
-shop: Mieten
+shop: storage rental
 ---

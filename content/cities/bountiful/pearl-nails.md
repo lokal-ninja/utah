@@ -1,5 +1,5 @@
 ---
 title: "Pearl Nails"
 url: /bountiful/pearl-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Royal Coffee"
 url: /riverton/royal-coffee/
-shop: Kaffee
+shop: coffee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Purple"
 url: /riverton/purple/
-shop: Betten
+shop: bed
 ---

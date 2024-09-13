@@ -1,5 +1,5 @@
 ---
 title: "Artistic Framing"
 url: /salt-lake-city/artistic-framing/
-shop: Rahmen
+shop: frame
 ---

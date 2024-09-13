@@ -1,5 +1,5 @@
 ---
 title: "Fiiz Drinks"
 url: /oakley/fiiz-drinks/
-shop: Getränke
+shop: beverages
 ---

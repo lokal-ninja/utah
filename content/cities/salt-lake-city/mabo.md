@@ -1,5 +1,5 @@
 ---
 title: "mabo"
 url: /salt-lake-city/mabo/
-shop: Kleidung
+shop: clothes
 ---

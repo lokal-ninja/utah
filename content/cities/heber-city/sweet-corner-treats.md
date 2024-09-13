@@ -1,5 +1,5 @@
 ---
 title: "Sweet Corner Treats"
 url: /heber-city/sweet-corner-treats/
-shop: Süßwaren
+shop: confectionery
 ---

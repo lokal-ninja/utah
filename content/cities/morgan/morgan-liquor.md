@@ -1,5 +1,5 @@
 ---
 title: "Morgan Liquor"
 url: /morgan/morgan-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

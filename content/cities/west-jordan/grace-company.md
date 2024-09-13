@@ -1,5 +1,5 @@
 ---
 title: "Grace Company"
 url: /west-jordan/grace-company/
-shop: Nähzubehör
+shop: sewing
 ---

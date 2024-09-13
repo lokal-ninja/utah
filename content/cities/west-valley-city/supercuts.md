@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /west-valley-city/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

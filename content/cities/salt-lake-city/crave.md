@@ -1,5 +1,5 @@
 ---
 title: "Crave"
 url: /salt-lake-city/crave/
-shop: Konditorei
+shop: pastry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stor'Em Self Storage"
 url: /magna/storem-self-storage/
-shop: Mieten
+shop: storage rental
 ---

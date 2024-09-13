@@ -1,5 +1,5 @@
 ---
 title: "Larkin Mortuary"
 url: /riverton/larkin-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carpet Barn"
 url: /south-salt-lake/carpet-barn/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /layton/petco/
-shop: Tiere
+shop: pet
 ---

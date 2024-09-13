@@ -1,5 +1,5 @@
 ---
 title: "The Nutrition in Kearns"
 url: /kearns/the-nutrition-in-kearns/
-shop: Bioladen
+shop: health food
 ---

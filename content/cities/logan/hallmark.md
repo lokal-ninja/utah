@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /logan/hallmark/
-shop: Andenken
+shop: gift
 ---

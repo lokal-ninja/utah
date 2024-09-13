@@ -1,5 +1,5 @@
 ---
 title: "Panaderia Alicia's"
 url: /west-valley-city/panaderia-alicias/
-shop: Bäckerei
+shop: bakery
 ---

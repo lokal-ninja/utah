@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /west-valley-city/target/
-shop: Warenhaus
+shop: department store
 ---

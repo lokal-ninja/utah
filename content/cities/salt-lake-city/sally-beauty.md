@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /salt-lake-city/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

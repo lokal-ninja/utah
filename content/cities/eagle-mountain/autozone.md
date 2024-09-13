@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /eagle-mountain/autozone/
-shop: Autoteile
+shop: car parts
 ---

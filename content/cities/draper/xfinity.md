@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /draper/xfinity/
-shop: Handy
+shop: mobile phone
 ---

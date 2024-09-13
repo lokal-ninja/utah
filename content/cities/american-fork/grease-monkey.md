@@ -1,5 +1,5 @@
 ---
 title: "Grease Monkey"
 url: /american-fork/grease-monkey/
-shop: Autowerkstatt
+shop: car repair
 ---

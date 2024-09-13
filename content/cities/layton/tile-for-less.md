@@ -1,5 +1,5 @@
 ---
 title: "Tile for Less"
 url: /layton/tile-for-less/
-shop: Raumausstattung
+shop: interior decoration
 ---

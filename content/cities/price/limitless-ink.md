@@ -1,5 +1,5 @@
 ---
 title: "Limitless Ink"
 url: /price/limitless-ink/
-shop: Tattoo
+shop: tattoo
 ---

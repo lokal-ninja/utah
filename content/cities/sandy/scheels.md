@@ -1,5 +1,5 @@
 ---
 title: "Scheels"
 url: /sandy/scheels/
-shop: Sport
+shop: sports
 ---

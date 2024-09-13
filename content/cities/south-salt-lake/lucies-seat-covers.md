@@ -1,5 +1,5 @@
 ---
 title: "Lucie's Seat Covers"
 url: /south-salt-lake/lucies-seat-covers/
-shop: Autowerkstatt
+shop: car repair
 ---

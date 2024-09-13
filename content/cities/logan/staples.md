@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /logan/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

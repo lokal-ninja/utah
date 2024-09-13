@@ -1,5 +1,5 @@
 ---
 title: "Flying J"
 url: /snowville/flying-j/
-shop: Lebensmittel
+shop: convenience
 ---

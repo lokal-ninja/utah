@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /american-fork/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

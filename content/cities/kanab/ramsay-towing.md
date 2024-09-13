@@ -1,5 +1,5 @@
 ---
 title: "Ramsay Towing"
 url: /kanab/ramsay-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

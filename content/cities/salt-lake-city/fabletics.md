@@ -1,5 +1,5 @@
 ---
 title: "Fabletics"
 url: /salt-lake-city/fabletics/
-shop: Kleidung
+shop: clothes
 ---

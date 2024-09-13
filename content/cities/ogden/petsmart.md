@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /ogden/petsmart/
-shop: Tiere
+shop: pet
 ---

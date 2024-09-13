@@ -1,5 +1,5 @@
 ---
 title: "No Limit Barbers"
 url: /taylorsville/no-limit-barbers/
-shop: Friseur
+shop: hairdresser
 ---

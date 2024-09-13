@@ -1,5 +1,5 @@
 ---
 title: "Copperhive Vintage"
 url: /south-salt-lake/copperhive-vintage/
-shop: Kleidung
+shop: clothes
 ---

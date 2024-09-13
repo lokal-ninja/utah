@@ -1,5 +1,5 @@
 ---
 title: "Fiiz Drinks"
 url: /west-haven/fiiz-drinks/
-shop: Getränke
+shop: beverages
 ---

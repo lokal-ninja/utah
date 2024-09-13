@@ -1,5 +1,5 @@
 ---
 title: "Mr Mac"
 url: /taylorsville/mr-mac/
-shop: Kleidung
+shop: clothes
 ---

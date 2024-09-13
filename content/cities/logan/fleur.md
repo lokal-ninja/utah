@@ -1,5 +1,5 @@
 ---
 title: "Fleur"
 url: /logan/fleur/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Perfect Dress"
 url: /holladay/the-perfect-dress/
-shop: Kleidung
+shop: clothes
 ---

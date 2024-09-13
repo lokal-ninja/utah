@@ -1,5 +1,5 @@
 ---
 title: "Anthropologie"
 url: /riverton/anthropologie/
-shop: Kleidung
+shop: clothes
 ---

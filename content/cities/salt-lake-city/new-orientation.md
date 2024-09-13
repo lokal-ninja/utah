@@ -1,5 +1,5 @@
 ---
 title: "New Orientation"
 url: /salt-lake-city/new-orientation/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /saint-george/mattress-firm/
-shop: Betten
+shop: bed
 ---

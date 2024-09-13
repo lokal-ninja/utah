@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /logan/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

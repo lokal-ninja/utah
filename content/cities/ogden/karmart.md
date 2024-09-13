@@ -1,5 +1,5 @@
 ---
 title: "Karmart"
 url: /ogden/karmart/
-shop: Lebensmittel
+shop: convenience
 ---

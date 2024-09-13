@@ -1,5 +1,5 @@
 ---
 title: "Lashifeyed"
 url: /west-jordan/lashifeyed/
-shop: Kosmetik
+shop: beauty
 ---

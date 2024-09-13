@@ -1,5 +1,5 @@
 ---
 title: "Canyon Copy"
 url: /highland/canyon-copy/
-shop: Kopieren
+shop: copyshop
 ---

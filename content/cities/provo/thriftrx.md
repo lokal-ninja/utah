@@ -1,5 +1,5 @@
 ---
 title: "ThriftRX"
 url: /provo/thriftrx/
-shop: Gebrauchtwaren
+shop: charity
 ---

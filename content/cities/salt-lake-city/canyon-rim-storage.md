@@ -1,5 +1,5 @@
 ---
 title: "Canyon Rim Storage"
 url: /salt-lake-city/canyon-rim-storage/
-shop: Mieten
+shop: storage rental
 ---

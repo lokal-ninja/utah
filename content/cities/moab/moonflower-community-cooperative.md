@@ -1,5 +1,5 @@
 ---
 title: "Moonflower Community Cooperative"
 url: /moab/moonflower-community-cooperative/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /saint-george/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

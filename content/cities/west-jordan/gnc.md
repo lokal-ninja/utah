@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /west-jordan/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

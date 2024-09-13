@@ -1,5 +1,5 @@
 ---
 title: "Elase"
 url: /draper/elase/
-shop: Kosmetik
+shop: beauty
 ---

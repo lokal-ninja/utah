@@ -1,5 +1,5 @@
 ---
 title: "Perfect Nails"
 url: /ogden/perfect-nails/
-shop: Kosmetik
+shop: beauty
 ---

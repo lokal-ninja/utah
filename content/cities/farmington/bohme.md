@@ -1,5 +1,5 @@
 ---
 title: "Bohme"
 url: /farmington/bohme/
-shop: Kleidung
+shop: clothes
 ---

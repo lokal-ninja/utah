@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /springville/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

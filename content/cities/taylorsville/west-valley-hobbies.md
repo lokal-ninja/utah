@@ -1,5 +1,5 @@
 ---
 title: "West Valley Hobbies"
 url: /taylorsville/west-valley-hobbies/
-shop: Sport
+shop: sports
 ---

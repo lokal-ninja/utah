@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /orem/burlington/
-shop: Warenhaus
+shop: department store
 ---

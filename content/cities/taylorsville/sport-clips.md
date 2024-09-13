@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /taylorsville/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

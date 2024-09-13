@@ -1,5 +1,5 @@
 ---
 title: "Bountiful Bicycle"
 url: /bountiful/bountiful-bicycle/
-shop: Fahrrad
+shop: bicycle
 ---

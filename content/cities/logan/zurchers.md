@@ -1,5 +1,5 @@
 ---
 title: "Zurchers"
 url: /logan/zurchers/
-shop: Partyzubehör
+shop: party
 ---

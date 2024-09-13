@@ -1,5 +1,5 @@
 ---
 title: "Fiiz Drinks"
 url: /willard/fiiz-drinks/
-shop: Getränke
+shop: beverages
 ---

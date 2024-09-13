@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /midvale/autozone/
-shop: Autoteile
+shop: car parts
 ---

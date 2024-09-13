@@ -1,5 +1,5 @@
 ---
 title: "Ski 'N See"
 url: /sandy/ski-n-see/
-shop: Sport
+shop: sports
 ---

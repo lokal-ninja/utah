@@ -1,5 +1,5 @@
 ---
 title: "Leven's"
 url: /logan/levens/
-shop: Kleidung
+shop: clothes
 ---

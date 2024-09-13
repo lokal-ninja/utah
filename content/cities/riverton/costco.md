@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /riverton/costco/
-shop: Großhandel
+shop: wholesale
 ---

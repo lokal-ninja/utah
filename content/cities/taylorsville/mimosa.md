@@ -1,5 +1,5 @@
 ---
 title: "Mimosa"
 url: /taylorsville/mimosa/
-shop: Allgemein
+shop: shop
 ---

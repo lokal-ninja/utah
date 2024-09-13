@@ -1,5 +1,5 @@
 ---
 title: "FBM"
 url: /logan/fbm/
-shop: Eisenwaren
+shop: hardware
 ---

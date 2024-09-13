@@ -1,5 +1,5 @@
 ---
 title: "Continental Cleaners"
 url: /salt-lake-city/continental-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

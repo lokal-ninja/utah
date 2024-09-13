@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /cedar-hills/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

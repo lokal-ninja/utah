@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /salina/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

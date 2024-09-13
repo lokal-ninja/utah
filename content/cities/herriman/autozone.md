@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /herriman/autozone/
-shop: Autoteile
+shop: car parts
 ---

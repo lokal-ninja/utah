@@ -1,5 +1,5 @@
 ---
 title: "Cruise America"
 url: /millcreek/cruise-america/
-shop: Wohnwagen
+shop: caravan
 ---

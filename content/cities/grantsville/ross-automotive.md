@@ -1,5 +1,5 @@
 ---
 title: "Ross Automotive"
 url: /grantsville/ross-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

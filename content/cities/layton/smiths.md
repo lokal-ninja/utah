@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
 url: /layton/smiths/
-shop: Supermarkt
+shop: supermarket
 ---

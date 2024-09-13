@@ -1,5 +1,5 @@
 ---
 title: "Grassroots Aveda Spa"
 url: /layton/grassroots-aveda-spa/
-shop: Kosmetik
+shop: beauty
 ---

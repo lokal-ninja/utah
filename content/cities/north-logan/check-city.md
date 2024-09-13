@@ -1,5 +1,5 @@
 ---
 title: "Check City"
 url: /north-logan/check-city/
-shop: Leiher
+shop: pawnbroker
 ---

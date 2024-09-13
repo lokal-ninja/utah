@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /west-valley-city/petsmart/
-shop: Tiere
+shop: pet
 ---

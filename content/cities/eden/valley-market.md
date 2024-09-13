@@ -1,5 +1,5 @@
 ---
 title: "Valley Market"
 url: /eden/valley-market/
-shop: Supermarkt
+shop: supermarket
 ---

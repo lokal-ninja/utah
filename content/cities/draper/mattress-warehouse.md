@@ -1,5 +1,5 @@
 ---
 title: "Mattress Warehouse"
 url: /draper/mattress-warehouse/
-shop: Betten
+shop: bed
 ---

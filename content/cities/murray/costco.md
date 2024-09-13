@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /murray/costco/
-shop: Großhandel
+shop: wholesale
 ---

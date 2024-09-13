@@ -1,5 +1,5 @@
 ---
 title: "Magna's Automotive Center"
 url: /magna/magnas-automotive-center/
-shop: Autowerkstatt
+shop: car repair
 ---

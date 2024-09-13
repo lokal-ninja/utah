@@ -1,5 +1,5 @@
 ---
 title: "KSM Guitars"
 url: /logan/ksm-guitars/
-shop: Musik
+shop: music
 ---

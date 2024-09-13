@@ -1,5 +1,5 @@
 ---
 title: "Ken Garff Nissan"
 url: /salt-lake-city/ken-garff-nissan/
-shop: Autohaus
+shop: car
 ---

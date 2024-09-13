@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /wendover/carquest/
-shop: Autoteile
+shop: car parts
 ---

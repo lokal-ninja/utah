@@ -1,5 +1,5 @@
 ---
 title: "Fountain Records"
 url: /salt-lake-city/fountain-records/
-shop: Musik
+shop: music
 ---

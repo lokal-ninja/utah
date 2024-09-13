@@ -1,5 +1,5 @@
 ---
 title: "Creme de Bakery"
 url: /murray/creme-de-bakery/
-shop: Bäckerei
+shop: bakery
 ---

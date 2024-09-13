@@ -1,5 +1,5 @@
 ---
 title: "Tunex"
 url: /taylorsville/tunex/
-shop: Autowerkstatt
+shop: car repair
 ---

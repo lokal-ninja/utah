@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /riverton/pandora/
-shop: Schmuck
+shop: jewelry
 ---

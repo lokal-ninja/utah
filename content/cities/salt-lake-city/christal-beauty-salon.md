@@ -1,5 +1,5 @@
 ---
 title: "Christal Beauty Salon"
 url: /salt-lake-city/christal-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

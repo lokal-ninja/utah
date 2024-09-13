@@ -1,5 +1,5 @@
 ---
 title: "Park N Pump"
 url: /nephi/park-n-pump/
-shop: Lebensmittel
+shop: convenience
 ---

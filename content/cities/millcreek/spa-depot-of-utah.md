@@ -1,5 +1,5 @@
 ---
 title: "Spa Depot of Utah"
 url: /millcreek/spa-depot-of-utah/
-shop: Pool
+shop: swimming pool
 ---

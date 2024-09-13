@@ -1,5 +1,5 @@
 ---
 title: "White Elegance"
 url: /centerville/white-elegance/
-shop: Kleidung
+shop: clothes
 ---

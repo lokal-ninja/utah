@@ -1,5 +1,5 @@
 ---
 title: "Beauty Brows"
 url: /millcreek/beauty-brows/
-shop: Kosmetik
+shop: beauty
 ---

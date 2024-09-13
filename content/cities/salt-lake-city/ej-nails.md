@@ -1,5 +1,5 @@
 ---
 title: "EJ Nails"
 url: /salt-lake-city/ej-nails/
-shop: Kosmetik
+shop: beauty
 ---

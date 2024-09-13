@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /draper/michaels/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /moab/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

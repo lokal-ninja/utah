@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /sandy/visionworks/
-shop: Optiker
+shop: optician
 ---

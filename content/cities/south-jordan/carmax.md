@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /south-jordan/carmax/
-shop: Autohaus
+shop: car
 ---

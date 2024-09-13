@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /south-jordan/autozone/
-shop: Autoteile
+shop: car parts
 ---

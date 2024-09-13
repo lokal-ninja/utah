@@ -1,5 +1,5 @@
 ---
 title: "Nails Pedi"
 url: /ogden/nails-pedi/
-shop: Kosmetik
+shop: beauty
 ---

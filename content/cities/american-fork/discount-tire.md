@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /american-fork/discount-tire/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "At Home"
 url: /riverdale/at-home/
-shop: Haushaltsartikel
+shop: houseware
 ---

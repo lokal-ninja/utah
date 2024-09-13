@@ -1,5 +1,5 @@
 ---
 title: "VN Nails"
 url: /holladay/vn-nails/
-shop: Kosmetik
+shop: beauty
 ---

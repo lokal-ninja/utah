@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /riverdale/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

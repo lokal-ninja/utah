@@ -1,11 +1,11 @@
 id: 222667995
-type: way
+type: node
 latitude: 40.49648
 longitude: -111.41537
 postcode: "84032"
 city: Heber
-street: "South Main Street"
-housenumber: 890
+street: South Main Street
+housenumber: "890"
 phone: ""
 opening_hours: ""
 website: ""

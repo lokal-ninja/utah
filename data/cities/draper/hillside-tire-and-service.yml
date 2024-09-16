@@ -1,11 +1,11 @@
 id: 224698911
-type: way
+type: node
 latitude: 40.52788
 longitude: -111.88823
 postcode: "84020"
 city: Draper
-street: "State Street"
+street: State Street
 housenumber: 12241 S
-phone: "+1-801-619-6363"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su off"
-website: "https://www.hillsidetire.com/"
+phone: +1-801-619-6363
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su off
+website: https://www.hillsidetire.com/

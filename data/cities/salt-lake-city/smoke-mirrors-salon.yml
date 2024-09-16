@@ -1,11 +1,11 @@
 id: 616844920
-type: way
+type: node
 latitude: 40.73686
 longitude: -111.89003
 postcode: "84115"
 city: Salt Lake City
-street: "Kensington Avenue"
-housenumber: 25
+street: Kensington Avenue
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

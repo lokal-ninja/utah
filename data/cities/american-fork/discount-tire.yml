@@ -1,11 +1,11 @@
 id: 81567421
-type: way
+type: node
 latitude: 40.38477
 longitude: -111.81758
 postcode: "84003"
 city: American Fork
-street: "West State Street"
-housenumber: 661
-phone: "+1 801 763 8604"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-17:00"
-website: "https://www.discounttire.com/store/ut/american-fork/s/1626"
+street: West State Street
+housenumber: "661"
+phone: +1 801 763 8604
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-17:00
+website: https://www.discounttire.com/store/ut/american-fork/s/1626

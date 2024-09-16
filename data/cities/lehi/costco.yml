@@ -1,11 +1,11 @@
 id: 81551110
-type: way
+type: node
 latitude: 40.39062
 longitude: -111.82387
 postcode: "84043"
 city: Lehi
-street: "North 1200 East"
-housenumber: 198
-phone: "+1 801-653-2700"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/lehi-ut-733.html"
+street: North 1200 East
+housenumber: "198"
+phone: +1 801-653-2700
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/lehi-ut-733.html

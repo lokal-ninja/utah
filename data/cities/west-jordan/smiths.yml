@@ -1,11 +1,11 @@
 id: 477902077
-type: way
+type: node
 latitude: 40.58937
 longitude: -111.98747
 postcode: "84088"
 city: West Jordan
-street: "West 9000 South"
-housenumber: 4080
-phone: "+1 801-280-3844"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/ut/west-jordan/4080-w-9000-s-west-jordan-ut/706/00158"
+street: West 9000 South
+housenumber: "4080"
+phone: +1 801-280-3844
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.smithsfoodanddrug.com/stores/grocery/ut/west-jordan/4080-w-9000-s-west-jordan-ut/706/00158

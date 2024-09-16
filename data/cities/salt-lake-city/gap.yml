@@ -4,8 +4,8 @@ latitude: 40.76803
 longitude: -111.89179
 postcode: "84101"
 city: Salt Lake City
-street: "Main Street"
-housenumber: 50
-phone: "+1-801-364-4019"
-opening_hours: "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00"
-website: "https://www.gap.com/stores/ut/saltlakecity/gap-4538.html"
+street: Main Street
+housenumber: "50"
+phone: +1-801-364-4019
+opening_hours: Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00
+website: https://www.gap.com/stores/ut/saltlakecity/gap-4538.html

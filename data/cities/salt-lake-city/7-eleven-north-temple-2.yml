@@ -1,11 +1,11 @@
 id: 155926989
-type: way
+type: node
 latitude: 40.77206
 longitude: -111.93857
 postcode: "84116"
 city: Salt Lake City
-street: "North Temple"
-housenumber: 1692
-phone: "+1 801-521-2014"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ut/salt-lake-city/1692-w-north-temple-34702"
+street: North Temple
+housenumber: "1692"
+phone: +1 801-521-2014
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ut/salt-lake-city/1692-w-north-temple-34702

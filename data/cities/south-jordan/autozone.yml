@@ -1,11 +1,11 @@
 id: 306461526
-type: way
+type: node
 latitude: 40.56273
 longitude: -111.93546
 postcode: "84095"
 city: South Jordan
-street: "South Jordan Parkway"
+street: South Jordan Parkway
 housenumber: 1574 W
-phone: "+1-801-302-8490"
-opening_hours: "Mo-Sa 07:30-22:00; Su 09:00-19:00"
-website: "https://www.autozone.com/locations/ut/south-jordan/1574-w-10400-s.html"
+phone: +1-801-302-8490
+opening_hours: Mo-Sa 07:30-22:00; Su 09:00-19:00
+website: https://www.autozone.com/locations/ut/south-jordan/1574-w-10400-s.html

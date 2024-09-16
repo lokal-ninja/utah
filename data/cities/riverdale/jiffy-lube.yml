@@ -1,11 +1,11 @@
 id: 777223793
-type: way
+type: node
 latitude: 41.17677
 longitude: -112.00121
 postcode: ""
 city: Riverdale
-street: "West Riverdale Road"
-housenumber: 913
+street: West Riverdale Road
+housenumber: "913"
 phone: ""
 opening_hours: ""
-website: "https://www.jiffylube.com/locations/ut/riverdale/3423"
+website: https://www.jiffylube.com/locations/ut/riverdale/3423

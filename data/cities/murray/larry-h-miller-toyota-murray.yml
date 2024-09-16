@@ -1,11 +1,11 @@
 id: 148059427
-type: way
+type: node
 latitude: 40.64972
 longitude: -111.88877
 postcode: "84107"
 city: Murray
-street: "South State Street"
-housenumber: 5650
-phone: "+1 801-264-3800"
-opening_hours: "Mo-Sa 08:30-21:00, Su closed"
-website: "https://www.larryhmillertoyota.com/"
+street: South State Street
+housenumber: "5650"
+phone: +1 801-264-3800
+opening_hours: Mo-Sa 08:30-21:00, Su closed
+website: https://www.larryhmillertoyota.com/

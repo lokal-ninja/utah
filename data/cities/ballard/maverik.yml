@@ -1,11 +1,11 @@
 id: 903197891
-type: way
+type: node
 latitude: 40.30263
 longitude: -109.97638
 postcode: "84066"
 city: Ballard
-street: "East 200 North"
-housenumber: 1025
+street: East 200 North
+housenumber: "1025"
 phone: ""
-opening_hours: "unknown"
+opening_hours: unknown
 website: ""

@@ -1,10 +1,10 @@
 id: 358723100
-type: way
+type: node
 latitude: 40.67584
 longitude: -111.89091
 postcode: "84107"
 city: Murray
-street: "4500 South"
+street: 4500 South
 housenumber: 11 E
 phone: ""
 opening_hours: ""

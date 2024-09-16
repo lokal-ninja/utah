@@ -1,11 +1,11 @@
 id: 36381155
-type: way
+type: node
 latitude: 40.28053
 longitude: -111.68112
 postcode: "84097"
 city: Orem
-street: "East 800 South"
-housenumber: 648
-phone: "+1 801-851-5003"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/orem-ut-484.html"
+street: East 800 South
+housenumber: "648"
+phone: +1 801-851-5003
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/orem-ut-484.html

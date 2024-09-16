@@ -4,8 +4,8 @@ latitude: 40.9165
 longitude: -111.39918
 postcode: "84017"
 city: Coalville
-street: "Main Street"
-housenumber: 5
+street: Main Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

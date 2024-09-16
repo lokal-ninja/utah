@@ -1,11 +1,11 @@
 id: 608405690
-type: way
+type: node
 latitude: 41.26576
 longitude: -111.96811
 postcode: "84404"
 city: Ogden
-street: "North Washington Boulevard"
-housenumber: 344
-phone: "+1 801-398-5460"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ut-ogden/2858"
+street: North Washington Boulevard
+housenumber: "344"
+phone: +1 801-398-5460
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ut-ogden/2858

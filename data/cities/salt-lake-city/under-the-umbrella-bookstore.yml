@@ -4,8 +4,8 @@ latitude: 40.76475
 longitude: -111.90572
 postcode: ""
 city: Salt Lake City
-street: "200 South"
-housenumber: 511
-phone: "+1-801-922-0923"
-opening_hours: "Tu-Fr 12:00-20:00; Sa-Su 11:00-18:00"
-website: "https://undertheumbrellabookstore.com"
+street: 200 South
+housenumber: "511"
+phone: +1-801-922-0923
+opening_hours: Tu-Fr 12:00-20:00; Sa-Su 11:00-18:00
+website: https://undertheumbrellabookstore.com

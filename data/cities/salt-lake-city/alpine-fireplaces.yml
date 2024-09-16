@@ -4,8 +4,8 @@ latitude: 40.72234
 longitude: -111.85727
 postcode: "84106"
 city: Salt Lake City
-street: "1150 East"
-housenumber: 2236
-phone: "+1-801-487-4443"
-opening_hours: "Mo-Sa 10:00-14:00"
-website: "https://www.alpinefireplaces.com/sugarhouse-ut/"
+street: 1150 East
+housenumber: "2236"
+phone: +1-801-487-4443
+opening_hours: Mo-Sa 10:00-14:00
+website: https://www.alpinefireplaces.com/sugarhouse-ut/

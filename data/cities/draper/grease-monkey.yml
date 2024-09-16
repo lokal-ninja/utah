@@ -1,11 +1,11 @@
 id: 570029315
-type: way
+type: node
 latitude: 40.5002
 longitude: -111.88454
 postcode: "84020"
 city: Draper
-street: "13800 S"
-housenumber: 214
-phone: "+1-801-542-0366"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-17:00"
-website: "http://www.greasemonkeydraper805.com"
+street: 13800 S
+housenumber: "214"
+phone: +1-801-542-0366
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-17:00
+website: http://www.greasemonkeydraper805.com

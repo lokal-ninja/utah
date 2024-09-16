@@ -1,11 +1,11 @@
 id: 154377478
-type: way
+type: node
 latitude: 40.67579
 longitude: -111.86669
 postcode: "84107"
 city: Murray
-street: "4500 South"
+street: 4500 South
 housenumber: 845 E
-phone: "+1 801-261-3399"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/ut/salt-lake-city/845-e-4500-so-slc-ut/706/00133"
+phone: +1 801-261-3399
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.smithsfoodanddrug.com/stores/grocery/ut/salt-lake-city/845-e-4500-so-slc-ut/706/00133

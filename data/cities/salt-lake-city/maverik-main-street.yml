@@ -1,11 +1,11 @@
 id: 1101186185
-type: way
+type: node
 latitude: 40.74207
 longitude: -111.89163
 postcode: "84111"
 city: Salt Lake City
-street: "Main Street"
+street: Main Street
 housenumber: 1270 S
-phone: "+1-801-355-0222"
-opening_hours: "Mo-Su 00:00-24:00"
-website: "https://locations.maverik.com/ut/salt-lake-city/1270-south-main"
+phone: +1-801-355-0222
+opening_hours: Mo-Su 00:00-24:00
+website: https://locations.maverik.com/ut/salt-lake-city/1270-south-main

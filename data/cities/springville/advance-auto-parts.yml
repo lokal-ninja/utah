@@ -1,11 +1,11 @@
 id: 682585064
-type: way
+type: node
 latitude: 40.16079
 longitude: -111.62657
 postcode: "84663"
 city: Springville
-street: "West 400 South"
-housenumber: 887
+street: West 400 South
+housenumber: "887"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ut/springville/887-w-400-s"
+website: https://stores.advanceautoparts.com/ut/springville/887-w-400-s

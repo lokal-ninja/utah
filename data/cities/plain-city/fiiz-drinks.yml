@@ -1,11 +1,11 @@
 id: 1299889867
-type: way
+type: node
 latitude: 41.30482
 longitude: -112.06768
 postcode: "84404"
 city: Plain City
-street: "West 2600 North"
-housenumber: 3635
+street: West 2600 North
+housenumber: "3635"
 phone: ""
 opening_hours: ""
 website: ""

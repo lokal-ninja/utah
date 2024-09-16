@@ -4,8 +4,8 @@ latitude: 40.35501
 longitude: -111.73447
 postcode: "84062"
 city: Pleasant Grove
-street: "South State Street"
-housenumber: 743
+street: South State Street
+housenumber: "743"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ut/pleasant-grove/743-s-state-st.html"
+website: https://www.autozone.com/locations/ut/pleasant-grove/743-s-state-st.html

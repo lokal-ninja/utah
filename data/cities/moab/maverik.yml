@@ -1,11 +1,11 @@
 id: 304653455
-type: way
+type: node
 latitude: 38.55867
 longitude: -109.54332
 postcode: "84532"
 city: Moab
-street: "South Main Street"
-housenumber: 985
+street: South Main Street
+housenumber: "985"
 phone: ""
 opening_hours: ""
 website: ""

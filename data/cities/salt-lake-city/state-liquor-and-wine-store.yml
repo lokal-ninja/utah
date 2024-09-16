@@ -4,8 +4,8 @@ latitude: 40.76312
 longitude: -111.88639
 postcode: "84111"
 city: Salt Lake City
-street: "300 South"
-housenumber: 151
-phone: "+1-801-533-5901"
-opening_hours: "Mo-Sa 11:00-22:00"
-website: "https://abs.utah.gov/"
+street: 300 South
+housenumber: "151"
+phone: +1-801-533-5901
+opening_hours: Mo-Sa 11:00-22:00
+website: https://abs.utah.gov/

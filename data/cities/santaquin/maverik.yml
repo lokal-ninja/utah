@@ -1,11 +1,11 @@
 id: 581385822
-type: way
+type: node
 latitude: 39.97582
 longitude: -111.76947
 postcode: "84655"
 city: Santaquin
-street: "East Main Street"
-housenumber: 720
-phone: "+1-801-754-3076"
-opening_hours: "24/7"
-website: "https://maverik.com/"
+street: East Main Street
+housenumber: "720"
+phone: +1-801-754-3076
+opening_hours: 24/7
+website: https://maverik.com/

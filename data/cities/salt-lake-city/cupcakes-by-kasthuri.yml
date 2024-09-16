@@ -4,8 +4,8 @@ latitude: 40.75123
 longitude: -111.903
 postcode: "84101"
 city: Salt Lake City
-street: "400 West"
-housenumber: 824
-phone: "801.635.7392"
-opening_hours: "by appointment only"
-website: "https://www.cupcakesbykasthuri.com"
+street: 400 West
+housenumber: "824"
+phone: 801.635.7392
+opening_hours: '"by appointment only"'
+website: https://www.cupcakesbykasthuri.com

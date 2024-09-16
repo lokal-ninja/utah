@@ -1,11 +1,11 @@
 id: 467222743
-type: way
+type: node
 latitude: 41.06721
 longitude: -111.97269
 postcode: "84041"
 city: Layton
-street: "N Main St"
-housenumber: 470
+street: N Main St
+housenumber: "470"
 phone: ""
 opening_hours: ""
 website: ""

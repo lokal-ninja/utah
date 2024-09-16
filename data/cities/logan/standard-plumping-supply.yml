@@ -1,11 +1,11 @@
 id: 994307454
-type: way
+type: node
 latitude: 41.75831
 longitude: -111.8425
 postcode: "84341"
 city: Logan
-street: "North 300 West"
-housenumber: 1421
+street: North 300 West
+housenumber: "1421"
 phone: ""
 opening_hours: ""
 website: ""

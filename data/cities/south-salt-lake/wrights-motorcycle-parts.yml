@@ -1,11 +1,11 @@
 id: 1037443508
-type: way
+type: node
 latitude: 40.69543
 longitude: -111.88941
 postcode: "84115"
 city: South Salt Lake
-street: "State Street"
-housenumber: 3474
+street: State Street
+housenumber: "3474"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-17:00; Su 10:00-15:00; PH off"
-website: "https://www.wrightsmotorcycleparts.com/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-17:00; Su 10:00-15:00; PH off
+website: https://www.wrightsmotorcycleparts.com/

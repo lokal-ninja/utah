@@ -1,11 +1,11 @@
 id: 358723099
-type: way
+type: node
 latitude: 40.67265
 longitude: -111.88904
 postcode: "84107"
 city: Murray
-street: "South State Street"
-housenumber: 4528
+street: South State Street
+housenumber: "4528"
 phone: ""
 opening_hours: ""
-website: "https://www.timdahlemurray.com/"
+website: https://www.timdahlemurray.com/

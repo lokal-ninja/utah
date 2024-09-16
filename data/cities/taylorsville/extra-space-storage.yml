@@ -1,11 +1,11 @@
 id: 1313885131
-type: way
+type: node
 latitude: 40.65074
 longitude: -111.98562
 postcode: "84129"
 city: Taylorsville
-street: "South 3915 West"
-housenumber: 5520
+street: South 3915 West
+housenumber: "5520"
 phone: ""
 opening_hours: ""
-website: "https://www.extraspace.com/storage/facilities/us/utah/salt_lake_city/300042/"
+website: https://www.extraspace.com/storage/facilities/us/utah/salt_lake_city/300042/

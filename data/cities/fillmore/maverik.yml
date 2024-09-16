@@ -1,11 +1,11 @@
 id: 224656288
-type: way
+type: node
 latitude: 38.94815
 longitude: -112.34533
 postcode: "84631"
 city: Fillmore
-street: "UT 99"
-housenumber: 965
-phone: "+1-435-261-2289"
-opening_hours: "24/7"
+street: UT 99
+housenumber: "965"
+phone: +1-435-261-2289
+opening_hours: 24/7
 website: ""

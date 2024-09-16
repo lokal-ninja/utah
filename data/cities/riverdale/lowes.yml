@@ -1,11 +1,11 @@
 id: 28007720
-type: way
+type: node
 latitude: 41.18788
 longitude: -111.98802
 postcode: "84405"
 city: Riverdale
-street: "Riverdale Road"
-housenumber: 4155
-phone: "+1 801-627-9769"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ut-riverdale/1080"
+street: Riverdale Road
+housenumber: "4155"
+phone: +1 801-627-9769
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ut-riverdale/1080

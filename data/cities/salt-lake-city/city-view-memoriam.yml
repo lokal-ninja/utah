@@ -4,8 +4,8 @@ latitude: 40.78073
 longitude: -111.85943
 postcode: "84103"
 city: Salt Lake City
-street: "11th Avenue"
-housenumber: 1001
-phone: "+1-801-363-7065"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.cityviewmemoriam.com/"
+street: 11th Avenue
+housenumber: "1001"
+phone: +1-801-363-7065
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.cityviewmemoriam.com/

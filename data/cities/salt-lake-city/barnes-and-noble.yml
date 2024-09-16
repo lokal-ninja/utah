@@ -1,11 +1,11 @@
 id: 139054395
-type: way
+type: node
 latitude: 40.72501
 longitude: -111.85938
 postcode: "84106"
 city: Salt Lake City
-street: "2100 South"
+street: 2100 South
 housenumber: 1104 E
-phone: "+1-801-463-2610"
-opening_hours: "Mo-Th 09:00-20:00; Fr,Sa 09:00-21:00; Su 11:00-18:00"
-website: "https://stores.barnesandnoble.com/store/2941"
+phone: +1-801-463-2610
+opening_hours: Mo-Th 09:00-20:00; Fr,Sa 09:00-21:00; Su 11:00-18:00
+website: https://stores.barnesandnoble.com/store/2941

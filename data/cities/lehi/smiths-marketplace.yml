@@ -1,11 +1,11 @@
 id: 100025391
-type: way
+type: node
 latitude: 40.43003
 longitude: -111.82572
 postcode: "84043"
 city: Lehi
-street: "East 3500 N"
-housenumber: 1550
-phone: "+1 801-341-6500"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/ut/lehi/center-pointe-at-lehi/706/00119"
+street: East 3500 N
+housenumber: "1550"
+phone: +1 801-341-6500
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.smithsfoodanddrug.com/stores/grocery/ut/lehi/center-pointe-at-lehi/706/00119

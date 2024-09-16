@@ -1,11 +1,11 @@
 id: 607847774
-type: way
+type: node
 latitude: 41.22223
 longitude: -111.95899
-postcode: "84401-2601"
+postcode: 84401-2601
 city: Ogden
-street: "24th Street"
-housenumber: 803
-phone: "+1 801-393-3138"
+street: 24th Street
+housenumber: "803"
+phone: +1 801-393-3138
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ut/ogden/803-24th-st-23558"
+website: https://www.7-eleven.com/locations/ut/ogden/803-24th-st-23558

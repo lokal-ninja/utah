@@ -1,11 +1,11 @@
 id: 1074645130
-type: way
+type: node
 latitude: 41.17201
 longitude: -112.01497
 postcode: "84405"
 city: Riverdale
-street: "West Riverdale Road"
-housenumber: 1418
-phone: "+1 866-698-8147"
-opening_hours: "Mo-Sa 08:30-21:00, Su closed"
-website: "https://www.lhmdodgeriverdale.com/"
+street: West Riverdale Road
+housenumber: "1418"
+phone: +1 866-698-8147
+opening_hours: Mo-Sa 08:30-21:00, Su closed
+website: https://www.lhmdodgeriverdale.com/

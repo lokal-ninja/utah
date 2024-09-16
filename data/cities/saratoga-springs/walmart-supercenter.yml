@@ -1,11 +1,11 @@
 id: 95124884
-type: way
+type: node
 latitude: 40.39007
 longitude: -111.92068
 postcode: "84045"
 city: Saratoga Springs
-street: "West State Road 73"
-housenumber: 136
-phone: "+1 801-766-4272"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4438/saratoga-springs-ut/whats-new"
+street: West State Road 73
+housenumber: "136"
+phone: +1 801-766-4272
+opening_hours: 24/7
+website: https://www.walmart.com/store/4438/saratoga-springs-ut/whats-new

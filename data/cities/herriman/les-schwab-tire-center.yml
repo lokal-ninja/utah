@@ -1,11 +1,11 @@
 id: 732213529
-type: way
+type: node
 latitude: 40.53611
 longitude: -112.01642
 postcode: "84096"
 city: Herriman
-street: "Anthem Peak Lane"
-housenumber: 5232
+street: Anthem Peak Lane
+housenumber: "5232"
 phone: ""
 opening_hours: ""
 website: ""

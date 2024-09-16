@@ -1,11 +1,11 @@
 id: 41452284
-type: way
+type: node
 latitude: 40.54487
 longitude: -111.90212
 postcode: "84095"
 city: South Jordan
-street: "Jordan Gateway"
-housenumber: 11328
-phone: "+1 801-553-2266"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.walmart.com/store/2307/south-jordan-ut/whats-new"
+street: Jordan Gateway
+housenumber: "11328"
+phone: +1 801-553-2266
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.walmart.com/store/2307/south-jordan-ut/whats-new

@@ -1,11 +1,11 @@
 id: 35936436
-type: way
+type: node
 latitude: 40.8588
 longitude: -111.89678
 postcode: "84010"
 city: Bountiful
-street: "Main Street"
+street: Main Street
 housenumber: 2815 S
-phone: "+1-801-397-2277"
-opening_hours: "Mo-Sa 09:00-20:00; Su off"
-website: "https://www.bountifulmazda.com/"
+phone: +1-801-397-2277
+opening_hours: Mo-Sa 09:00-20:00; Su off
+website: https://www.bountifulmazda.com/

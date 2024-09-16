@@ -1,11 +1,11 @@
 id: 42433221
-type: way
+type: node
 latitude: 41.101
 longitude: -111.94263
 postcode: "84040"
 city: Layton
-street: "East Highway 193"
-housenumber: 1290
+street: East Highway 193
+housenumber: "1290"
 phone: ""
 opening_hours: ""
 website: ""

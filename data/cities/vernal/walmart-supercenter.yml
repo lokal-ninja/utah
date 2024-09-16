@@ -1,11 +1,11 @@
 id: 397372031
-type: way
+type: node
 latitude: 40.43904
 longitude: -109.56266
 postcode: "84078"
 city: Vernal
-street: "West Highway 40"
-housenumber: 1851
-phone: "+1 435-789-9784"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1572/vernal-ut/whats-new"
+street: West Highway 40
+housenumber: "1851"
+phone: +1 435-789-9784
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1572/vernal-ut/whats-new

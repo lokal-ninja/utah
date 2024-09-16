@@ -1,11 +1,11 @@
 id: 1006335259
-type: way
+type: node
 latitude: 40.23412
 longitude: -111.66026
 postcode: "84601"
 city: Provo
-street: "West Center Street"
-housenumber: 90
+street: West Center Street
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

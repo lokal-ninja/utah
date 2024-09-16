@@ -1,11 +1,11 @@
 id: 702111246
-type: way
+type: node
 latitude: 40.15808
 longitude: -111.64087
 postcode: "84663"
 city: Springville
-street: "South 1750 West"
-housenumber: 655
+street: South 1750 West
+housenumber: "655"
 phone: ""
 opening_hours: ""
 website: ""

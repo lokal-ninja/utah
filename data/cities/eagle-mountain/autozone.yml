@@ -1,11 +1,11 @@
 id: 1115294044
-type: way
+type: node
 latitude: 40.36271
 longitude: -111.96682
 postcode: "84005"
 city: Eagle Mountain
-street: "Porters Crossing Pkwy"
-housenumber: 8087
+street: Porters Crossing Pkwy
+housenumber: "8087"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ut/eagle-mountain/3987-e-pony-express-parkway.html"
+website: https://www.autozone.com/locations/ut/eagle-mountain/3987-e-pony-express-parkway.html

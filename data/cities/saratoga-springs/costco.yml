@@ -1,11 +1,11 @@
 id: 891717132
-type: way
+type: node
 latitude: 40.3816
 longitude: -111.92024
 postcode: "84045"
 city: Saratoga Springs
-street: "North Redwood Road"
-housenumber: 1083
-phone: "+1 801-407-4194"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/saratoga-springs-ut-1383.html"
+street: North Redwood Road
+housenumber: "1083"
+phone: +1 801-407-4194
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/saratoga-springs-ut-1383.html

@@ -1,11 +1,11 @@
 id: 972719506
-type: way
+type: node
 latitude: 40.55906
 longitude: -111.8728
 postcode: "84070"
 city: Sandy
-street: "South 700 East"
-housenumber: 10580
+street: South 700 East
+housenumber: "10580"
 phone: ""
 opening_hours: ""
 website: ""

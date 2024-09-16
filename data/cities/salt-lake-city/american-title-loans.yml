@@ -1,11 +1,11 @@
 id: 1086961899
-type: way
+type: node
 latitude: 40.6984
 longitude: -111.88805
 postcode: "84115"
 city: Salt Lake City
-street: "State Street"
+street: State Street
 housenumber: 3355 S
-phone: "+1-801-466-9886"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off"
+phone: +1-801-466-9886
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off
 website: ""

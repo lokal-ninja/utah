@@ -4,8 +4,8 @@ latitude: 41.75253
 longitude: -111.83495
 postcode: "84341"
 city: Logan
-street: "North Main Street"
-housenumber: 1125
+street: North Main Street
+housenumber: "1125"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ut/logan/1125-n-main-st.html"
+website: https://www.autozone.com/locations/ut/logan/1125-n-main-st.html

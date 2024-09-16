@@ -1,11 +1,11 @@
 id: 1126585995
-type: way
+type: node
 latitude: 40.38109
 longitude: -111.83748
 postcode: "84043"
 city: Lehi
-street: "South 850 East"
-housenumber: 580
-phone: "+1 801 451 9999"
+street: South 850 East
+housenumber: "580"
+phone: +1 801 451 9999
 opening_hours: ""
-website: "https://stocknlock.net/pages/lehi-ut/"
+website: https://stocknlock.net/pages/lehi-ut/

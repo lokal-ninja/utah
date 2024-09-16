@@ -1,11 +1,11 @@
 id: 36805885
-type: way
+type: node
 latitude: 40.90612
 longitude: -111.87619
 postcode: "84014"
 city: Centerville
-street: "East Pages Lane"
-housenumber: 194
+street: East Pages Lane
+housenumber: "194"
 phone: "+18012920616"
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

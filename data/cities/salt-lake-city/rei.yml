@@ -4,8 +4,8 @@ latitude: 40.70081
 longitude: -111.80125
 postcode: "84109"
 city: Salt Lake City
-street: "3300 S"
-housenumber: 3285
-phone: "+1-801-486-2100"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 10:00-18:00"
-website: "https://www.rei.com/stores/salt-lake-city"
+street: 3300 S
+housenumber: "3285"
+phone: +1-801-486-2100
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 10:00-18:00
+website: https://www.rei.com/stores/salt-lake-city

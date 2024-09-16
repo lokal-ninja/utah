@@ -1,11 +1,11 @@
 id: 1313885143
-type: way
+type: node
 latitude: 40.65209
 longitude: -111.98445
 postcode: "84129"
 city: Taylorsville
-street: "West 5400 South"
-housenumber: 3905
-phone: "+1 801-968-0221"
-opening_hours: "Mo-Sa 11:00-22:00"
-website: "https://abs.utah.gov/shop-products/find-store/"
+street: West 5400 South
+housenumber: "3905"
+phone: +1 801-968-0221
+opening_hours: Mo-Sa 11:00-22:00
+website: https://abs.utah.gov/shop-products/find-store/

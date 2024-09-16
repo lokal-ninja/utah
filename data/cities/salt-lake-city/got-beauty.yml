@@ -4,8 +4,8 @@ latitude: 40.72524
 longitude: -111.86517
 postcode: "84106"
 city: Salt Lake City
-street: "2100 South"
+street: 2100 South
 housenumber: 904 E
-phone: "+1-801-474-2090"
-opening_hours: "Mo-Th 11:00-18:00; Fr-Sa 11:00-17:00; Su 12:00-17:00; "
-website: "https://gotbeauty.com/"
+phone: +1-801-474-2090
+opening_hours: 'Mo-Th 11:00-18:00; Fr-Sa 11:00-17:00; Su 12:00-17:00; '
+website: https://gotbeauty.com/

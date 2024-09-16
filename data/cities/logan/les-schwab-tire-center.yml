@@ -1,11 +1,11 @@
 id: 571836745
-type: way
+type: node
 latitude: 41.70957
 longitude: -111.83614
 postcode: "84321"
 city: Logan
-street: "West 1200 South"
-housenumber: 36
+street: West 1200 South
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

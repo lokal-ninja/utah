@@ -1,11 +1,11 @@
 id: 1020752612
-type: way
+type: node
 latitude: 40.30647
 longitude: -112.01583
 postcode: "84005"
 city: Eagle Mountain
-street: "East Eagle Mountain Boulevard"
-housenumber: 1482
+street: East Eagle Mountain Boulevard
+housenumber: "1482"
 phone: ""
 opening_hours: ""
 website: ""

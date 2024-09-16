@@ -4,8 +4,9 @@ latitude: 40.24467
 longitude: -111.64602
 postcode: "84606"
 city: Provo
-street: "East 820 North"
-housenumber: 746
-phone: "+1 385-325-1945"
-opening_hours: "Mo 18:00-00:00; Tu-Th 00:00-12:00, 18:00-00:00; Fr 00:00-12:00, 16:00-02:00; Sa 10:00-02:00"
-website: "https://lanking.us/"
+street: East 820 North
+housenumber: "746"
+phone: +1 385-325-1945
+opening_hours: Mo 18:00-00:00; Tu-Th 00:00-12:00, 18:00-00:00; Fr 00:00-12:00, 16:00-02:00;
+    Sa 10:00-02:00
+website: https://lanking.us/

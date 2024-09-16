@@ -1,11 +1,11 @@
 id: 532030637
-type: way
+type: node
 latitude: 40.54289
 longitude: -111.98494
 postcode: "84095"
 city: South Jordan
-street: "4000 West"
-housenumber: 11509
-phone: "+1 801-253-0109"
+street: 4000 West
+housenumber: "11509"
+phone: +1 801-253-0109
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/ut/south-jordan/066020/"
+website: https://www.mattressfirm.com/en-us/stores/ut/south-jordan/066020/

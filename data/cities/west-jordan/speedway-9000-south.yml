@@ -1,11 +1,11 @@
 id: 972972543
-type: way
+type: node
 latitude: 40.58756
 longitude: -111.92863
 postcode: "84088"
 city: West Jordan
-street: "9000 South"
+street: 9000 South
 housenumber: 1285 W
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/UT/West-Jordan/1285-W-9000-S"
+website: https://www.speedway.com/locations/UT/West-Jordan/1285-W-9000-S

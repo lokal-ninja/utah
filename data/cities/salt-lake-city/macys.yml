@@ -4,8 +4,8 @@ latitude: 40.76869
 longitude: -111.89032
 postcode: "84101"
 city: Salt Lake City
-street: "Main Street"
-housenumber: 21
-phone: "+1-801-736-8950"
-opening_hours: "Mo-Sa 10:00-21:00; Su off"
-website: "https://www.macys.com/stores/ut/saltlakecity/city-creek-center_449.html"
+street: Main Street
+housenumber: "21"
+phone: +1-801-736-8950
+opening_hours: Mo-Sa 10:00-21:00; Su off
+website: https://www.macys.com/stores/ut/saltlakecity/city-creek-center_449.html

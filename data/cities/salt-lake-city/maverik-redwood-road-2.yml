@@ -1,11 +1,11 @@
 id: 1002824407
-type: way
+type: node
 latitude: 40.76027
 longitude: -111.93813
 postcode: "84104"
 city: Salt Lake City
-street: "Redwood Road"
+street: Redwood Road
 housenumber: 425 S
-phone: "+1-801-972-1997"
-opening_hours: "24/7"
-website: "https://loyalty.maverik.com/"
+phone: +1-801-972-1997
+opening_hours: 24/7
+website: https://loyalty.maverik.com/

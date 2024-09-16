@@ -1,11 +1,11 @@
 id: 325378713
-type: way
+type: node
 latitude: 37.87309
 longitude: -109.34328
 postcode: "84535"
 city: Monticello
-street: "North Main Street"
-housenumber: 17
+street: North Main Street
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

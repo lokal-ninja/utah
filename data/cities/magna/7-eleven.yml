@@ -1,11 +1,11 @@
 id: 390161144
-type: way
+type: node
 latitude: 40.69602
 longitude: -112.06357
 postcode: "84044"
 city: Magna
-street: "3500 South"
-housenumber: 7204
-phone: "+1 801-250-7950"
+street: 3500 South
+housenumber: "7204"
+phone: +1 801-250-7950
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ut/magna/7204-west-3500-south-19154"
+website: https://www.7-eleven.com/locations/ut/magna/7204-west-3500-south-19154

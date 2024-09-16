@@ -1,11 +1,11 @@
 id: 494922370
-type: way
+type: node
 latitude: 38.95885
 longitude: -111.86088
 postcode: "84654"
 city: Salina
-street: "North State Street"
-housenumber: 93
+street: North State Street
+housenumber: "93"
 phone: "+14355297741"
-opening_hours: "Mo-Sa 07:30-19:00"
-website: "https://barrettsfoodtown.com/"
+opening_hours: Mo-Sa 07:30-19:00
+website: https://barrettsfoodtown.com/

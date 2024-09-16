@@ -1,11 +1,11 @@
 id: 540585787
-type: way
+type: node
 latitude: 37.1771
 longitude: -113.30397
 postcode: "84737"
 city: Hurricane
-street: "West State Street"
-housenumber: 848
-phone: "+1-435-315-2214"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off"
-website: "https://www.hurricanetirepros.com/"
+street: West State Street
+housenumber: "848"
+phone: +1-435-315-2214
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off
+website: https://www.hurricanetirepros.com/

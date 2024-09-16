@@ -1,11 +1,11 @@
 id: 1101070025
-type: way
+type: node
 latitude: 40.75021
 longitude: -111.89064
 postcode: "84111"
 city: Salt Lake City
-street: "Main Street"
+street: Main Street
 housenumber: 877 S
-phone: "+1-801-935-7248"
+phone: +1-801-935-7248
 opening_hours: ""
 website: ""

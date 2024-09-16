@@ -1,11 +1,11 @@
 id: 1079901959
-type: way
+type: node
 latitude: 40.51213
 longitude: -112.00323
 postcode: "84096"
 city: Riverton
-street: "South Eagles Flight Road"
-housenumber: 13126
-phone: "+1 385-855-7196"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/riverton-ut-1441.html"
+street: South Eagles Flight Road
+housenumber: "13126"
+phone: +1 385-855-7196
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/riverton-ut-1441.html

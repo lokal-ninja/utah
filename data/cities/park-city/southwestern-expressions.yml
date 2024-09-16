@@ -4,8 +4,8 @@ latitude: 40.64224
 longitude: -111.49485
 postcode: "84060"
 city: Park City
-street: "Main Street"
-housenumber: 312
-phone: "+1 435 649 1612"
-opening_hours: "Mo-Su 11:00-18:00"
-website: "https://www.southwestshop.com"
+street: Main Street
+housenumber: "312"
+phone: +1 435 649 1612
+opening_hours: Mo-Su 11:00-18:00
+website: https://www.southwestshop.com

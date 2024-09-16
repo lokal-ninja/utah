@@ -1,11 +1,11 @@
 id: 1006107950
-type: way
+type: node
 latitude: 40.23419
 longitude: -111.66666
 postcode: "84601"
 city: Provo
-street: "W Center Street"
-housenumber: 450
-phone: "+1 801 225 2665"
-opening_hours: "Mo-Th 10:00-19:00; Fr-Sa 10:00-21:00"
-website: "https://www.pioneerbook.com/"
+street: W Center Street
+housenumber: "450"
+phone: +1 801 225 2665
+opening_hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-21:00
+website: https://www.pioneerbook.com/

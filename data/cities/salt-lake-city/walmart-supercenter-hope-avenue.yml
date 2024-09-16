@@ -1,11 +1,11 @@
 id: 616844550
-type: way
+type: node
 latitude: 40.74138
 longitude: -111.90237
 postcode: "84115"
 city: Salt Lake City
-street: "Hope Avenue"
-housenumber: 350
-phone: "+1 801-484-7311"
-opening_hours: "We-Su 06:00-23:30; Tu 07:00-23:30"
-website: "https://www.walmart.com/store/3589/salt-lake%20city-ut/details"
+street: Hope Avenue
+housenumber: "350"
+phone: +1 801-484-7311
+opening_hours: We-Su 06:00-23:30; Tu 07:00-23:30
+website: https://www.walmart.com/store/3589/salt-lake%20city-ut/details

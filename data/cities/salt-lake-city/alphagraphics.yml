@@ -1,11 +1,11 @@
 id: 119391887
-type: way
+type: node
 latitude: 40.72328
 longitude: -111.96714
 postcode: ""
 city: Salt Lake City
-street: "South 3200 West"
-housenumber: 2189
-phone: "+1-801-972-2900"
+street: South 3200 West
+housenumber: "2189"
+phone: +1-801-972-2900
 opening_hours: ""
-website: "https://www.alphagraphics.com/us-utah-west-valley-city-us034"
+website: https://www.alphagraphics.com/us-utah-west-valley-city-us034

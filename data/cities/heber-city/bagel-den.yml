@@ -1,11 +1,11 @@
 id: 984111235
-type: way
+type: node
 latitude: 40.51561
 longitude: -111.41253
 postcode: "84032"
 city: Heber City
-street: "North Main Street"
-housenumber: 570
+street: North Main Street
+housenumber: "570"
 phone: ""
-opening_hours: "Mo-Su 06:00-17:00"
-website: "https://www.thebagelden.com/"
+opening_hours: Mo-Su 06:00-17:00
+website: https://www.thebagelden.com/

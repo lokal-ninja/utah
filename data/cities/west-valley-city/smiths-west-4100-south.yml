@@ -1,11 +1,11 @@
 id: 476955866
-type: way
+type: node
 latitude: 40.68426
 longitude: -112.02632
 postcode: "84128"
 city: West Valley City
-street: "West 4100 South"
-housenumber: 5620
-phone: "+1 801-964-0165"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/ut/west-valley-city/legacy-shopping-center/706/00147"
+street: West 4100 South
+housenumber: "5620"
+phone: +1 801-964-0165
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.smithsfoodanddrug.com/stores/grocery/ut/west-valley-city/legacy-shopping-center/706/00147

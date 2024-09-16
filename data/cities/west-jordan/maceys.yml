@@ -1,11 +1,11 @@
 id: 238130784
-type: way
+type: node
 latitude: 40.60895
 longitude: -111.96522
 postcode: "84088"
 city: West Jordan
-street: "South 3200 West"
-housenumber: 7859
+street: South 3200 West
+housenumber: "7859"
 phone: ""
 opening_hours: ""
 website: ""

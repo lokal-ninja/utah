@@ -1,11 +1,11 @@
 id: 1051046194
-type: way
+type: node
 latitude: 40.65286
 longitude: -111.9845
 postcode: "84129"
 city: Taylorsville
-street: "West 5400 South"
-housenumber: 3931
-phone: "+1-801-967-2389"
-opening_hours: "Mo-Sa 09:00-19:00; Su off"
-website: "https://ezpawn.com/stores/ut/taylorsville/3931-west-5400-south"
+street: West 5400 South
+housenumber: "3931"
+phone: +1-801-967-2389
+opening_hours: Mo-Sa 09:00-19:00; Su off
+website: https://ezpawn.com/stores/ut/taylorsville/3931-west-5400-south

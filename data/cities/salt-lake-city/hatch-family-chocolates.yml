@@ -1,11 +1,11 @@
 id: 462965668
-type: way
+type: node
 latitude: 40.77839
 longitude: -111.87814
 postcode: "84103"
 city: Salt Lake City
-street: "8th Avenue"
-housenumber: 376
-phone: "+1-801-532-4912"
-opening_hours: "Tu-Th 12:00-21:00; Fr-Sa 12:00-22:00"
-website: "https://hatchfamilychocolates.com"
+street: 8th Avenue
+housenumber: "376"
+phone: +1-801-532-4912
+opening_hours: Tu-Th 12:00-21:00; Fr-Sa 12:00-22:00
+website: https://hatchfamilychocolates.com

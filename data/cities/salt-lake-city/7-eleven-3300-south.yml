@@ -1,11 +1,11 @@
 id: 508840329
-type: way
+type: node
 latitude: 40.70039
 longitude: -111.86526
 postcode: "84106"
 city: Salt Lake City
-street: "3300 South"
-housenumber: 911
-phone: "+1 801-467-1212"
+street: 3300 South
+housenumber: "911"
+phone: +1 801-467-1212
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ut/salt-lake-city/911-east-3300-south-21888"
+website: https://www.7-eleven.com/locations/ut/salt-lake-city/911-east-3300-south-21888

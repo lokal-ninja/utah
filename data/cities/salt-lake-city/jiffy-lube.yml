@@ -1,11 +1,11 @@
 id: 155922991
-type: way
+type: node
 latitude: 40.77123
 longitude: -111.91269
 postcode: "84116"
 city: Salt Lake City
-street: "North Temple"
-housenumber: 757
-phone: "+1-801-355-1385"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00"
-website: "https://www.jiffylube.com/locations/ut/salt-lake-city/2021"
+street: North Temple
+housenumber: "757"
+phone: +1-801-355-1385
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00
+website: https://www.jiffylube.com/locations/ut/salt-lake-city/2021

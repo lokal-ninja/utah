@@ -1,11 +1,11 @@
 id: 530431472
-type: way
+type: node
 latitude: 41.127
 longitude: -111.91163
 postcode: "84405"
 city: South Weber
-street: "South Weber Drive"
-housenumber: 2577
-phone: "+1-801-479-7918"
-opening_hours: "24/7"
-website: "https://maverik.com"
+street: South Weber Drive
+housenumber: "2577"
+phone: +1-801-479-7918
+opening_hours: 24/7
+website: https://maverik.com

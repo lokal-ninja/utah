@@ -4,8 +4,8 @@ latitude: 40.77559
 longitude: -111.877
 postcode: "84103"
 city: Salt Lake City
-street: "6th Avenue"
-housenumber: 402
-phone: "+1 801-533-5905"
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://abs.utah.gov/"
+street: 6th Avenue
+housenumber: "402"
+phone: +1 801-533-5905
+opening_hours: Mo-Sa 11:00-19:00
+website: https://abs.utah.gov/

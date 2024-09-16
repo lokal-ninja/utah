@@ -1,5 +1,5 @@
 id: 1178497863
-type: way
+type: node
 latitude: 40.58699
 longitude: -112.02503
 postcode: "84081"
@@ -7,5 +7,5 @@ city: West Jordan
 street: "9000"
 housenumber: South 5647 West
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

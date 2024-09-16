@@ -1,11 +1,11 @@
 id: 253095604
-type: way
+type: node
 latitude: 40.93287
 longitude: -109.40406
 postcode: "84023"
 city: Dutch John
-street: "South Boulevard"
-housenumber: 1050
-phone: "+1 435 885 3191"
+street: South Boulevard
+housenumber: "1050"
+phone: +1 435 885 3191
 opening_hours: ""
-website: "http://www.fishthegreen.com"
+website: http://www.fishthegreen.com

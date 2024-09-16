@@ -1,11 +1,11 @@
 id: 633787035
-type: way
+type: node
 latitude: 40.56011
 longitude: -111.9766
 postcode: "84009"
 city: South Jordan
-street: "South Jordan Parkway"
-housenumber: 3571
-phone: "+1 801-523-5287"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/south-jordan-ut-1019.html"
+street: South Jordan Parkway
+housenumber: "3571"
+phone: +1 801-523-5287
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/south-jordan-ut-1019.html

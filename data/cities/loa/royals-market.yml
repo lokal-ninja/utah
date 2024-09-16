@@ -1,11 +1,11 @@
 id: 222708272
-type: way
+type: node
 latitude: 38.4
 longitude: -111.6423
 postcode: ""
 city: Loa
-street: "South Main Street"
-housenumber: 135
-phone: "(435) 836-2841"
-opening_hours: "Mo-Th 07:00-19:30;Fr-Sa 07:00-20:00;Su 10:00-18:00"
-website: "https://www.royalsfoodtown.com/"
+street: South Main Street
+housenumber: "135"
+phone: (435) 836-2841
+opening_hours: Mo-Th 07:00-19:30;Fr-Sa 07:00-20:00;Su 10:00-18:00
+website: https://www.royalsfoodtown.com/

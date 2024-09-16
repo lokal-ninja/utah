@@ -4,8 +4,8 @@ latitude: 40.76864
 longitude: -111.89141
 postcode: "84101"
 city: Salt Lake City
-street: "Main Street"
-housenumber: 30
-phone: "+1-855-466-7467"
-opening_hours: "Mo-Sa 11:00-19:00; Su off"
-website: "https://www2.hm.com/en_us/customer-service/shopping-at-hm/local-store.US0257.html"
+street: Main Street
+housenumber: "30"
+phone: +1-855-466-7467
+opening_hours: Mo-Sa 11:00-19:00; Su off
+website: https://www2.hm.com/en_us/customer-service/shopping-at-hm/local-store.US0257.html

@@ -4,8 +4,8 @@ latitude: 40.7501
 longitude: -111.88082
 postcode: "84111"
 city: Salt Lake City
-street: "East 900 South"
-housenumber: 349
-phone: "+1-385-222-7788"
-opening_hours: "Tu,Sa 10:00-18:00; We,Fr 10:00-22:00; Th 10:00-20:00; Su 12:00-16:00"
-website: "https://legendariumbooks.com/"
+street: East 900 South
+housenumber: "349"
+phone: +1-385-222-7788
+opening_hours: Tu,Sa 10:00-18:00; We,Fr 10:00-22:00; Th 10:00-20:00; Su 12:00-16:00
+website: https://legendariumbooks.com/

@@ -1,11 +1,11 @@
 id: 96895088
-type: way
+type: node
 latitude: 40.37391
 longitude: -111.7825
 postcode: "84003"
 city: American Fork
-street: "East State Street"
-housenumber: 615
+street: East State Street
+housenumber: "615"
 phone: ""
 opening_hours: ""
 website: ""

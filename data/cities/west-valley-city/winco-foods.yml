@@ -1,11 +1,11 @@
 id: 195066061
-type: way
+type: node
 latitude: 40.71365
 longitude: -112.02575
 postcode: "84120"
 city: West Valley City
-street: "5600 West"
+street: 5600 West
 housenumber: 2572 S
-phone: "+1-801-417-5570"
-opening_hours: "24/7"
-website: "https://www.wincofoods.com/stores/win-co-foods-west-valley-75/4767"
+phone: +1-801-417-5570
+opening_hours: 24/7
+website: https://www.wincofoods.com/stores/win-co-foods-west-valley-75/4767

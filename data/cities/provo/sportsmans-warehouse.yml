@@ -1,11 +1,11 @@
 id: 347408081
-type: way
+type: node
 latitude: 40.21953
 longitude: -111.65709
 postcode: "84601"
 city: Provo
-street: "South University Avenue"
-housenumber: 1075
+street: South University Avenue
+housenumber: "1075"
 phone: ""
 opening_hours: ""
 website: ""

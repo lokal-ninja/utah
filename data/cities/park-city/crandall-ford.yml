@@ -1,11 +1,11 @@
 id: 740741755
-type: way
+type: node
 latitude: 40.73597
 longitude: -111.55332
 postcode: "84098"
 city: Park City
-street: "Rasmussen Road"
-housenumber: 2175
+street: Rasmussen Road
+housenumber: "2175"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 299132663
-type: way
+type: node
 latitude: 40.72348
 longitude: -111.54243
 postcode: "84098"
 city: Park City
-street: "Uinta Way"
-housenumber: 1725
-phone: "+1 435-649-7278"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/ut/park-city/1725-unita-way-park-city-ut/706/00072"
+street: Uinta Way
+housenumber: "1725"
+phone: +1 435-649-7278
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.smithsfoodanddrug.com/stores/grocery/ut/park-city/1725-unita-way-park-city-ut/706/00072

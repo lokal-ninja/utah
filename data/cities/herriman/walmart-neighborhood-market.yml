@@ -1,11 +1,11 @@
 id: 776328678
-type: way
+type: node
 latitude: 40.50936
 longitude: -112.01194
 postcode: "84096"
 city: Herriman
-street: "West 13400 South"
-housenumber: 5056
-phone: "+1 801-981-1675"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/7168/herriman-ut/whats-new"
+street: West 13400 South
+housenumber: "5056"
+phone: +1 801-981-1675
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/7168/herriman-ut/whats-new

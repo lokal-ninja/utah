@@ -1,11 +1,11 @@
 id: 326180992
-type: way
+type: node
 latitude: 37.46544
 longitude: -109.46797
 postcode: "84511"
 city: White Mesa
-street: "South US 191"
-housenumber: 1400
+street: South US 191
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 32829593
-type: way
+type: node
 latitude: 41.07562
 longitude: -111.98007
 postcode: "84041"
 city: Layton
-street: "North Main Street"
-housenumber: 1030
-phone: "+1 801-444-9486"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ut/layton/1030-north-main-street"
+street: North Main Street
+housenumber: "1030"
+phone: +1 801-444-9486
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ut/layton/1030-north-main-street

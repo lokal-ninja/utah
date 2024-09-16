@@ -1,11 +1,11 @@
 id: 437518034
-type: way
+type: node
 latitude: 40.74014
 longitude: -111.85942
 postcode: "84105"
 city: Salt Lake City
-street: "1100 East"
-housenumber: 1365
+street: 1100 East
+housenumber: "1365"
 phone: ""
 opening_hours: ""
-website: "https://www.blazing-needles.com/"
+website: https://www.blazing-needles.com/

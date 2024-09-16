@@ -1,11 +1,11 @@
 id: 550382858
-type: way
+type: node
 latitude: 40.35952
 longitude: -111.77807
 postcode: "84003"
 city: American Fork
-street: "East Utah Valley Drive"
-housenumber: 741
+street: East Utah Valley Drive
+housenumber: "741"
 phone: "+18003936434"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.thermoworks.com"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.thermoworks.com

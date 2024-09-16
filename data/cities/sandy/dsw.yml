@@ -1,11 +1,11 @@
 id: 360365012
-type: way
+type: node
 latitude: 40.56249
 longitude: -111.88887
 postcode: "84070"
 city: Sandy
-street: "South State Street"
-housenumber: 10401
-phone: "+1 801-571-1956"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-18:00"
-website: "https://stores.dsw.com/usa/ut/sandy/dsw-designer-shoe-warehouse-commons-at-south-towne.html"
+street: South State Street
+housenumber: "10401"
+phone: +1 801-571-1956
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-18:00
+website: https://stores.dsw.com/usa/ut/sandy/dsw-designer-shoe-warehouse-commons-at-south-towne.html

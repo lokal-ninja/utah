@@ -1,11 +1,11 @@
 id: 810141650
-type: way
+type: node
 latitude: 41.11014
 longitude: -112.05389
 postcode: "84075"
 city: Syracuse
-street: "West 300 South"
-housenumber: 1448
+street: West 300 South
+housenumber: "1448"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

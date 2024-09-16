@@ -1,11 +1,11 @@
 id: 292146722
-type: way
+type: node
 latitude: 40.76103
 longitude: -111.86625
 postcode: "84102"
 city: Salt Lake City
-street: "400 South"
+street: 400 South
 housenumber: 857 E
-phone: "+1-801-531-7066"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://acousticslc.com/"
+phone: +1-801-531-7066
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
+website: https://acousticslc.com/

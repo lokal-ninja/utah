@@ -1,11 +1,11 @@
 id: 315395621
-type: way
+type: node
 latitude: 40.61179
 longitude: -111.98261
 postcode: "84084"
 city: West Jordan
-street: "South Campus View Drive"
-housenumber: 7668
+street: South Campus View Drive
+housenumber: "7668"
 phone: ""
 opening_hours: ""
-website: "https://locations.michaels.com/ut/west-jordan/8788"
+website: https://locations.michaels.com/ut/west-jordan/8788

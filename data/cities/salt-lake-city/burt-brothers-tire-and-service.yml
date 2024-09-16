@@ -1,11 +1,11 @@
 id: 420898861
-type: way
+type: node
 latitude: 40.66771
 longitude: -111.83974
 postcode: "84117"
 city: Salt Lake City
-street: "South Highland Drive"
-housenumber: 4712
+street: South Highland Drive
+housenumber: "4712"
 phone: ""
 opening_hours: ""
-website: "https://burtbrothers.com/"
+website: https://burtbrothers.com/

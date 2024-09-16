@@ -4,8 +4,8 @@ latitude: 40.76824
 longitude: -111.89147
 postcode: "84101"
 city: Salt Lake City
-street: "Main Street"
-housenumber: 50
-phone: "+1-801-532-4666"
-opening_hours: "Mo-Sa 11:00-19:00; Su off"
-website: "https://www.restorationhardware.com/store-locations/141?distance=0.4031110431788445"
+street: Main Street
+housenumber: "50"
+phone: +1-801-532-4666
+opening_hours: Mo-Sa 11:00-19:00; Su off
+website: https://www.restorationhardware.com/store-locations/141?distance=0.4031110431788445

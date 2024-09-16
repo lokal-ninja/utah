@@ -1,11 +1,11 @@
 id: 33633164
-type: way
+type: node
 latitude: 40.76335
 longitude: -111.84777
 postcode: "84112"
 city: Salt Lake City
-street: "South 1500 East"
-housenumber: 270
-phone: "+1 801-581-6326"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 10:00-17:00"
-website: "https://www.campusstore.utah.edu/utah/home.aspx"
+street: South 1500 East
+housenumber: "270"
+phone: +1 801-581-6326
+opening_hours: Mo-Fr 07:30-19:00; Sa 10:00-17:00
+website: https://www.campusstore.utah.edu/utah/home.aspx

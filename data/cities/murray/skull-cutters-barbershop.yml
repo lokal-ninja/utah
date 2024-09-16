@@ -4,8 +4,9 @@ latitude: 40.66743
 longitude: -111.86624
 postcode: ""
 city: Murray
-street: "900 East"
-housenumber: 4700
+street: 900 East
+housenumber: "4700"
 phone: ""
-opening_hours: "Tu, Th, Fr 10:00-18:00; We 12:00-18:00; Sa 09:00-17:00; Su by appointment; Mo off"
-website: "https://skullcuttersbarbershop.com"
+opening_hours: Tu, Th, Fr 10:00-18:00; We 12:00-18:00; Sa 09:00-17:00; Su "by appointment";
+    Mo off
+website: https://skullcuttersbarbershop.com

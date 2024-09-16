@@ -1,11 +1,11 @@
 id: 241408573
-type: way
+type: node
 latitude: 40.54096
 longitude: -111.97803
 postcode: "84095"
 city: South Jordan
-street: "Parkway Plaza Drive"
-housenumber: 11593
-phone: "+1 801-352-4230"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 10:00-23:00; Su 10:00-21:00"
-website: "https://www.rossstores.com/"
+street: Parkway Plaza Drive
+housenumber: "11593"
+phone: +1 801-352-4230
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 10:00-23:00; Su 10:00-21:00
+website: https://www.rossstores.com/

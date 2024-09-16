@@ -1,11 +1,11 @@
 id: 182392239
-type: way
+type: node
 latitude: 40.56192
 longitude: -111.98521
 postcode: "84095"
 city: South Jordan
-street: "4000 West"
+street: 4000 West
 housenumber: 10419 S
-phone: "+1 801-446-1845"
-opening_hours: "Mo-Th 05:00-23:00; Fr-Sa 05:00-24:00; Su 07:00-22:00"
-website: "https://holidayoil.com/our-stores"
+phone: +1 801-446-1845
+opening_hours: Mo-Th 05:00-23:00; Fr-Sa 05:00-24:00; Su 07:00-22:00
+website: https://holidayoil.com/our-stores

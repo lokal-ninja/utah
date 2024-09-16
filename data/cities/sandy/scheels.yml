@@ -1,11 +1,11 @@
 id: 224445505
-type: way
+type: node
 latitude: 40.54708
 longitude: -111.8929
 postcode: "84070"
 city: Sandy
-street: "State Street"
+street: State Street
 housenumber: 11282 S
-phone: "+1-801-948-7080"
-opening_hours: "Mo-Sa 09:30-21:00; Su 11:00-18:00"
-website: "https://www.scheels.com/store?StoreID=080"
+phone: +1-801-948-7080
+opening_hours: Mo-Sa 09:30-21:00; Su 11:00-18:00
+website: https://www.scheels.com/store?StoreID=080

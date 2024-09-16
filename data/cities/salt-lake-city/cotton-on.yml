@@ -4,8 +4,8 @@ latitude: 40.76796
 longitude: -111.89004
 postcode: "84101"
 city: Salt Lake City
-street: "Main Street"
-housenumber: 51
-phone: "+1-801-359-0892"
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-18:00"
-website: "https://cottonon.com/US/store-finder/store-details//?StoreID=1157&Distance=0.89"
+street: Main Street
+housenumber: "51"
+phone: +1-801-359-0892
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-18:00
+website: https://cottonon.com/US/store-finder/store-details//?StoreID=1157&Distance=0.89

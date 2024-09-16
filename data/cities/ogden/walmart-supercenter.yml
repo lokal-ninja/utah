@@ -1,11 +1,11 @@
 id: 123168326
-type: way
+type: node
 latitude: 41.23146
 longitude: -111.98066
 postcode: "84401"
 city: Ogden
-street: "Wall Avenue"
-housenumber: 1959
-phone: "+1 801-917-1026"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3789/ogden-ut/whats-new"
+street: Wall Avenue
+housenumber: "1959"
+phone: +1 801-917-1026
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3789/ogden-ut/whats-new

@@ -4,8 +4,8 @@ latitude: 40.75803
 longitude: -111.8729
 postcode: "84102"
 city: Salt Lake City
-street: "500 South"
-housenumber: 602
-phone: "+1-800-423-7757"
+street: 500 South
+housenumber: "602"
+phone: +1-800-423-7757
 opening_hours: ""
-website: "https://alicelanehome.com/"
+website: https://alicelanehome.com/

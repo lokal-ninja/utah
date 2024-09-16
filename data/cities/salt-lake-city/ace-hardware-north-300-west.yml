@@ -1,11 +1,11 @@
 id: 415615785
-type: way
+type: node
 latitude: 40.78003
 longitude: -111.90031
 postcode: "84103"
 city: Salt Lake City
-street: "North 300 West"
-housenumber: 477
-phone: "+1 385-297-7670"
-opening_hours: "Mo-Sa 08:00-19:00; Su 10:00-16:00"
-website: "https://www.acehardware.com/store-details/18020"
+street: North 300 West
+housenumber: "477"
+phone: +1 385-297-7670
+opening_hours: Mo-Sa 08:00-19:00; Su 10:00-16:00
+website: https://www.acehardware.com/store-details/18020

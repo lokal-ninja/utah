@@ -1,11 +1,11 @@
 id: 324443823
-type: way
+type: node
 latitude: 37.6569
 longitude: -113.0851
 postcode: "84728"
 city: Cedar City
-street: "West Royal Hunte Drive"
-housenumber: 1744
+street: West Royal Hunte Drive
+housenumber: "1744"
 phone: ""
 opening_hours: ""
 website: ""

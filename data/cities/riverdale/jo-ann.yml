@@ -1,11 +1,11 @@
 id: 28240405
-type: way
+type: node
 latitude: 41.17281
 longitude: -112.00466
-postcode: "84405-7105"
+postcode: 84405-7105
 city: Riverdale
-street: "South"
-housenumber: 4978
-phone: "+1 801-393-2338"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/ut/riverdale/2107/"
+street: South
+housenumber: "4978"
+phone: +1 801-393-2338
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/ut/riverdale/2107/

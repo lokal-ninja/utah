@@ -1,11 +1,11 @@
 id: 998244486
-type: way
+type: node
 latitude: 41.75709
 longitude: -111.82778
 postcode: "84341"
 city: Logan
-street: "East 1400 North"
-housenumber: 240
+street: East 1400 North
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

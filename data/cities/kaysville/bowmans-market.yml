@@ -1,11 +1,11 @@
 id: 40016094
-type: way
+type: node
 latitude: 41.04159
 longitude: -111.94125
 postcode: ""
 city: Kaysville
-street: "North Main Street"
-housenumber: 326
+street: North Main Street
+housenumber: "326"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 924691481
-type: way
+type: node
 latitude: 40.16074
 longitude: -111.62711
 postcode: "84663"
 city: Springville
-street: "West 400 South"
-housenumber: 901
+street: West 400 South
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

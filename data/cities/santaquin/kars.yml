@@ -1,11 +1,11 @@
 id: 976686677
-type: way
+type: node
 latitude: 39.95278
 longitude: -111.80619
 postcode: "84655"
 city: Santaquin
-street: "Summit Ridge Parkway"
-housenumber: 1431
-phone: "+1-801-754-1410"
-opening_hours: "Mo-Fr 06:00-00:00; Sa-Su 07:00-22:00"
+street: Summit Ridge Parkway
+housenumber: "1431"
+phone: +1-801-754-1410
+opening_hours: Mo-Fr 06:00-00:00; Sa-Su 07:00-22:00
 website: ""

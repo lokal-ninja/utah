@@ -1,11 +1,11 @@
 id: 172589442
-type: way
+type: node
 latitude: 40.69822
 longitude: -111.85142
 postcode: "84106"
 city: Salt Lake City
-street: "South Highland Drive"
-housenumber: 3398
-phone: "+1 801-461-4248"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/E-Salt-Lake-City/UT/Salt-Lake-City/84106/4413"
+street: South Highland Drive
+housenumber: "3398"
+phone: +1 801-461-4248
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/E-Salt-Lake-City/UT/Salt-Lake-City/84106/4413

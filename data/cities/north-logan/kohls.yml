@@ -1,11 +1,11 @@
 id: 994113065
-type: way
+type: node
 latitude: 41.76315
 longitude: -111.83261
 postcode: "84341"
 city: North Logan
-street: "North Main Street"
-housenumber: 1660
-phone: "+1 435-752-4195"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ut/northlogan-195.shtml"
+street: North Main Street
+housenumber: "1660"
+phone: +1 435-752-4195
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ut/northlogan-195.shtml

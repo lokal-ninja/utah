@@ -1,11 +1,11 @@
 id: 33060188
-type: way
+type: node
 latitude: 41.17477
 longitude: -112.00481
 postcode: "84405"
 city: Riverdale
-street: "West Riverdale Road"
-housenumber: 1101
-phone: "+1-801-627-7330"
+street: West Riverdale Road
+housenumber: "1101"
+phone: +1-801-627-7330
 opening_hours: ""
 website: ""

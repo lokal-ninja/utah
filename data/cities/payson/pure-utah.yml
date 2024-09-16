@@ -4,8 +4,8 @@ latitude: 40.03244
 longitude: -111.75001
 postcode: "84651"
 city: Payson
-street: "1040 West"
-housenumber: 757
-phone: "+1 385-404-4422"
-opening_hours: "Mo-Sa 11:00-19:00; Su off"
-website: "https://www.pure-utah.com"
+street: 1040 West
+housenumber: "757"
+phone: +1 385-404-4422
+opening_hours: Mo-Sa 11:00-19:00; Su off
+website: https://www.pure-utah.com

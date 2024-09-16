@@ -1,11 +1,11 @@
 id: 721040616
-type: way
+type: node
 latitude: 40.63502
 longitude: -111.89021
 postcode: ""
 city: Murray
-street: "South State Street"
-housenumber: 6262
-phone: "+1 385-432-8037"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.sunandski.com/fashion-place"
+street: South State Street
+housenumber: "6262"
+phone: +1 385-432-8037
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.sunandski.com/fashion-place

@@ -1,11 +1,11 @@
 id: 575156890
-type: way
+type: node
 latitude: 37.89935
 longitude: -111.43882
 postcode: "84716"
 city: Boulder
-street: "West UT 12"
-housenumber: 840
-phone: "+1-435-335-7349"
+street: West UT 12
+housenumber: "840"
+phone: +1-435-335-7349
 opening_hours: ""
-website: "https://hillsandhollowsmarket.com"
+website: https://hillsandhollowsmarket.com

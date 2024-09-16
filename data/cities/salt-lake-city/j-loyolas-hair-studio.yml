@@ -1,11 +1,11 @@
 id: 502242614
-type: way
+type: node
 latitude: 40.71517
 longitude: -111.84499
 postcode: "84106"
 city: Salt Lake City
-street: "Stratford Avenue"
-housenumber: 1596
+street: Stratford Avenue
+housenumber: "1596"
 phone: ""
 opening_hours: ""
 website: ""

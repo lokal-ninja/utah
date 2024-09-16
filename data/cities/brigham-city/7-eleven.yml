@@ -1,11 +1,11 @@
 id: 332161759
-type: way
+type: node
 latitude: 41.49815
 longitude: -112.01666
-postcode: "84302-3247"
+postcode: 84302-3247
 city: Brigham City
-street: "South Main Street"
-housenumber: 606
-phone: "+1 435-723-7711"
+street: South Main Street
+housenumber: "606"
+phone: +1 435-723-7711
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ut/brigham-city/606-s.-main-st.-20169"
+website: https://www.7-eleven.com/locations/ut/brigham-city/606-s.-main-st.-20169

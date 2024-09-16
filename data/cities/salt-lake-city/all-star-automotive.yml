@@ -1,11 +1,11 @@
 id: 988433586
-type: way
+type: node
 latitude: 40.74302
 longitude: -111.8995
 postcode: ""
 city: Salt Lake City
-street: "South 300 West"
-housenumber: 1191
+street: South 300 West
+housenumber: "1191"
 phone: ""
 opening_hours: ""
 website: ""

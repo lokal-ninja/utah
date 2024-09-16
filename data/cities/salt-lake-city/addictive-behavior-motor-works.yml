@@ -1,10 +1,10 @@
 id: 620489837
-type: way
+type: node
 latitude: 40.75934
 longitude: -111.90645
 postcode: "84101"
 city: Salt Lake City
-street: "500 West"
+street: 500 West
 housenumber: 454 S
 phone: ""
 opening_hours: ""

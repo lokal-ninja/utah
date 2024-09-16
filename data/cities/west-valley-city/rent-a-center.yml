@@ -1,11 +1,11 @@
 id: 371774079
-type: way
+type: node
 latitude: 40.69732
 longitude: -111.95758
 postcode: "84119"
 city: West Valley City
-street: "3500 South"
+street: 3500 South
 housenumber: 2680 W
-phone: "+1-801-955-7368"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su off"
-website: "https://locations.rentacenter.com/utah/west-valley-city/2680-west-3500-south/"
+phone: +1-801-955-7368
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su off
+website: https://locations.rentacenter.com/utah/west-valley-city/2680-west-3500-south/

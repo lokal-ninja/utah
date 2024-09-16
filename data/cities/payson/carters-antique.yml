@@ -1,11 +1,11 @@
 id: 1005597824
-type: way
+type: node
 latitude: 40.0454
 longitude: -111.72724
 postcode: "84651"
 city: Payson
-street: "North 400 East Street"
-housenumber: 156
+street: North 400 East Street
+housenumber: "156"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 483082459
-type: way
+type: node
 latitude: 41.07033
 longitude: -111.98096
 postcode: "84041"
 city: Layton
-street: "West Hill Field Road"
-housenumber: 859
-phone: "+1 801-515-7590"
+street: West Hill Field Road
+housenumber: "859"
+phone: +1 801-515-7590
 opening_hours: ""
-website: "https://davisrestore.org/"
+website: https://davisrestore.org/

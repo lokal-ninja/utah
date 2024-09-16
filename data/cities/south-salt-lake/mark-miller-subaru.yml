@@ -1,11 +1,11 @@
 id: 41895370
-type: way
+type: node
 latitude: 40.69347
 longitude: -111.88759
 postcode: "84115"
 city: South Salt Lake
-street: "State Street"
+street: State Street
 housenumber: 3535 S
-phone: "+1-888-859-6198"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su off"
+phone: +1-888-859-6198
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su off
 website: ""

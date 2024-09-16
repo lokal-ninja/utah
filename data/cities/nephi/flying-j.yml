@@ -1,11 +1,11 @@
 id: 235915353
-type: way
+type: node
 latitude: 39.68498
 longitude: -111.83643
 postcode: "84648"
 city: Nephi
-street: "South Main Street"
-housenumber: 1597
-phone: "+1-435-623-2400"
-opening_hours: "24/7"
-website: "https://locations.pilotflyingj.com/us/ut/nephi/1597-south-main-street"
+street: South Main Street
+housenumber: "1597"
+phone: +1-435-623-2400
+opening_hours: 24/7
+website: https://locations.pilotflyingj.com/us/ut/nephi/1597-south-main-street

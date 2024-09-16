@@ -1,11 +1,11 @@
 id: 1170245065
-type: way
+type: node
 latitude: 41.91955
 longitude: -111.81423
 postcode: "84333"
 city: Richmond
-street: "South 200 West"
-housenumber: 193
+street: South 200 West
+housenumber: "193"
 phone: ""
 opening_hours: ""
 website: ""

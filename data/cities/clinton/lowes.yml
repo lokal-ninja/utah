@@ -1,11 +1,11 @@
 id: 27422048
-type: way
+type: node
 latitude: 41.14334
 longitude: -112.06015
 postcode: "84015"
 city: Clinton
-street: "North 2000 West"
-housenumber: 1986
-phone: "+1 801-820-1060"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ut-clinton/2845"
+street: North 2000 West
+housenumber: "1986"
+phone: +1 801-820-1060
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ut-clinton/2845

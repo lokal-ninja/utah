@@ -1,11 +1,11 @@
 id: 608405683
-type: way
+type: node
 latitude: 41.26946
 longitude: -111.97013
 postcode: "84404"
 city: Ogden
-street: "East 525 North"
-housenumber: 390
-phone: "+1 801-528-5043"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ut/ogden/pet-supplies-ogden-ut-1454.html"
+street: East 525 North
+housenumber: "390"
+phone: +1 801-528-5043
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ut/ogden/pet-supplies-ogden-ut-1454.html

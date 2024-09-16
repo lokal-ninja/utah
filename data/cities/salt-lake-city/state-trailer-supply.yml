@@ -1,11 +1,12 @@
 id: 358900903
-type: way
+type: node
 latitude: 40.69411
 longitude: -111.93917
 postcode: "84119"
 city: Salt Lake City
-street: "Redwood Road"
+street: Redwood Road
 housenumber: 3600 S
-phone: "+1 801-978-0400"
-opening_hours: "Apr 01-Aug 31: Mo-Sa 08:00-19:00; PH, Su off; Sep 01-Mar 31: 09:00-18:00; PH,Su off"
-website: "https://www.statetrailer.com/"
+phone: +1 801-978-0400
+opening_hours: 'Apr 01-Aug 31: Mo-Sa 08:00-19:00; PH, Su off; Sep 01-Mar 31: 09:00-18:00;
+    PH,Su off'
+website: https://www.statetrailer.com/

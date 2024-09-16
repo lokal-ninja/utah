@@ -1,11 +1,11 @@
 id: 981836424
-type: way
+type: node
 latitude: 40.51205
 longitude: -111.47634
 postcode: "84049"
 city: Midway
-street: "West Main Street"
-housenumber: 195
+street: West Main Street
+housenumber: "195"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 465043209
-type: way
+type: node
 latitude: 40.52756
 longitude: -111.89657
 postcode: "84020"
 city: Draper
-street: "Lone Peak Parkway"
+street: Lone Peak Parkway
 housenumber: 12292 S
-phone: "+1-801-553-6300"
-opening_hours: "24/7"
+phone: +1-801-553-6300
+opening_hours: 24/7
 website: ""

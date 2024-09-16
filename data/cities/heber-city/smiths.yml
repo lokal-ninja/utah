@@ -1,11 +1,11 @@
 id: 230273099
-type: way
+type: node
 latitude: 40.51544
 longitude: -111.41154
 postcode: "84032"
 city: Heber City
-street: "North Main Street"
-housenumber: 550
-phone: "+1 435-654-1250"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/ut/heber-city/550-north-main-st-heber-city-ut/706/00063"
+street: North Main Street
+housenumber: "550"
+phone: +1 435-654-1250
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.smithsfoodanddrug.com/stores/grocery/ut/heber-city/550-north-main-st-heber-city-ut/706/00063

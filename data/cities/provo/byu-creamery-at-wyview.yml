@@ -1,11 +1,11 @@
 id: 289050314
-type: way
+type: node
 latitude: 40.26107
 longitude: -111.65953
 postcode: "84604"
 city: Provo
-street: "North 40 West"
-housenumber: 1990
+street: North 40 West
+housenumber: "1990"
 phone: "+18014229201"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 12:00-20:00"
+opening_hours: Mo-Fr 09:00-21:00; Sa 12:00-20:00
 website: ""

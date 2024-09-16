@@ -4,8 +4,8 @@ latitude: 40.75014
 longitude: -111.90483
 postcode: "84101"
 city: Salt Lake City
-street: "South 500 West"
-housenumber: 863
-phone: "+1-801-355-0972"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://wadeauto.com"
+street: South 500 West
+housenumber: "863"
+phone: +1-801-355-0972
+opening_hours: Mo-Fr 08:30-17:30
+website: https://wadeauto.com

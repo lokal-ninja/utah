@@ -1,11 +1,11 @@
 id: 985612899
-type: way
+type: node
 latitude: 40.50336
 longitude: -111.41384
 postcode: "84032"
 city: Heber City
-street: "South Main Street"
-housenumber: 340
+street: South Main Street
+housenumber: "340"
 phone: ""
 opening_hours: ""
-website: "https://northland-usa.com"
+website: https://northland-usa.com

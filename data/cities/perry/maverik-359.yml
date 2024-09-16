@@ -1,11 +1,11 @@
 id: 178715031
-type: way
+type: node
 latitude: 41.46923
 longitude: -112.02894
 postcode: ""
 city: Perry
-street: "U.S. Hwy 89"
-housenumber: 2241
-phone: "+1 435-723-7734"
+street: U.S. Hwy 89
+housenumber: "2241"
+phone: +1 435-723-7734
 opening_hours: ""
 website: ""

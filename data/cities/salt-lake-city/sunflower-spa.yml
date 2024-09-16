@@ -1,11 +1,11 @@
 id: 613169918
-type: way
+type: node
 latitude: 40.7314
 longitude: -111.88847
 postcode: "84115"
 city: Salt Lake City
-street: "State Street"
-housenumber: 1792
-phone: "+1-801-599-5534"
-opening_hours: "Mo-Su 10:00-22:00"
+street: State Street
+housenumber: "1792"
+phone: +1-801-599-5534
+opening_hours: Mo-Su 10:00-22:00
 website: ""

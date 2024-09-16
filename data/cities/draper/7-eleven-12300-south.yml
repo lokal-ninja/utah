@@ -1,11 +1,11 @@
 id: 465315035
-type: way
+type: node
 latitude: 40.52645
 longitude: -111.87198
 postcode: "84020"
 city: Draper
-street: "12300 South"
+street: 12300 South
 housenumber: 692 E
-phone: "+1-801-571-4982"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ut/draper/692-east-12300-south-33985"
+phone: +1-801-571-4982
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ut/draper/692-east-12300-south-33985

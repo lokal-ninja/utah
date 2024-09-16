@@ -4,8 +4,8 @@ latitude: 40.27344
 longitude: -111.67717
 postcode: "84097"
 city: Orem
-street: "E University Parkway"
-housenumber: 775
-phone: "+1 801 377 0220"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://store.simplymac.com"
+street: E University Parkway
+housenumber: "775"
+phone: +1 801 377 0220
+opening_hours: Mo-Sa 10:00-18:00
+website: https://store.simplymac.com

@@ -1,11 +1,11 @@
 id: 802279104
-type: way
+type: node
 latitude: 40.6435
 longitude: -111.27557
 postcode: "84036"
 city: Kamas
-street: "East Center Street"
-housenumber: 235
+street: East Center Street
+housenumber: "235"
 phone: ""
 opening_hours: ""
 website: ""

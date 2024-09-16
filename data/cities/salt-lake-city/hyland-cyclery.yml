@@ -1,11 +1,11 @@
 id: 778104970
-type: way
+type: node
 latitude: 40.70493
 longitude: -111.85339
 postcode: "84106"
 city: Salt Lake City
-street: "Highland Drive"
-housenumber: 3040
-phone: "+1 801 467 0914"
+street: Highland Drive
+housenumber: "3040"
+phone: +1 801 467 0914
 opening_hours: ""
 website: ""

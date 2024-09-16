@@ -1,11 +1,11 @@
 id: 360365735
-type: way
+type: node
 latitude: 40.55597
 longitude: -111.89339
 postcode: "84070"
 city: Sandy
-street: "South Auto Mall Drive"
-housenumber: 10785
+street: South Auto Mall Drive
+housenumber: "10785"
 phone: ""
 opening_hours: ""
-website: "https://www.timdahlemazdasouthtowne.com/"
+website: https://www.timdahlemazdasouthtowne.com/

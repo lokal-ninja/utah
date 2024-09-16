@@ -1,11 +1,11 @@
 id: 224408814
-type: way
+type: node
 latitude: 40.64327
 longitude: -111.88946
 postcode: "84107"
 city: Murray
-street: "South State Street"
-housenumber: 5894
-phone: "+1 801-268-0785"
+street: South State Street
+housenumber: "5894"
+phone: +1 801-268-0785
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ut/murray/5900-s-state-st-23387"
+website: https://www.7-eleven.com/locations/ut/murray/5900-s-state-st-23387

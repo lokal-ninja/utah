@@ -1,11 +1,11 @@
 id: 846440268
-type: way
+type: node
 latitude: 40.86479
 longitude: -111.94086
 postcode: "84087"
 city: Woods Cross
-street: "West 2425 South"
-housenumber: 2166
-phone: "+1-801-292-2489"
-opening_hours: "Mo-Fr 08:30-17:30; Sa-Su off"
-website: "http://southbountifulauto.com/"
+street: West 2425 South
+housenumber: "2166"
+phone: +1-801-292-2489
+opening_hours: Mo-Fr 08:30-17:30; Sa-Su off
+website: http://southbountifulauto.com/

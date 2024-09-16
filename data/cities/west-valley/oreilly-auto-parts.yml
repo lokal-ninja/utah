@@ -1,11 +1,11 @@
 id: 1049658012
-type: way
+type: node
 latitude: 40.69716
 longitude: -111.97233
 postcode: "84119"
 city: West Valley
-street: "3500 South"
+street: 3500 South
 housenumber: 3408 W
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ut/westvalleycity/autoparts-2873.html"
+website: https://locations.oreillyauto.com/ut/westvalleycity/autoparts-2873.html

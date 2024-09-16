@@ -1,11 +1,11 @@
 id: 1251352934
-type: way
+type: node
 latitude: 40.72257
 longitude: -111.8558
 postcode: "84106"
 city: Salt Lake City
-street: "1300 East"
+street: 1300 East
 housenumber: 2210 S
-phone: "+1-801-484-8880"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00; "
-website: "https://stores.nordstromrack.com/us/ut/salt-lake-city/2210-s-1300-e"
+phone: +1-801-484-8880
+opening_hours: 'Mo-Sa 10:00-21:00; Su 11:00-19:00; '
+website: https://stores.nordstromrack.com/us/ut/salt-lake-city/2210-s-1300-e

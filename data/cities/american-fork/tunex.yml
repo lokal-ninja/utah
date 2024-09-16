@@ -1,11 +1,11 @@
 id: 1305623767
-type: way
+type: node
 latitude: 40.38003
 longitude: -111.813
 postcode: "84003"
 city: American Fork
-street: "North West State Street"
-housenumber: 142
-phone: "+1 801 492 8111"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://tunex.com/"
+street: North West State Street
+housenumber: "142"
+phone: +1 801 492 8111
+opening_hours: Mo-Fr 08:00-18:00
+website: https://tunex.com/

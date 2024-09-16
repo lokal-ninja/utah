@@ -1,11 +1,11 @@
 id: 722826348
-type: way
+type: node
 latitude: 40.09854
 longitude: -111.65614
 postcode: "84660"
 city: Spanish Fork
-street: "South Main Street"
-housenumber: 866
+street: South Main Street
+housenumber: "866"
 phone: ""
 opening_hours: ""
 website: ""

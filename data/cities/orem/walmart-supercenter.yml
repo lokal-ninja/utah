@@ -1,11 +1,11 @@
 id: 28337370
-type: way
+type: node
 latitude: 40.27267
 longitude: -111.71135
 postcode: "84058"
 city: Orem
-street: "Sandhill Road"
-housenumber: 1355
-phone: "+1 801-221-0600"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1768/orem-ut/whats-new"
+street: Sandhill Road
+housenumber: "1355"
+phone: +1 801-221-0600
+opening_hours: 24/7
+website: https://www.walmart.com/store/1768/orem-ut/whats-new

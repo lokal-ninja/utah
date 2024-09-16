@@ -1,11 +1,11 @@
 id: 42455568
-type: way
+type: node
 latitude: 41.0018
 longitude: -111.90684
 postcode: "84025"
 city: Farmington
-street: "North Highway 89"
-housenumber: 1316
-phone: "+1 801-451-0581"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/ut/farmington/foxglove/706/00135"
+street: North Highway 89
+housenumber: "1316"
+phone: +1 801-451-0581
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.smithsfoodanddrug.com/stores/grocery/ut/farmington/foxglove/706/00135

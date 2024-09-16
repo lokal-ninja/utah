@@ -1,11 +1,11 @@
 id: 81549188
-type: way
+type: node
 latitude: 40.38543
 longitude: -111.826
 postcode: "84003"
 city: American Fork
-street: "West Grassland Drive"
-housenumber: 949
-phone: "+1 801-492-1102"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2511/american-fork-ut/whats-new"
+street: West Grassland Drive
+housenumber: "949"
+phone: +1 801-492-1102
+opening_hours: 24/7
+website: https://www.walmart.com/store/2511/american-fork-ut/whats-new

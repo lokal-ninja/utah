@@ -1,11 +1,11 @@
 id: 1049993908
-type: way
+type: node
 latitude: 40.69644
 longitude: -111.96951
 postcode: "84119"
 city: West Valley City
-street: "West 3500 South"
-housenumber: 3279
-phone: "+1 541-955-4700"
-opening_hours: "Mo-Su 05:00-23:00"
-website: "https://locations.dutchbros.com/dutch-bros-coffee-885a4f75bbac"
+street: West 3500 South
+housenumber: "3279"
+phone: +1 541-955-4700
+opening_hours: Mo-Su 05:00-23:00
+website: https://locations.dutchbros.com/dutch-bros-coffee-885a4f75bbac

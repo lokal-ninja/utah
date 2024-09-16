@@ -1,11 +1,11 @@
 id: 1094211399
-type: way
+type: node
 latitude: 40.69913
 longitude: -111.82425
 postcode: "84109"
 city: Salt Lake City
-street: "2300 East"
+street: 2300 East
 housenumber: 3333 S
-phone: "+1-385-259-0416"
-opening_hours: "Mo-Fr 05:30-19:00; Sa 06:00-18:00; Su 06:30-18:00"
-website: "https://www.javajos.com/"
+phone: +1-385-259-0416
+opening_hours: Mo-Fr 05:30-19:00; Sa 06:00-18:00; Su 06:30-18:00
+website: https://www.javajos.com/

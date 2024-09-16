@@ -1,11 +1,11 @@
 id: 1080399784
-type: way
+type: node
 latitude: 39.72571
 longitude: -111.83515
-postcode: "84648-1008"
+postcode: 84648-1008
 city: Nephi
-street: "North Main Street"
-housenumber: 1174
-phone: "+1 435-610-2444"
-opening_hours: "Mo-Sa 07:30-20:00"
+street: North Main Street
+housenumber: "1174"
+phone: +1 435-610-2444
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

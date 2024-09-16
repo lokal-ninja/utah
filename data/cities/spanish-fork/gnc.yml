@@ -4,8 +4,8 @@ latitude: 40.12345
 longitude: -111.6448
 postcode: "84660"
 city: Spanish Fork
-street: "East 1000 North"
-housenumber: 567
+street: East 1000 North
+housenumber: "567"
 phone: ""
 opening_hours: ""
 website: ""

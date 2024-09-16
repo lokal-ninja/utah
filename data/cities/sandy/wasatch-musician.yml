@@ -4,8 +4,8 @@ latitude: 40.57877
 longitude: -111.87374
 postcode: "84070"
 city: Sandy
-street: "Union Square"
-housenumber: 648
+street: Union Square
+housenumber: "648"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://wasatchmusician.com"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://wasatchmusician.com

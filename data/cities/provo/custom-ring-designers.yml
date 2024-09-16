@@ -1,11 +1,11 @@
 id: 1195439120
-type: way
+type: node
 latitude: 40.24984
 longitude: -111.64279
 postcode: "84604"
 city: Provo
-street: "North 900 East"
-housenumber: 1218
+street: North 900 East
+housenumber: "1218"
 phone: "+18016551988"
 opening_hours: ""
-website: "https://crdut.com/"
+website: https://crdut.com/

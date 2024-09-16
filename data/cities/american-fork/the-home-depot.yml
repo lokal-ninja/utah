@@ -1,11 +1,11 @@
 id: 81549191
-type: way
+type: node
 latitude: 40.38475
 longitude: -111.82358
 postcode: "84003"
 city: American Fork
-street: "West Grassland Drive"
-housenumber: 885
-phone: "+1 801-763-8640"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/American-Fork/UT/American-Fork/84003/4417"
+street: West Grassland Drive
+housenumber: "885"
+phone: +1 801-763-8640
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/American-Fork/UT/American-Fork/84003/4417

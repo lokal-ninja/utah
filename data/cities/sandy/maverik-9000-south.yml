@@ -1,11 +1,11 @@
 id: 943698972
-type: way
+type: node
 latitude: 40.58746
 longitude: -111.90396
 postcode: "84070"
 city: Sandy
-street: "9000 South"
+street: 9000 South
 housenumber: 425 W
-phone: "+1-801-566-3374"
-opening_hours: "24/7"
+phone: +1-801-566-3374
+opening_hours: 24/7
 website: ""

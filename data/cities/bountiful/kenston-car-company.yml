@@ -1,11 +1,11 @@
 id: 644248327
-type: way
+type: node
 latitude: 40.8614
 longitude: -111.89524
 postcode: "84010"
 city: Bountiful
-street: "2600 South"
+street: 2600 South
 housenumber: 605 W
-phone: "+1-801-936-1886"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su off"
+phone: +1-801-936-1886
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su off
 website: ""

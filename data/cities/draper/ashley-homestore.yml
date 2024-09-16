@@ -1,11 +1,11 @@
 id: 360372704
-type: way
+type: node
 latitude: 40.51266
 longitude: -111.89531
 postcode: "84020"
 city: Draper
-street: "South 135 West"
-housenumber: 13177
-phone: "+1 385-234-4663"
+street: South 135 West
+housenumber: "13177"
+phone: +1 385-234-4663
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/utah/draper/7710000448/"
+website: https://stores.ashleyfurniture.com/store/us/utah/draper/7710000448/

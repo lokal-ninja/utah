@@ -1,11 +1,11 @@
 id: 41701326
-type: way
+type: node
 latitude: 40.85996
 longitude: -111.89823
 postcode: "84054"
 city: North Salt Lake
-street: "South Main Street"
-housenumber: 1025
-phone: "+1-801-682-4406"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off"
-website: "https://bountiful.mastermuffler.net/"
+street: South Main Street
+housenumber: "1025"
+phone: +1-801-682-4406
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off
+website: https://bountiful.mastermuffler.net/

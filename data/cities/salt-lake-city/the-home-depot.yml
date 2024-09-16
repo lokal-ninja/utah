@@ -1,11 +1,11 @@
 id: 224008116
-type: way
+type: node
 latitude: 40.62139
 longitude: -111.85207
 postcode: "84121"
 city: Salt Lake City
-street: "East Park Centre Drive"
-housenumber: 1310
-phone: "+1 801-567-0700"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/park-centre/ut/salt-lake-city/84121/4402"
+street: East Park Centre Drive
+housenumber: "1310"
+phone: +1 801-567-0700
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/park-centre/ut/salt-lake-city/84121/4402

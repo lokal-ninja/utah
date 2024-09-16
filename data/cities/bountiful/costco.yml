@@ -1,11 +1,11 @@
 id: 34687093
-type: way
+type: node
 latitude: 40.88872
 longitude: -111.89583
 postcode: "84010"
 city: Bountiful
-street: "West 100 North"
-housenumber: 573
-phone: "+1 801-299-3940"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/bountiful-west-bountiful-ut-735.html"
+street: West 100 North
+housenumber: "573"
+phone: +1 801-299-3940
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/bountiful-west-bountiful-ut-735.html

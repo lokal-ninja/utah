@@ -1,11 +1,11 @@
 id: 425205620
-type: way
+type: node
 latitude: 40.63375
 longitude: -111.88964
 postcode: "84107"
 city: Murray
-street: "South State Street"
-housenumber: 6396
-phone: "+1 801-268-3755"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://www.menswearhouse.com/store-locator/2673"
+street: South State Street
+housenumber: "6396"
+phone: +1 801-268-3755
+opening_hours: Mo-Sa 10:00-21:00
+website: https://www.menswearhouse.com/store-locator/2673

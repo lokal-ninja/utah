@@ -1,11 +1,11 @@
 id: 1036005809
-type: way
+type: node
 latitude: 40.49668
 longitude: -111.4133
 postcode: "84032"
 city: Heber City
-street: "South Main Street"
-housenumber: 845
+street: South Main Street
+housenumber: "845"
 phone: ""
 opening_hours: ""
 website: ""

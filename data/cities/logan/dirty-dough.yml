@@ -4,8 +4,8 @@ latitude: 41.73804
 longitude: -111.83548
 postcode: "84321"
 city: Logan
-street: "North Main Street"
-housenumber: 339
+street: North Main Street
+housenumber: "339"
 phone: "3856001012"
 opening_hours: ""
-website: "https://dirtydoughcookies.com/locations/"
+website: https://dirtydoughcookies.com/locations/

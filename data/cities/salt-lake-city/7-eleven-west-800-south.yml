@@ -1,11 +1,11 @@
 id: 425339234
-type: way
+type: node
 latitude: 40.75157
 longitude: -111.89445
-postcode: "84101-2904"
+postcode: 84101-2904
 city: Salt Lake City
-street: "West 800 South"
-housenumber: 111
-phone: "+1 801-328-4039"
+street: West 800 South
+housenumber: "111"
+phone: +1 801-328-4039
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ut/salt-lake-city/111-west-800-south-26282"
+website: https://www.7-eleven.com/locations/ut/salt-lake-city/111-west-800-south-26282

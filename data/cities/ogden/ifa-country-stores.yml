@@ -1,11 +1,11 @@
 id: 1113121495
-type: way
+type: node
 latitude: 41.24254
 longitude: -112.00549
 postcode: "84404"
 city: Ogden
-street: "West 12th Street"
-housenumber: 1069
-phone: "+1 801 394 8831"
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
-website: "https://ifacountrystores.com/locations"
+street: West 12th Street
+housenumber: "1069"
+phone: +1 801 394 8831
+opening_hours: Mo-Sa 08:00-20:00; Su off
+website: https://ifacountrystores.com/locations

@@ -4,8 +4,8 @@ latitude: 40.75804
 longitude: -111.89867
 postcode: "84101"
 city: Salt Lake City
-street: "500 South"
-housenumber: 257
-phone: "801-531-6562"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: 500 South
+housenumber: "257"
+phone: 801-531-6562
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

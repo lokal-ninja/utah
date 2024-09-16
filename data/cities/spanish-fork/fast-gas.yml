@@ -1,11 +1,11 @@
 id: 724170801
-type: way
+type: node
 latitude: 40.12072
 longitude: -111.65533
 postcode: "84660"
 city: Spanish Fork
-street: "North Main Street"
-housenumber: 835
+street: North Main Street
+housenumber: "835"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 531372369
-type: way
+type: node
 latitude: 40.71253
 longitude: -111.86507
 postcode: "84106"
 city: Salt Lake City
-street: "2700 South"
-housenumber: 902
+street: 2700 South
+housenumber: "902"
 phone: ""
 opening_hours: ""
 website: ""

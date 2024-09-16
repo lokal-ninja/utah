@@ -1,11 +1,11 @@
 id: 1278875871
-type: way
+type: node
 latitude: 40.38514
 longitude: -111.9217
 postcode: "84045"
 city: Saratoga Springs
-street: "North Exchange"
-housenumber: 1226
-phone: "+1 385-993-6100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/saratoga-springs/ut/saratoga-springs/84045/4461"
+street: North Exchange
+housenumber: "1226"
+phone: +1 385-993-6100
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/saratoga-springs/ut/saratoga-springs/84045/4461

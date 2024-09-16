@@ -1,11 +1,11 @@
 id: 377634947
-type: way
+type: node
 latitude: 40.71228
 longitude: -111.87918
 postcode: "84106"
 city: South Salt Lake
-street: "East 2700 South"
-housenumber: 420
-phone: "+1 801-486-1422"
-opening_hours: "PH,Mo-Su 00:00-12:00+"
-website: "https://www.7-eleven.com/locations/ut/south-salt-lake/420-east-2700-south-12948"
+street: East 2700 South
+housenumber: "420"
+phone: +1 801-486-1422
+opening_hours: PH,Mo-Su 00:00-12:00+
+website: https://www.7-eleven.com/locations/ut/south-salt-lake/420-east-2700-south-12948

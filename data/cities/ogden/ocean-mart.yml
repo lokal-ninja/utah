@@ -4,8 +4,8 @@ latitude: 41.24643
 longitude: -111.96838
 postcode: "84404"
 city: Ogden
-street: "Washington Boulevard"
-housenumber: 1018
-phone: "+1-801-899-9888"
-opening_hours: "Mo-Su 09:30-21:00"
-website: "https://www.oceanmartogden.com"
+street: Washington Boulevard
+housenumber: "1018"
+phone: +1-801-899-9888
+opening_hours: Mo-Su 09:30-21:00
+website: https://www.oceanmartogden.com

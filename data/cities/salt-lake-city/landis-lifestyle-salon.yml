@@ -4,8 +4,8 @@ latitude: 40.78215
 longitude: -111.90001
 postcode: "84103"
 city: Salt Lake City
-street: "300 West"
+street: 300 West
 housenumber: 569 N
-phone: "+1-801-364-3354"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-16:00"
-website: "https://landissalon.com/marmalade-salon/"
+phone: +1-801-364-3354
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-16:00
+website: https://landissalon.com/marmalade-salon/

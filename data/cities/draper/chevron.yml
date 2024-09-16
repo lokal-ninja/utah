@@ -1,11 +1,11 @@
 id: 465516988
-type: way
+type: node
 latitude: 40.52623
 longitude: -111.89959
 postcode: "84020"
 city: Draper
-street: "East 12300 South"
-housenumber: 267
-phone: "+1 801 523-8492"
+street: East 12300 South
+housenumber: "267"
+phone: +1 801 523-8492
 opening_hours: ""
 website: ""

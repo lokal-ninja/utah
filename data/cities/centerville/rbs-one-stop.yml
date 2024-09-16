@@ -1,11 +1,11 @@
 id: 315216711
-type: way
+type: node
 latitude: 40.92131
 longitude: -111.88289
 postcode: "84014"
 city: Centerville
-street: "West Parrish Lane"
-housenumber: 331
+street: West Parrish Lane
+housenumber: "331"
 phone: ""
 opening_hours: ""
 website: ""

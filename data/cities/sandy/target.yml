@@ -1,11 +1,11 @@
 id: 465430354
-type: way
+type: node
 latitude: 40.56646
 longitude: -111.89387
-postcode: "84070-4118"
+postcode: 84070-4118
 city: Sandy
-street: "South State Street"
-housenumber: 10130
-phone: "+1 801-255-3301"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/sandy-south-towne/1752"
+street: South State Street
+housenumber: "10130"
+phone: +1 801-255-3301
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/sandy-south-towne/1752

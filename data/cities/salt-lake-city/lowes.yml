@@ -1,11 +1,11 @@
 id: 616845212
-type: way
+type: node
 latitude: 40.74085
 longitude: -111.89717
 postcode: "84115"
 city: Salt Lake City
-street: "300 West"
-housenumber: 1335
-phone: "+1 801-828-1640"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/ut-salt-lake-city/2275"
+street: 300 West
+housenumber: "1335"
+phone: +1 801-828-1640
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/ut-salt-lake-city/2275

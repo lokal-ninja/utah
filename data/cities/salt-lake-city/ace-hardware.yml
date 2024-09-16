@@ -4,8 +4,8 @@ latitude: 40.75986
 longitude: -111.8735
 postcode: "84102"
 city: Salt Lake City
-street: "400 South"
-housenumber: 612
-phone: "+1 801-364-6567"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.acehardware.com/store-details/11772"
+street: 400 South
+housenumber: "612"
+phone: +1 801-364-6567
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.acehardware.com/store-details/11772

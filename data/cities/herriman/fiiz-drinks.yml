@@ -1,11 +1,11 @@
 id: 157773782
-type: way
+type: node
 latitude: 40.51074
 longitude: -112.02514
 postcode: "84096"
 city: Herriman
-street: "South Rosecrest Road"
-housenumber: 13308
-phone: "+1 801-432-7188"
+street: South Rosecrest Road
+housenumber: "13308"
+phone: +1 801-432-7188
 opening_hours: ""
 website: ""

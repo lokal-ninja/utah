@@ -1,11 +1,11 @@
 id: 81590846
-type: way
+type: node
 latitude: 40.37903
 longitude: -111.81507
 postcode: "84003"
 city: American Fork
-street: "West Main Street"
-housenumber: 604
-phone: "+1 801 756 3033"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ut/american-fork/office-depot-2549"
+street: West Main Street
+housenumber: "604"
+phone: +1 801 756 3033
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ut/american-fork/office-depot-2549

@@ -1,11 +1,11 @@
 id: 493145548
-type: way
+type: node
 latitude: 41.70851
 longitude: -111.83208
 postcode: "84332"
 city: Providence
-street: "North Highway 165"
-housenumber: 50
+street: North Highway 165
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 06:00-24:00"
+opening_hours: Mo-Sa 06:00-24:00
 website: ""

@@ -1,11 +1,11 @@
 id: 428025264
-type: way
+type: node
 latitude: 39.60154
 longitude: -110.82353
 postcode: "84501"
 city: Price
-street: "North Carbonville Road"
-housenumber: 121
+street: North Carbonville Road
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

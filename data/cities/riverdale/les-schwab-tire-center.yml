@@ -1,11 +1,11 @@
 id: 28007722
-type: way
+type: node
 latitude: 41.1798
 longitude: -111.99499
 postcode: "84405"
 city: Riverdale
-street: "West Riverdale Road"
-housenumber: 627
+street: West Riverdale Road
+housenumber: "627"
 phone: ""
 opening_hours: ""
 website: ""

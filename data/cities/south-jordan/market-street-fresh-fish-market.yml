@@ -4,8 +4,9 @@ latitude: 40.55807
 longitude: -111.9138
 postcode: "84095"
 city: South Jordan
-street: "River Front Parkway"
+street: River Front Parkway
 housenumber: 10702 S
-phone: "+1-801-302-2262"
-opening_hours: "Mo-Th 11:30-14:00, 17:00-21:00; Fr 11:30-14:00,17:00-21:30; Sa 11:30-15:00,16:00-21:30; Su 09:00-15:00,16:00-21:00"
-website: "https://www.marketstreetgrill.com/fish-markets"
+phone: +1-801-302-2262
+opening_hours: Mo-Th 11:30-14:00, 17:00-21:00; Fr 11:30-14:00,17:00-21:30; Sa 11:30-15:00,16:00-21:30;
+    Su 09:00-15:00,16:00-21:00
+website: https://www.marketstreetgrill.com/fish-markets

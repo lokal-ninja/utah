@@ -4,8 +4,8 @@ latitude: 40.1239
 longitude: -111.65283
 postcode: "84660"
 city: Spanish Fork
-street: "East 1000 North Street"
-housenumber: 123
+street: East 1000 North Street
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/ut/spanish-fork/2834/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/ut/spanish-fork/2834/

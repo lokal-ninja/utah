@@ -1,11 +1,11 @@
 id: 38657842
-type: way
+type: node
 latitude: 40.69465
 longitude: -111.97627
 postcode: "84119"
 city: West Valley City
-street: "3500 South"
+street: 3500 South
 housenumber: 3555 W
-phone: "+1-801-963-6870"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
-website: "https://www.maceys.com/locations/granger"
+phone: +1-801-963-6870
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
+website: https://www.maceys.com/locations/granger

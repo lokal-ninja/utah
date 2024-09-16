@@ -1,11 +1,11 @@
 id: 466226495
-type: way
+type: node
 latitude: 40.02754
 longitude: -111.7577
 postcode: "84651"
 city: Payson
-street: "Turf Farm Road"
-housenumber: 1052
-phone: "+1 801-465-8246"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/5167-payson-ut"
+street: Turf Farm Road
+housenumber: "1052"
+phone: +1 801-465-8246
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/5167-payson-ut

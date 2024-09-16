@@ -1,11 +1,11 @@
 id: 1057665331
-type: way
+type: node
 latitude: 40.66723
 longitude: -111.98709
 postcode: "84118"
 city: Kearns
-street: "South 4000 West"
-housenumber: 4710
+street: South 4000 West
+housenumber: "4710"
 phone: ""
 opening_hours: ""
 website: ""

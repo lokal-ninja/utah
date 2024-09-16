@@ -1,11 +1,11 @@
 id: 126518412
-type: way
+type: node
 latitude: 40.70025
 longitude: -111.8579
 postcode: "84106"
 city: Salt Lake City
-street: "3300 South"
+street: 3300 South
 housenumber: 1199 E
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ut/salt-lake-city/1199-e-3300-s.html"
+website: https://www.autozone.com/locations/ut/salt-lake-city/1199-e-3300-s.html

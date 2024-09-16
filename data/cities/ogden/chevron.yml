@@ -1,11 +1,11 @@
 id: 41889364
-type: way
+type: node
 latitude: 41.20557
 longitude: -112.00704
 postcode: "84401"
 city: Ogden
-street: "West 3300 South"
-housenumber: 1125
+street: West 3300 South
+housenumber: "1125"
 phone: ""
 opening_hours: ""
 website: ""

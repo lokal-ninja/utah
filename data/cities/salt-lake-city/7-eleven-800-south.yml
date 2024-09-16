@@ -4,8 +4,8 @@ latitude: 40.75251
 longitude: -111.88578
 postcode: "84111"
 city: Salt Lake City
-street: "800 South"
-housenumber: 175
-phone: "+1 801-521-9506"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ut/salt-lake-city/175-east-800-south-26999"
+street: 800 South
+housenumber: "175"
+phone: +1 801-521-9506
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ut/salt-lake-city/175-east-800-south-26999

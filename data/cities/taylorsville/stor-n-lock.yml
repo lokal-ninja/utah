@@ -1,11 +1,11 @@
 id: 1288463940
-type: way
+type: node
 latitude: 40.66151
 longitude: -111.93903
 postcode: "84123"
 city: Taylorsville
-street: "South Redwood Road"
-housenumber: 4930
-phone: "+1-385-351-9224"
-opening_hours: "Mo-Sa 09:00-18:00; Su off"
-website: "https://www.stor-n-lock.com/self-storage/ut/taylorsville/s-redwood-road/"
+street: South Redwood Road
+housenumber: "4930"
+phone: +1-385-351-9224
+opening_hours: Mo-Sa 09:00-18:00; Su off
+website: https://www.stor-n-lock.com/self-storage/ut/taylorsville/s-redwood-road/

@@ -1,11 +1,11 @@
 id: 563782386
-type: way
+type: node
 latitude: 40.86409
 longitude: -111.9324
 postcode: "84087"
 city: Woods Cross
-street: "West 2425 South"
-housenumber: 1877
-phone: "+1-801-438-7009"
-opening_hours: "Mo-Fr 07:00-19:00"
-website: "https://www.performancefordtruckland.com/"
+street: West 2425 South
+housenumber: "1877"
+phone: +1-801-438-7009
+opening_hours: Mo-Fr 07:00-19:00
+website: https://www.performancefordtruckland.com/

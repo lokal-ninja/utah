@@ -1,11 +1,11 @@
 id: 568726269
-type: way
+type: node
 latitude: 40.43062
 longitude: -111.82208
 postcode: "84043"
 city: Lehi
-street: "S SR-92"
-housenumber: 1744
-phone: "801-768-0419"
-opening_hours: "Mo-Sa 07:30-22:00, Su 09:00-20:00"
-website: "https://locations.oreillyauto.com/ut/lehi/autoparts-4473.html"
+street: S SR-92
+housenumber: "1744"
+phone: 801-768-0419
+opening_hours: Mo-Sa 07:30-22:00, Su 09:00-20:00
+website: https://locations.oreillyauto.com/ut/lehi/autoparts-4473.html

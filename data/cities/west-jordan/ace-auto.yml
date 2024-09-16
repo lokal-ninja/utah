@@ -1,11 +1,11 @@
 id: 720414356
-type: way
+type: node
 latitude: 40.59844
 longitude: -111.97259
 postcode: "84088"
 city: West Jordan
-street: "8395 South"
+street: 8395 South
 housenumber: 3399 W
-phone: "+1-801-803-6016"
-opening_hours: "Su-Mo off; Tu-Sa 09:00-18:00"
-website: "https://aceautoutah.com/"
+phone: +1-801-803-6016
+opening_hours: Su-Mo off; Tu-Sa 09:00-18:00
+website: https://aceautoutah.com/

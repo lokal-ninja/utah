@@ -1,11 +1,11 @@
 id: 185544387
-type: way
+type: node
 latitude: 38.56984
 longitude: -109.55192
 postcode: "84532"
 city: Moab
-street: "West 200 South"
-housenumber: 55
+street: West 200 South
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

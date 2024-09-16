@@ -1,11 +1,11 @@
 id: 1013036183
-type: way
+type: node
 latitude: 41.74905
 longitude: -111.83396
 postcode: "84321"
 city: Logan
-street: "North Main Street"
-housenumber: 930
+street: North Main Street
+housenumber: "930"
 phone: ""
 opening_hours: ""
 website: ""

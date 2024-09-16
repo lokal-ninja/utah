@@ -1,11 +1,11 @@
 id: 483768529
-type: way
+type: node
 latitude: 41.08612
 longitude: -111.97293
 postcode: "84041"
 city: Layton
-street: "North Hill Field Road"
-housenumber: 1830
+street: North Hill Field Road
+housenumber: "1830"
 phone: ""
 opening_hours: ""
 website: ""

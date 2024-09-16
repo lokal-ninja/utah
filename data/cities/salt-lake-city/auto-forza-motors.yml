@@ -1,11 +1,11 @@
 id: 613170487
-type: way
+type: node
 latitude: 40.72572
 longitude: -111.89325
 postcode: "84115"
 city: Salt Lake City
-street: "2100 South"
+street: 2100 South
 housenumber: 76 W
-phone: "+1-801-601-8574"
+phone: +1-801-601-8574
 opening_hours: ""
-website: "https://autoforzamotors.com/"
+website: https://autoforzamotors.com/

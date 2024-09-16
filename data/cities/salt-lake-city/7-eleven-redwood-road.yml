@@ -1,11 +1,11 @@
 id: 156015699
-type: way
+type: node
 latitude: 40.77996
 longitude: -111.93896
 postcode: "84116"
 city: Salt Lake City
-street: "Redwood Road"
-housenumber: 490
-phone: "+1 801-596-7238"
+street: Redwood Road
+housenumber: "490"
+phone: +1 801-596-7238
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ut/salt-lake-city/490-north-redwood-rd-17122"
+website: https://www.7-eleven.com/locations/ut/salt-lake-city/490-north-redwood-rd-17122

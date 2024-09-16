@@ -1,11 +1,11 @@
 id: 1081140748
-type: way
+type: node
 latitude: 41.26702
 longitude: -111.96813
 postcode: "84404"
 city: Ogden
-street: "North Washington Boulevard"
-housenumber: 416
+street: North Washington Boulevard
+housenumber: "416"
 phone: "+13854924424"
 opening_hours: ""
 website: ""

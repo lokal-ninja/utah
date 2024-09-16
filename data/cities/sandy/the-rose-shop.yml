@@ -1,11 +1,11 @@
 id: 240857658
-type: way
+type: node
 latitude: 40.5564
 longitude: -111.83706
 postcode: "84092"
 city: Sandy
-street: "East Dimple Dell Road"
-housenumber: 1910
+street: East Dimple Dell Road
+housenumber: "1910"
 phone: ""
 opening_hours: ""
 website: ""

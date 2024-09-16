@@ -4,8 +4,8 @@ latitude: 40.72559
 longitude: -111.86511
 postcode: "84106"
 city: Salt Lake City
-street: "East 2100 South"
-housenumber: 905
+street: East 2100 South
+housenumber: "905"
 phone: ""
-opening_hours: "Mo-Th 11:00-20:00; Fr-Sa 11:00-22:00"
-website: "https://www.beardpapas.com/"
+opening_hours: Mo-Th 11:00-20:00; Fr-Sa 11:00-22:00
+website: https://www.beardpapas.com/

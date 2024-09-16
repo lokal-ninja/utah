@@ -1,11 +1,11 @@
 id: 462959577
-type: way
+type: node
 latitude: 40.52283
 longitude: -111.94297
 postcode: "84065"
 city: Riverton
-street: "12600 South"
+street: 12600 South
 housenumber: 1920 W
-phone: "+1-801-446-1470"
-opening_hours: "Mo-Sa 07:30-22:00; Su 09:00-20:00"
-website: "https://locations.oreillyauto.com/ut/riverton/autoparts-3606.html"
+phone: +1-801-446-1470
+opening_hours: Mo-Sa 07:30-22:00; Su 09:00-20:00
+website: https://locations.oreillyauto.com/ut/riverton/autoparts-3606.html

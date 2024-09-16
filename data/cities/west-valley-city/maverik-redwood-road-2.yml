@@ -1,11 +1,11 @@
 id: 1177471998
-type: way
+type: node
 latitude: 40.72327
 longitude: -111.93755
 postcode: "84119"
 city: West Valley City
-street: "Redwood Road"
+street: Redwood Road
 housenumber: 2175 S
-phone: "+1-801-972-7023"
-opening_hours: "24/7"
-website: "https://loyalty.maverik.com/locations/map"
+phone: +1-801-972-7023
+opening_hours: 24/7
+website: https://loyalty.maverik.com/locations/map

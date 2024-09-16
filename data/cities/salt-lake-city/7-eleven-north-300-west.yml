@@ -1,11 +1,11 @@
 id: 415615784
-type: way
+type: node
 latitude: 40.78076
 longitude: -111.90037
-postcode: "84103-1306"
+postcode: 84103-1306
 city: Salt Lake City
-street: "North 300 West"
-housenumber: 515
-phone: "+1 801-521-7147"
+street: North 300 West
+housenumber: "515"
+phone: +1 801-521-7147
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ut/salt-lake-city/515-north-300-west-24075"
+website: https://www.7-eleven.com/locations/ut/salt-lake-city/515-north-300-west-24075

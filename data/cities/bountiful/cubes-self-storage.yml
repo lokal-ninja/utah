@@ -1,11 +1,11 @@
 id: 1244779015
-type: way
+type: node
 latitude: 40.88257
 longitude: -111.88815
 postcode: "84010"
 city: Bountiful
-street: "South 200 West"
-housenumber: 620
+street: South 200 West
+housenumber: "620"
 phone: ""
 opening_hours: ""
 website: ""

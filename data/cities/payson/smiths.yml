@@ -1,11 +1,11 @@
 id: 466219502
-type: way
+type: node
 latitude: 40.03393
 longitude: -111.73536
 postcode: "84651"
 city: Payson
-street: "South 100 West"
-housenumber: 632
-phone: "+1 801-465-9213"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/ut/payson/632-s-100-w-payson-ut/706/00075"
+street: South 100 West
+housenumber: "632"
+phone: +1 801-465-9213
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.smithsfoodanddrug.com/stores/grocery/ut/payson/632-s-100-w-payson-ut/706/00075

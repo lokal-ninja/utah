@@ -1,11 +1,11 @@
 id: 102041407
-type: way
+type: node
 latitude: 40.65681
 longitude: -111.50641
 postcode: "84060"
 city: Park City
-street: "Park Avenue"
-housenumber: 1600
+street: Park Avenue
+housenumber: "1600"
 phone: ""
 opening_hours: ""
 website: ""

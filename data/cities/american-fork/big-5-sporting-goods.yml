@@ -4,8 +4,8 @@ latitude: 40.37769
 longitude: -111.81795
 postcode: "84003"
 city: American Fork
-street: "North 700 West"
-housenumber: 45
+street: North 700 West
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Th 10:00-20:30; Fr 09:30-21:00; Sa 09:00-20:30; Su 10:00-19:00"
-website: "https://www.big5sportinggoods.com/store/index.jsp"
+opening_hours: Mo-Th 10:00-20:30; Fr 09:30-21:00; Sa 09:00-20:30; Su 10:00-19:00
+website: https://www.big5sportinggoods.com/store/index.jsp

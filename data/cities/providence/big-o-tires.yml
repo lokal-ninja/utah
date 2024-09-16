@@ -1,11 +1,11 @@
 id: 1010834314
-type: way
+type: node
 latitude: 41.70419
 longitude: -111.83413
 postcode: "84332"
 city: Providence
-street: "South Highway 165"
-housenumber: 218
+street: South Highway 165
+housenumber: "218"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,10 +1,10 @@
 id: 987812680
-type: way
+type: node
 latitude: 40.7339
 longitude: -111.91882
 postcode: "84104"
 city: Salt Lake City
-street: "1700 South"
+street: 1700 South
 housenumber: 970 W
 phone: ""
 opening_hours: ""

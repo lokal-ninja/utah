@@ -1,11 +1,11 @@
 id: 465102502
-type: way
+type: node
 latitude: 40.54142
 longitude: -111.89601
 postcode: "84020"
 city: Draper
-street: "Lone Peak Parkway"
-housenumber: 11535
-phone: "+1 801 553 5880"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
-website: "https://www.karlmalonesbodyandpaint.com/"
+street: Lone Peak Parkway
+housenumber: "11535"
+phone: +1 801 553 5880
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
+website: https://www.karlmalonesbodyandpaint.com/

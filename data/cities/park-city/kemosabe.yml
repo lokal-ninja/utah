@@ -1,11 +1,11 @@
 id: 227967878
-type: way
+type: node
 latitude: 40.64206
 longitude: -111.49438
 postcode: "84060"
 city: Park City
-street: "Main Street"
-housenumber: 268
+street: Main Street
+housenumber: "268"
 phone: ""
 opening_hours: ""
 website: ""

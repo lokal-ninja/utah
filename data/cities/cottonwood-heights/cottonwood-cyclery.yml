@@ -1,11 +1,11 @@
 id: 677312645
-type: way
+type: node
 latitude: 40.60998
 longitude: -111.81804
 postcode: "84121"
 city: Cottonwood Heights
-street: "Bengal Boulevard"
-housenumber: 2594
+street: Bengal Boulevard
+housenumber: "2594"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 39283470
-type: way
+type: node
 latitude: 40.75364
 longitude: -111.91307
 postcode: ""
 city: Salt Lake City
-street: "700 South"
-housenumber: 743
+street: 700 South
+housenumber: "743"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

@@ -2,10 +2,10 @@ id: 9606071802
 type: node
 latitude: 41.7281
 longitude: -111.83404
-postcode: "84321-5202"
+postcode: 84321-5202
 city: Logan
-street: "Main Street"
-housenumber: 190
-phone: "+1 435-752-2040"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-21:00"
-website: "https://stores.joann.com/ut/logan/1752/"
+street: Main Street
+housenumber: "190"
+phone: +1 435-752-2040
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-21:00
+website: https://stores.joann.com/ut/logan/1752/

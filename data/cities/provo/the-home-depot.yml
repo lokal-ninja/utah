@@ -1,11 +1,11 @@
 id: 88621110
-type: way
+type: node
 latitude: 40.21206
 longitude: -111.65994
 postcode: "84601"
 city: Provo
-street: "South University Avenue"
-housenumber: 1550
-phone: "+1 801-418-1014"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/provo/ut/provo/84601/4416"
+street: South University Avenue
+housenumber: "1550"
+phone: +1 801-418-1014
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/provo/ut/provo/84601/4416

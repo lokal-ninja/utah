@@ -1,11 +1,11 @@
 id: 995025701
-type: way
+type: node
 latitude: 41.773
 longitude: -111.83292
 postcode: "84341"
 city: North Logan
-street: "North Main Street"
-housenumber: 2250
+street: North Main Street
+housenumber: "2250"
 phone: ""
 opening_hours: ""
 website: ""

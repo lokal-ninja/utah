@@ -1,11 +1,11 @@
 id: 1233588177
-type: way
+type: node
 latitude: 40.28309
 longitude: -111.65826
 postcode: "84604"
 city: Provo
-street: "North University Avenue"
-housenumber: 3700
+street: North University Avenue
+housenumber: "3700"
 phone: ""
 opening_hours: ""
 website: ""

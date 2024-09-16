@@ -4,8 +4,8 @@ latitude: 40.75698
 longitude: -111.87314
 postcode: "84102"
 city: Salt Lake City
-street: "500 South"
-housenumber: 602
-phone: "+1-801-359-0459"
-opening_hours: "Mo-Sa 11:00-18:00; Su 12:00-18:00"
-website: "https://www.williams-sonoma.com/stores/us/ut/salt-lake-city-trolley-square/"
+street: 500 South
+housenumber: "602"
+phone: +1-801-359-0459
+opening_hours: Mo-Sa 11:00-18:00; Su 12:00-18:00
+website: https://www.williams-sonoma.com/stores/us/ut/salt-lake-city-trolley-square/

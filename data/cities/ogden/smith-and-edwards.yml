@@ -1,11 +1,11 @@
 id: 46906671
-type: way
+type: node
 latitude: 41.33494
 longitude: -112.03434
 postcode: "84404"
 city: Ogden
-street: "2000 West"
-housenumber: 3696
-phone: "+1 801-731-1120"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su off"
+street: 2000 West
+housenumber: "3696"
+phone: +1 801-731-1120
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su off
 website: ""

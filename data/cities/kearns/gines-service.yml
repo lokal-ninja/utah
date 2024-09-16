@@ -1,11 +1,11 @@
 id: 965257141
-type: way
+type: node
 latitude: 40.65256
 longitude: -111.99266
 postcode: "84118"
 city: Kearns
-street: "West 5415 South"
-housenumber: 4261
-phone: "+1 801-966-6021"
+street: West 5415 South
+housenumber: "4261"
+phone: +1 801-966-6021
 opening_hours: ""
-website: "https://www.ginesautoservice.com/"
+website: https://www.ginesautoservice.com/

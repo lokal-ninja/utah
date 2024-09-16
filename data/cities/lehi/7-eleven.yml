@@ -1,11 +1,11 @@
 id: 96766913
-type: way
+type: node
 latitude: 40.38775
 longitude: -111.83502
 postcode: "84043"
 city: Lehi
-street: "South 850 East"
-housenumber: 47
+street: South 850 East
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

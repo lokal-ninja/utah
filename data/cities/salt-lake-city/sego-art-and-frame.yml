@@ -1,10 +1,10 @@
 id: 463198106
-type: way
+type: node
 latitude: 40.76307
 longitude: -111.87655
 postcode: "84102"
 city: Salt Lake City
-street: "300 South"
+street: 300 South
 housenumber: 500 E
 phone: ""
 opening_hours: ""

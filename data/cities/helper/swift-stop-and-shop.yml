@@ -1,11 +1,11 @@
 id: 1134418907
-type: way
+type: node
 latitude: 39.69175
 longitude: -110.859
 postcode: "84526"
 city: Helper
-street: "North Main Street"
-housenumber: 190
+street: North Main Street
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

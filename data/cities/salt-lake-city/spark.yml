@@ -4,8 +4,8 @@ latitude: 40.7566
 longitude: -111.87185
 postcode: "84102"
 city: Salt Lake City
-street: "500 South"
-housenumber: 602
-phone: "+1-801-467-1574"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-17:00"
-website: "https://www.trolleysquare.com/spark"
+street: 500 South
+housenumber: "602"
+phone: +1-801-467-1574
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-17:00
+website: https://www.trolleysquare.com/spark

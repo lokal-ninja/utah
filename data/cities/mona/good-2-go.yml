@@ -1,11 +1,11 @@
 id: 739471493
-type: way
+type: node
 latitude: 39.82204
 longitude: -111.83549
 postcode: "84645"
 city: Mona
-street: "East Highway 54"
-housenumber: 1063
+street: East Highway 54
+housenumber: "1063"
 phone: ""
-opening_hours: "Mo-Su 05:00-23:00"
+opening_hours: Mo-Su 05:00-23:00
 website: ""

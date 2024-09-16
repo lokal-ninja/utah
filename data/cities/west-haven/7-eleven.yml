@@ -1,11 +1,11 @@
 id: 1176123899
-type: way
+type: node
 latitude: 41.22933
 longitude: -112.02483
 postcode: "84401"
 city: West Haven
-street: "West Wilson Lane"
-housenumber: 1900
+street: West Wilson Lane
+housenumber: "1900"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 613455965
-type: way
+type: node
 latitude: 40.45633
 longitude: -109.51869
 postcode: "84078"
 city: Vernal
-street: "East Main Street"
-housenumber: 501
-phone: "+1 435-789-6478"
+street: East Main Street
+housenumber: "501"
+phone: +1 435-789-6478
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ut/vernal/501-east-main-25824"
+website: https://www.7-eleven.com/locations/ut/vernal/501-east-main-25824

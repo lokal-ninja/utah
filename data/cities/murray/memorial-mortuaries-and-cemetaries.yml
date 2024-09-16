@@ -1,11 +1,11 @@
 id: 1116977811
-type: way
+type: node
 latitude: 40.64529
 longitude: -111.86695
 postcode: "84121"
 city: Murray
-street: "900 East"
-housenumber: 5850
-phone: "+1 801-262-4631"
+street: 900 East
+housenumber: "5850"
+phone: +1 801-262-4631
 opening_hours: ""
-website: "https://memorialutah.com/"
+website: https://memorialutah.com/

@@ -1,11 +1,11 @@
 id: 998724116
-type: way
+type: node
 latitude: 41.72875
 longitude: -111.86081
 postcode: "84321"
 city: Logan
-street: "West 200 South"
-housenumber: 1031
+street: West 200 South
+housenumber: "1031"
 phone: ""
 opening_hours: ""
 website: ""

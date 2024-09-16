@@ -1,11 +1,11 @@
 id: 81575911
-type: way
+type: node
 latitude: 40.38424
 longitude: -111.81913
 postcode: "84003"
 city: American Fork
-street: "West Grasslands Drive"
-housenumber: 763
-phone: "+1 801-763-8321"
+street: West Grasslands Drive
+housenumber: "763"
+phone: +1 801-763-8321
 opening_hours: ""
-website: "https://stores.bestbuy.com/ut/american-fork/763-w-grasslands-dr-1402.html"
+website: https://stores.bestbuy.com/ut/american-fork/763-w-grasslands-dr-1402.html

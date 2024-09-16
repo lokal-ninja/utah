@@ -4,8 +4,8 @@ latitude: 40.27462
 longitude: -111.70046
 postcode: "84058"
 city: Orem
-street: "West University Parkway"
-housenumber: 222
-phone: "+1 801-434-4111"
-opening_hours: "Mo-Th 09:30-23:00; Fr-Sa 09:00-24:00; Su 10:00-22:00"
+street: West University Parkway
+housenumber: "222"
+phone: +1 801-434-4111
+opening_hours: Mo-Th 09:30-23:00; Fr-Sa 09:00-24:00; Su 10:00-22:00
 website: ""

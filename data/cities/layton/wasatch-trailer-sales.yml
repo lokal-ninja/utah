@@ -1,11 +1,11 @@
 id: 482781919
-type: way
+type: node
 latitude: 41.04996
 longitude: -111.95811
 postcode: "84041"
 city: Layton
-street: "South Main Street"
-housenumber: 720
-phone: "+1-801-544-7575"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.wasatchtrailer.com/"
+street: South Main Street
+housenumber: "720"
+phone: +1-801-544-7575
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.wasatchtrailer.com/

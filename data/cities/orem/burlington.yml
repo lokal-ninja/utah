@@ -1,11 +1,11 @@
 id: 510891948
-type: way
+type: node
 latitude: 40.27243
 longitude: -111.68728
 postcode: "84058"
 city: Orem
-street: "East University Parkway"
-housenumber: 340
-phone: "+1 801-224-1700"
-opening_hours: "Mo-Th 09:00-22:30; Fr-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/ut/orem/186"
+street: East University Parkway
+housenumber: "340"
+phone: +1 801-224-1700
+opening_hours: Mo-Th 09:00-22:30; Fr-Sa 09:00-23:00; Su 09:00-22:00
+website: https://stores.burlington.com/ut/orem/186

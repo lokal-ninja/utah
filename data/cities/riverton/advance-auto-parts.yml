@@ -1,11 +1,11 @@
 id: 1090758174
-type: way
+type: node
 latitude: 40.52275
 longitude: -111.94798
 postcode: "84065"
 city: Riverton
-street: "2200 West"
+street: 2200 West
 housenumber: 12583 S
-phone: "+1-801-308-8164"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-17:00"
-website: "https://stores.advanceautoparts.com/ut/riverton/12583-s-2200-w"
+phone: +1-801-308-8164
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-17:00
+website: https://stores.advanceautoparts.com/ut/riverton/12583-s-2200-w

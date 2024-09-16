@@ -1,11 +1,11 @@
 id: 102605628
-type: way
+type: node
 latitude: 40.27444
 longitude: -111.69549
 postcode: "84058"
 city: Orem
-street: "West University Parkway"
-housenumber: 20
-phone: "+1 801-224-0026"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ut/orem-store0171.html"
+street: West University Parkway
+housenumber: "20"
+phone: +1 801-224-0026
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ut/orem-store0171.html

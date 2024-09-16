@@ -4,8 +4,8 @@ latitude: 40.70011
 longitude: -111.8045
 postcode: "84109"
 city: Salt Lake City
-street: "3300 South"
+street: 3300 South
 housenumber: 3131 E
-phone: "+1-801-312-9525"
-opening_hours: "Ski season only"
-website: "https://www.skinsee.com/locations/millcreek-utah"
+phone: +1-801-312-9525
+opening_hours: '"Ski season only"'
+website: https://www.skinsee.com/locations/millcreek-utah

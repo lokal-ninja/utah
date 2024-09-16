@@ -1,11 +1,11 @@
 id: 100075606
-type: way
+type: node
 latitude: 40.41596
 longitude: -111.77062
 postcode: "84062"
 city: Cedar Hills
-street: "West Cedar Hills Drive"
-housenumber: 4689
-phone: "+1 801-756-2372"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4689/cedar-hills-ut/whats-new"
+street: West Cedar Hills Drive
+housenumber: "4689"
+phone: +1 801-756-2372
+opening_hours: 24/7
+website: https://www.walmart.com/store/4689/cedar-hills-ut/whats-new

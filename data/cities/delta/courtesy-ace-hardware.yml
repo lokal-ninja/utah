@@ -1,11 +1,11 @@
 id: 1112763326
-type: way
+type: node
 latitude: 39.3518
 longitude: -112.5723
 postcode: "84624"
 city: Delta
-street: "Main Street"
-housenumber: 126
-phone: "+1 435-864-2784"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Main Street
+housenumber: "126"
+phone: +1 435-864-2784
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

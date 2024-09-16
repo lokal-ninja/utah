@@ -1,11 +1,11 @@
 id: 492231779
-type: way
+type: node
 latitude: 40.29822
 longitude: -111.66103
 postcode: "84604"
 city: Provo
-street: "North Edgewood Drive"
-housenumber: 4833
+street: North Edgewood Drive
+housenumber: "4833"
 phone: ""
 opening_hours: ""
 website: ""

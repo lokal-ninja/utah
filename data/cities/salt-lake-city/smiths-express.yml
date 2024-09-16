@@ -1,11 +1,11 @@
 id: 523183148
-type: way
+type: node
 latitude: 40.72725
 longitude: -111.86022
 postcode: "84105"
 city: Salt Lake City
-street: "1100 East"
-housenumber: 1974
+street: 1100 East
+housenumber: "1974"
 phone: ""
 opening_hours: ""
 website: ""

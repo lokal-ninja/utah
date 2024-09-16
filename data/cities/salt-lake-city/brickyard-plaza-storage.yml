@@ -1,11 +1,11 @@
 id: 610359855
-type: way
+type: node
 latitude: 40.70099
 longitude: -111.85994
 postcode: "84106"
 city: Salt Lake City
-street: "1100 East"
-housenumber: 3218
+street: 1100 East
+housenumber: "3218"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 587795010
-type: way
+type: node
 latitude: 40.75018
 longitude: -111.86279
 postcode: "84105"
 city: Salt Lake City
-street: "900 South"
-housenumber: 989
-phone: "+1-801-364-0344"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su off"
-website: "https://contenderbicycles.com/"
+street: 900 South
+housenumber: "989"
+phone: +1-801-364-0344
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su off
+website: https://contenderbicycles.com/

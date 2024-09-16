@@ -1,11 +1,11 @@
 id: 228329151
-type: way
+type: node
 latitude: 40.35255
 longitude: -111.76998
 postcode: "84062"
 city: Pleasant Grove
-street: "West Grove Parkway"
-housenumber: 2111
+street: West Grove Parkway
+housenumber: "2111"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

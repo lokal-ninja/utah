@@ -1,11 +1,11 @@
 id: 427236814
-type: way
+type: node
 latitude: 37.68078
 longitude: -113.06163
 postcode: "84720"
 city: Cedar City
-street: "North Main Street"
-housenumber: 198
-phone: "+1-435-867-4215"
+street: North Main Street
+housenumber: "198"
+phone: +1-435-867-4215
 opening_hours: ""
-website: "https://ensignal.com/"
+website: https://ensignal.com/

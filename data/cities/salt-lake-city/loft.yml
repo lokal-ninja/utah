@@ -4,8 +4,8 @@ latitude: 40.76804
 longitude: -111.89276
 postcode: "84101"
 city: Salt Lake City
-street: "Main Street"
-housenumber: 50
-phone: "+1-801-521-4307"
-opening_hours: "Mo-Sa 11:00-18:00; Su 12:00-17:00"
-website: "https://stores.loft.com/us/ut/salt-lake-city/50-s-main-street.html"
+street: Main Street
+housenumber: "50"
+phone: +1-801-521-4307
+opening_hours: Mo-Sa 11:00-18:00; Su 12:00-17:00
+website: https://stores.loft.com/us/ut/salt-lake-city/50-s-main-street.html

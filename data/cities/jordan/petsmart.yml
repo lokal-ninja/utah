@@ -1,11 +1,11 @@
 id: 315395622
-type: way
+type: node
 latitude: 40.61212
 longitude: -111.98262
 postcode: "84084"
 city: Jordan
-street: "South Campus View Drive"
-housenumber: 7654
-phone: "+1 801-280-0099"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ut/west-jordan-store1784.html"
+street: South Campus View Drive
+housenumber: "7654"
+phone: +1 801-280-0099
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ut/west-jordan-store1784.html

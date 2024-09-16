@@ -4,8 +4,8 @@ latitude: 37.10916
 longitude: -113.56575
 postcode: "84770"
 city: Saint George
-street: "N 800 E #5"
-housenumber: 64
-phone: "+1 435 652 8998"
+street: 'N 800 E #5'
+housenumber: "64"
+phone: +1 435 652 8998
 opening_hours: ""
-website: "https://stgeorgeflowermarket.com/"
+website: https://stgeorgeflowermarket.com/

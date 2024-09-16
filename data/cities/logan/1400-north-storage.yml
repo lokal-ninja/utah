@@ -1,11 +1,11 @@
 id: 1042329989
-type: way
+type: node
 latitude: 41.75763
 longitude: -111.84596
 postcode: "84341"
 city: Logan
-street: "West 1400 North"
-housenumber: 450
-phone: "(435) 753-5072"
+street: West 1400 North
+housenumber: "450"
+phone: (435) 753-5072
 opening_hours: ""
-website: "https://www.1400northstorage.com/"
+website: https://www.1400northstorage.com/

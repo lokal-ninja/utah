@@ -1,11 +1,11 @@
 id: 746304707
-type: way
+type: node
 latitude: 41.08978
 longitude: -112.06428
 postcode: "84075"
 city: Syracuse
-street: "West 1700 South"
-housenumber: 1982
+street: West 1700 South
+housenumber: "1982"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/syracuse-ut-pharmacies/1982-west-1700-south-syracuse-ut-84075/storeid=10927"
+website: https://www.cvs.com/store-locator/syracuse-ut-pharmacies/1982-west-1700-south-syracuse-ut-84075/storeid=10927

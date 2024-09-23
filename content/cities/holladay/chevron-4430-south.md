@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /holladay/chevron-4500-south/
+url: /holladay/chevron-4430-south/
 shop: convenience
 ---

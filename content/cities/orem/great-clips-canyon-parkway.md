@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /orem/great-clips-east-800-north/
+url: /orem/great-clips-canyon-parkway/
 shop: hairdresser
 ---

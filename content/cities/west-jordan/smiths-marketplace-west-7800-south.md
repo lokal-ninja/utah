@@ -1,5 +1,5 @@
 ---
 title: "Smith's Marketplace"
-url: /bountiful/smiths-marketplace/
+url: /west-jordan/smiths-marketplace-west-7800-south/
 shop: supermarket
 ---

@@ -3,9 +3,9 @@ type: node
 latitude: 40.70036
 longitude: -111.80561
 postcode: "84109"
-city: Salt Lake City
-street: 3300 South
-housenumber: 3119 E
+city: Salt Lake City;Millcreek
+street: 3300 South;East 3300 South
+housenumber: 3119 E;3119
 phone: +1-801-487-8600
 opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
 website: https://www.milosport.com/

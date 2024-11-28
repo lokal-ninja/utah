@@ -3,9 +3,9 @@ type: node
 latitude: 40.70031
 longitude: -111.84796
 postcode: "84106"
-city: Salt Lake City
-street: 3300 South
-housenumber: 1521 E
+city: Salt Lake City;Millcreek
+street: 3300 South;East 3300 South
+housenumber: 1521 E;1521
 phone: ""
 opening_hours: ""
 website: ""

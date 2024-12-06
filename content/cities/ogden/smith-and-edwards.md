@@ -1,5 +1,5 @@
 ---
-title: "Smith and Edwards"
+title: "Smith & Edwards"
 url: /ogden/smith-and-edwards/
-shop: doityourself
+shop: department store
 ---

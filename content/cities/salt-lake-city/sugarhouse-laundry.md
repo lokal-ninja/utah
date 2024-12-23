@@ -1,0 +1,5 @@
+---
+title: "Sugarhouse Laundry"
+url: /salt-lake-city/sugarhouse-laundry/
+shop: laundry
+---

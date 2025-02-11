@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /layton/atandt-north-main-street/
+url: /layton/atandt-ring-road/
 shop: mobile phone
 ---

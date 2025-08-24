@@ -1,5 +1,5 @@
 ---
 title: "Beehive Distilling (store)"
-url: /salt-lake-city/beehive-distilling-store/
+url: /south-salt-lake/beehive-distilling-store/
 shop: alcohol
 ---

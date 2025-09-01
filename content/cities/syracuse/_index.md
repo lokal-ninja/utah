@@ -1,6 +1,6 @@
 ---
 title: Syracuse
 url: /syracuse/
-latitude: 41.088
-longitude: -112.067
+latitude: 41.09
+longitude: -112.065
 ---

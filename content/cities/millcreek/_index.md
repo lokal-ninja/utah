@@ -1,6 +1,6 @@
 ---
 title: Millcreek
 url: /millcreek/
-latitude: 40.7
-longitude: -111.87
+latitude: 40.701
+longitude: -111.804
 ---

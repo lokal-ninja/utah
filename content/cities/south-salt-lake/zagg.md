@@ -1,5 +1,5 @@
 ---
 title: "Zagg"
-url: /salt-lake-city/zagg/
+url: /south-salt-lake/zagg/
 shop: mobile phone
 ---

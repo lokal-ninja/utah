@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /moab/7-eleven-north-main-street/
+url: /ogden/7-eleven-harrison-boulevard/
 shop: convenience
 ---

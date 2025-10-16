@@ -7,5 +7,6 @@ city: Salt Lake City
 street: 900 South
 housenumber: 165E
 phone: ""
-opening_hours: Mo-Fr 08:00-17:00; Sa-Su 09:00-17:00
+opening_hours: 'Mo-Fr 08:00-17:00; Sa-Su 09:00-17:00; Oct-Apr: Tu off; Oct-Apr: Mo,
+    We, Th 08:00-16:00; Oct-Apr: Fr-Su 08:00-17:00'
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.74955
 longitude: -111.89564
 postcode: "84101"
 city: Salt Lake City
-street: 900 South
-housenumber: 161 W
+street: West 900 South
+housenumber: "161"
 phone: ""
-opening_hours: Mo 08:00-21:00, Tu-Th 08:00-18:00; Fr-Sa 08:00-22:00; Su 09:00-22:00
+opening_hours: Mo 08:00-21:00; Tu-Sa 08:00-18:00; Su 09:00-17:00
 website: ""

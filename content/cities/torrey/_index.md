@@ -1,6 +1,6 @@
 ---
 title: Torrey
 url: /torrey/
-latitude: 38.3
-longitude: -111.431
+latitude: 38.299
+longitude: -111.402
 ---

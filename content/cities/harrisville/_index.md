@@ -1,6 +1,6 @@
 ---
 title: Harrisville
 url: /harrisville/
-latitude: 41.27
-longitude: -111.974
+latitude: 41.278
+longitude: -111.983
 ---

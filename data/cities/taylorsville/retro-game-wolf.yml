@@ -7,5 +7,5 @@ city: Taylorsville
 street: Redwood Road
 housenumber: "6357"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,We,Th 12:00-20:00; Tu 12:00-22:00; Fr-Sa 12:00-21:00; Su 12:00-18:00
 website: https://retrogamewolf.com/

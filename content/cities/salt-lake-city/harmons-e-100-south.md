@@ -1,5 +1,5 @@
 ---
 title: "Harmons"
-url: /salt-lake-city/harmons-s-1300-east/
+url: /salt-lake-city/harmons-e-100-south/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fiiz Drinks"
-url: /bountiful/fiiz-drinks-east-200-south/
+url: /bountiful/fiiz-drinks-west-400-north/
 shop: beverages
 ---

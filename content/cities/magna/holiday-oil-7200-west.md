@@ -1,5 +1,5 @@
 ---
 title: "Holiday Oil"
-url: /magna/holiday-oil-8400-west/
+url: /magna/holiday-oil-7200-west/
 shop: convenience
 ---

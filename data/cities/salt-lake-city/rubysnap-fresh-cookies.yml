@@ -7,5 +7,5 @@ city: Salt Lake City
 street: South 300 West
 housenumber: "770"
 phone: +1 801-834-6111
-opening_hours: Mo-Sa 08:00-19:00
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-19:00
 website: https://rubysnap.com/

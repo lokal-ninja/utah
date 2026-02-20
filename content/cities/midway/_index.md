@@ -1,6 +1,6 @@
 ---
 title: Midway
 url: /midway/
-latitude: 40.513
-longitude: -111.464
+latitude: 40.512
+longitude: -111.476
 ---

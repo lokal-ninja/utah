@@ -1,5 +1,5 @@
 ---
 title: "The Forest"
-url: /springville/the-forest/
+url: /murray/the-forest/
 shop: cannabis
 ---

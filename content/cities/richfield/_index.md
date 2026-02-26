@@ -1,6 +1,6 @@
 ---
 title: Richfield
 url: /richfield/
-latitude: 38.77
+latitude: 38.752
 longitude: -112.085
 ---

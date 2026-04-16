@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
-url: /west-jordan/maverik-9000/
+url: /midvale/maverik-south-main-street/
 shop: convenience
 ---

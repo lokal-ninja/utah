@@ -1,6 +1,6 @@
 ---
 title: Santa Clara
 url: /santa-clara/
-latitude: 37.139
-longitude: -113.66
+latitude: 37.132
+longitude: -113.651
 ---

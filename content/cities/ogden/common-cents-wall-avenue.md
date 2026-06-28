@@ -1,5 +1,5 @@
 ---
 title: "Common Cents"
-url: /ogden/common-cents-south-wall-avenue/
+url: /ogden/common-cents-wall-avenue/
 shop: convenience
 ---

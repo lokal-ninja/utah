@@ -1,6 +1,6 @@
 ---
 title: Ivins
 url: /ivins/
-latitude: 37.185
+latitude: 37.184
 longitude: -113.707
 ---

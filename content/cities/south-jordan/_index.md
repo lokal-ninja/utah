@@ -1,6 +1,6 @@
 ---
 title: South Jordan
 url: /south-jordan/
-latitude: 40.542
-longitude: -111.981
+latitude: 40.543
+longitude: -111.978
 ---
